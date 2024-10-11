@@ -7,6 +7,7 @@ on:
 jobs:
   send_xkcd:
     runs-on: ubuntu-latest
+    environment: production  # Specify the environment here
 
     steps:
       - name: Checkout repository
