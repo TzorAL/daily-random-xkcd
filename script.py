@@ -55,6 +55,7 @@ def fetch_random_comic():
 
 def send_email(subject, body, to_email, smtp_server, smtp_port, email_address, email_password):
     """Send an email with the specified subject and body."""
+    print(f"Sending email to: {to_email}")  # Debugging line
     msg = MIMEMultipart()
     msg['From'] = email_address
     msg['To'] = to_email
@@ -67,8 +68,9 @@ def send_email(subject, body, to_email, smtp_server, smtp_port, email_address, e
             server.starttls()  # Secure the connection
             server.login(email_address, email_password)
             server.send_message(msg)
+            print("Email sent successfully!")  # Debugging line
     except Exception as e:
-        print(f"Failed to send email: {e}")
+        print(f"Failed to send email: {e}")  # Print any errors that occur
 
 def main():
     # Fetch a random unseen comic
@@ -86,6 +88,13 @@ def main():
 
     # Send the email
     send_email(subject, body, to_email, smtp_server, smtp_port, to_email, email_password)
+
+    # Commit and push the seen_comics.json file
+    os.system("git config --global user.email 'your-email@example.com'")  # Use your email
+    os.system("git config --global user.name 'Your Name'")  # Use your name
+    os.system("git add seen_comics.json")
+    os.system("git commit -m 'Update seen comics'")
+    os.system("git push origin main")
 
 if __name__ == '__main__':
     main()
