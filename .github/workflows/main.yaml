@@ -1,35 +1,35 @@
-name: Generate xkcd RSS Feed
+name: Update xkcd RSS Feed
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # Runs daily at 09:00 UTC
-  workflow_dispatch:  # Allows manual trigger of the workflow
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
-  generate_feed:
+  update_rss:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      
+      - name: Checkout code
+        uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: |
-          pip install requests
-      
-      - name: Generate RSS feed
-        run: |
-          python generate_rss.py
-      
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run script
+        run: python generate_rss.py
+
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add xkcd_feed.xml seen_comics.json
+          git add xkcd_feed.xml
           git commit -m "Update RSS feed" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
