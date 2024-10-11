@@ -5,22 +5,22 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Heartbleed</title>
-      <link>https://xkcd.com/1353/</link>
+      <title>Model Rail</title>
+      <link>https://xkcd.com/878/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
             <h2 style="color: #2c3e50;">📢 New xkcd Comic Released!</h2>
-            <h3>Heartbleed</h3>
+            <h3>Model Rail</h3>
             <p style="margin: 10px 0;">Check out the latest xkcd comic below:</p>
-            <a href="https://xkcd.com/1353/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/heartbleed.png" alt="I looked at some of the data dumps from vulnerable sites, and it was ... bad. I saw emails, passwords, password hints. SSL keys and session cookies. Important servers brimming with visitor IPs. Attack ships on fire off the shoulder of Orion, c-beams glittering in the dark near the Tannhäuser Gate. I should probably patch OpenSSL." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
-            <p style="font-style: italic; color: #666;">I looked at some of the data dumps from vulnerable sites, and it was ... bad. I saw emails, passwords, password hints. SSL keys and session cookies. Important servers brimming with visitor IPs. Attack ships on fire off the shoulder of Orion, c-beams glittering in the dark near the Tannhäuser Gate. I should probably patch OpenSSL.</p>
+            <a href="https://xkcd.com/878/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/model_rail.png" alt="I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.</p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1353/</guid>
-      <pubDate>2014-4-9</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/878/</guid>
+      <pubDate>2011-3-28</pubDate>
     </item>
   </channel>
 </rss>
