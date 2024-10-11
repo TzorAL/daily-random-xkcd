@@ -81,7 +81,7 @@ def main():
     body = f'<h1>{title}</h1><img src="{img_url}" alt="{alt_text}"><p>{alt_text}</p>'
 
     # Email credentials and settings
-    to_email = os.environ['EMAIL_ADDRESS']
+    to_email = os.environ['EMAIL_ADDRESS']  # Your email address to send to
     smtp_server = os.environ['SMTP_SERVER']
     smtp_port = os.environ['SMTP_PORT']
     email_password = os.environ['EMAIL_PASSWORD']
@@ -90,8 +90,9 @@ def main():
     send_email(subject, body, to_email, smtp_server, smtp_port, to_email, email_password)
 
     # Commit and push the seen_comics.json file
-    os.system("git config --global user.email 'your-email@example.com'")  # Use your email
-    os.system("git config --global user.name 'Your Name'")  # Use your name
+    email_address = os.environ['EMAIL_ADDRESS']  # Get email address from secrets
+    os.system(f"git config --global user.email '{email_address}'")  # Use the email from secrets
+    os.system("git config --global user.name 'GitHub Actions'")  # Use a generic name
     os.system("git add seen_comics.json")
     os.system("git commit -m 'Update seen comics'")
     os.system("git push origin main")
