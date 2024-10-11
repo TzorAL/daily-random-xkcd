@@ -3,39 +3,16 @@ import random
 import requests
 import os
 
-# Load seen comics from JSON file
-def load_seen_comics():
-    # Check if seen_comics.json exists
-    if not os.path.exists('seen_comics.json'):
-        # If it does not exist, create an empty seen_comics.json file
-        with open('seen_comics.json', 'w') as file:
-            json.dump([], file)
-        return []
-    
-    # If it exists, load the seen comics
-    try:
-        with open('seen_comics.json', 'r') as file:
-            return json.load(file)
-    except json.JSONDecodeError:
-        return []
-
-# Save seen comics to JSON file
-def save_seen_comics(seen_comics):
-    with open('seen_comics.json', 'w') as file:
-        json.dump(seen_comics, file)
-
 # Fetch a random xkcd comic
 def fetch_random_comic():
     total_comics = 2544  # Update this number with the latest xkcd comic number
     comic_id = random.randint(1, total_comics)
     response = requests.get(f'https://xkcd.com/{comic_id}/info.0.json')
-    
-    # Ensure the comic is not already seen
-    seen_comics = load_seen_comics()
-    while comic_id in seen_comics:
-        comic_id = random.randint(1, total_comics)
-        response = requests.get(f'https://xkcd.com/{comic_id}/info.0.json')
-    
+
+    # Ensure the comic response is valid
+    if response.status_code != 200:
+        raise Exception("Failed to fetch comic")
+
     return response.json()
 
 # Generate RSS feed
@@ -72,9 +49,6 @@ def save_rss_to_file(rss_content):
 if __name__ == "__main__":
     rss_feed = generate_rss()
     save_rss_to_file(rss_feed)
-    
-    # Update the seen comics
-    seen_comics = load_seen_comics()
-    comic_data = json.loads(rss_feed).get('channel').get('item')[0]
-    seen_comics.append(comic_data['guid'])
-    save_seen_comics(seen_comics)
+
+    # Log the comic data for debugging
+    print(f"Generated RSS Feed:\n{rss_feed}")
