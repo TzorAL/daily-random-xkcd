@@ -1,106 +1,91 @@
+import os
+import json
 import random
 import requests
 import smtplib
-from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-import json
-import os
+from email.mime.multipart import MIMEMultipart
 
 # File to store the list of seen comics
 SEEN_COMICS_FILE = 'seen_comics.json'
 
-# Email configuration from environment variables
-EMAIL_ADDRESS = os.getenv('EMAIL_ADDRESS')
-EMAIL_PASSWORD = os.getenv('EMAIL_PASSWORD')
-SMTP_SERVER = os.getenv('SMTP_SERVER', 'smtp.gmail.com')
-SMTP_PORT = int(os.getenv('SMTP_PORT', '587'))
-TO_EMAIL = 'recipient-email@example.com'  # Update this to your recipient's email
+# Initialize seen_comics.json if it doesn't exist
+if not os.path.exists(SEEN_COMICS_FILE):
+    with open(SEEN_COMICS_FILE, 'w') as file:
+        json.dump([], file)  # Initialize with an empty list
 
-# Get the latest xkcd comic number
-def get_latest_comic_num():
-    latest_comic_url = "https://xkcd.com/info.0.json"
-    latest_comic = requests.get(latest_comic_url).json()
-    return latest_comic['num']
-
-# Load the list of seen comics from a file
 def load_seen_comics():
+    """Load the list of seen comics from the JSON file."""
     if os.path.exists(SEEN_COMICS_FILE):
-        with open(SEEN_COMICS_FILE, 'r') as file:
-            return json.load(file)
+        try:
+            with open(SEEN_COMICS_FILE, 'r') as file:
+                return json.load(file)
+        except json.JSONDecodeError:
+            return []  # Return an empty list if JSON is invalid
     else:
         return []
 
-# Save the list of seen comics to a file
 def save_seen_comics(seen_comics):
+    """Save the list of seen comics to the JSON file."""
     with open(SEEN_COMICS_FILE, 'w') as file:
         json.dump(seen_comics, file)
 
-# Get a random xkcd comic that hasn't been seen yet
-def get_random_unseen_comic():
-    latest_comic_num = get_latest_comic_num()
+def fetch_random_comic():
+    """Fetch a random xkcd comic."""
+    response = requests.get('https://xkcd.com/info.0.json')
+    total_comics = response.json()['num']
+    
     seen_comics = load_seen_comics()
+    unseen_comics = [i for i in range(total_comics + 1) if i not in seen_comics]
 
-    # If all comics have been seen, reset the seen list
-    if len(seen_comics) >= latest_comic_num:
+    if not unseen_comics:
+        # If all comics have been seen, reset the seen list
+        unseen_comics = list(range(total_comics + 1))
         seen_comics = []
 
-    # Create a list of unseen comics
-    unseen_comics = set(range(1, latest_comic_num + 1)) - set(seen_comics)
+    random_comic_id = random.choice(unseen_comics)
+    comic_url = f'https://xkcd.com/{random_comic_id}/info.0.json'
+    comic_response = requests.get(comic_url).json()
 
-    # Choose a random unseen comic
-    random_comic_num = random.choice(list(unseen_comics))
-    random_comic_url = f"https://xkcd.com/{random_comic_num}/info.0.json"
-    random_comic = requests.get(random_comic_url).json()
-
-    # Add the comic to the seen list and save the updated list
-    seen_comics.append(random_comic_num)
+    # Update the seen comics
+    seen_comics.append(random_comic_id)
     save_seen_comics(seen_comics)
 
-    return {
-        'title': random_comic['title'],
-        'img_url': random_comic['img'],
-        'alt_text': random_comic['alt'],
-        'comic_url': f"https://xkcd.com/{random_comic_num}"
-    }
+    return comic_response['title'], comic_response['img'], comic_response['alt']
 
-# Send the email with the random xkcd comic
-def send_email(comic):
-    # Set up the email content
-    message = MIMEMultipart("alternative")
-    message["Subject"] = f"Your Daily Random xkcd Comic: {comic['title']}"
-    message["From"] = EMAIL_ADDRESS
-    message["To"] = TO_EMAIL
+def send_email(subject, body, to_email, smtp_server, smtp_port, email_address, email_password):
+    """Send an email with the specified subject and body."""
+    msg = MIMEMultipart()
+    msg['From'] = email_address
+    msg['To'] = to_email
+    msg['Subject'] = subject
 
-    # HTML content for the email
-    html_content = f"""
-    <html>
-    <body>
-        <h1>{comic['title']}</h1>
-        <p>
-            <img src="{comic['img_url']}" alt="{comic['alt_text']}"/><br/>
-            <i>{comic['alt_text']}</i>
-        </p>
-        <p><a href="{comic['comic_url']}">View on xkcd</a></p>
-    </body>
-    </html>
-    """
+    msg.attach(MIMEText(body, 'html'))
 
-    # Attach the HTML content to the email
-    part = MIMEText(html_content, "html")
-    message.attach(part)
-
-    # Send the email using SMTP
     try:
-        server = smtplib.SMTP(SMTP_SERVER, SMTP_PORT)
-        server.starttls()
-        server.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
-        server.sendmail(EMAIL_ADDRESS, TO_EMAIL, message.as_string())
-        print(f"Email sent to {TO_EMAIL} successfully!")
+        with smtplib.SMTP(smtp_server, smtp_port) as server:
+            server.starttls()  # Secure the connection
+            server.login(email_address, email_password)
+            server.send_message(msg)
     except Exception as e:
         print(f"Failed to send email: {e}")
-    finally:
-        server.quit()
 
-# Main logic
-comic = get_random_unseen_comic()
-send_email(comic)
+def main():
+    # Fetch a random unseen comic
+    title, img_url, alt_text = fetch_random_comic()
+
+    # Prepare email content
+    subject = f"xkcd Comic: {title}"
+    body = f'<h1>{title}</h1><img src="{img_url}" alt="{alt_text}"><p>{alt_text}</p>'
+
+    # Email credentials and settings
+    to_email = os.environ['EMAIL_ADDRESS']
+    smtp_server = os.environ['SMTP_SERVER']
+    smtp_port = os.environ['SMTP_PORT']
+    email_password = os.environ['EMAIL_PASSWORD']
+
+    # Send the email
+    send_email(subject, body, to_email, smtp_server, smtp_port, to_email, email_password)
+
+if __name__ == '__main__':
+    main()
