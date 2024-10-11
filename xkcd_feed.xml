@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>xkcd Random Comic</title>
+    <link>https://xkcd.com/</link>
+    <description>Random xkcd comic</description>
+    <item>
+      <title>Henge</title>
+      <link>https://xkcd.com/1622/</link>
+      <description><![CDATA[<img src="https://imgs.xkcd.com/comics/henge.png" alt="I've got the Craigslist post ready to go! I wasn't sure what category it should go in, so I listed it as property and put that it has 'good sun exposure.'"/><br>I've got the Craigslist post ready to go! I wasn't sure what category it should go in, so I listed it as property and put that it has 'good sun exposure.']]></description>
+      <guid isPermaLink="true">https://xkcd.com/1622/</guid>
+      <pubDate>2015-12-28</pubDate>
+    </item>
+  </channel>
+</rss>
