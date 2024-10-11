@@ -3,6 +3,7 @@ name: Send Daily Random XKCD
 on:
   schedule:
     - cron: '0 8 * * *'  # Runs every day at 8 AM UTC
+  workflow_dispatch:  # This allows manual triggering of the workflow
 
 jobs:
   send_xkcd:
