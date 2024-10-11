@@ -58,5 +58,23 @@
       <guid isPermaLink="true">https://xkcd.com/2458/</guid>
       <pubDate>2021-5-3</pubDate>
     </item>
+    <item>
+      <title>Super Bowl</title>
+      <link>https://xkcd.com/60/</link>
+      <description>
+        <![CDATA[
+          <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
+            <h2 style="color: #2c3e50;">📢 New xkcd Comic Released!</h2>
+            <h3>Super Bowl</h3>
+            <p style="margin: 10px 0;">Check out the latest xkcd comic below:</p>
+            <a href="https://xkcd.com/60/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/super_bowl.jpg" alt="The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.</p>
+          </div>
+        ]]>
+      </description>
+      <guid isPermaLink="true">https://xkcd.com/60/</guid>
+      <pubDate>2006-2-6</pubDate>
+    </item>
     </channel>
 </rss>
