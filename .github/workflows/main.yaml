@@ -2,7 +2,7 @@ name: Update xkcd RSS Feed
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 5 * * *'  # Runs daily at 8:00 AM Greek time (UTC+3)
   workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
