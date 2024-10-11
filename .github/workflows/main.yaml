@@ -9,6 +9,9 @@ jobs:
   update_rss:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write  # Allow write access to the repository contents
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
