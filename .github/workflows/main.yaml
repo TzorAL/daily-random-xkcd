@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3.2.0  # Updated version
+        uses: actions/checkout@v3  # Use the latest stable version
 
       # Create seen_comics.json if it doesn't exist
       - name: Create seen_comics.json if missing
@@ -24,7 +24,7 @@ jobs:
           fi
 
       - name: Set up Python
-        uses: actions/setup-python@v4.1.0  # Updated version
+        uses: actions/setup-python@v4  # Use the latest stable version
         with:
           python-version: '3.10'
 
