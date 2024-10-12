@@ -17,6 +17,9 @@ This repository generates a daily random xkcd comic and serves it as an RSS feed
 5. The RSS feed is hosted on GitHub, allowing easy access for RSS.app.
 6. An RSS.app service monitors the RSS feed and sends an email whenever a new comic is detected.
 
+## RSS Feed
+The generated RSS feed can be accessed at the following URL: `https://raw.githubusercontent.com/{your_username}/daily-random-xkcd/main/xkcd_feed.xml`
+
 ## Setup Instructions
 1. **Fork this repository** to your own GitHub account.
 2. **Enable GitHub Actions** in your forked repository.
@@ -28,6 +31,7 @@ This repository generates a daily random xkcd comic and serves it as an RSS feed
 ## Files
 - `generate_rss.py`: Python script that fetches a random xkcd comic, tracks seen comics in `seen_comics.json`, and generates the RSS feed.
 - `seen_comics.json`: JSON file that stores the IDs of comics that have already been fetched to ensure they are not repeated.
+- `xkcd_feed.xml`: XML file that contains the RSS feed with the latest xkcd comic details.
 - `.github/workflows/main.yaml`: GitHub Actions workflow configuration that schedules the daily comic update and ensures persistence of seen comics.
 
 ## License
