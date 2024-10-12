@@ -5,22 +5,22 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Zealous Autoconfig</title>
-      <link>https://xkcd.com/416/</link>
+      <title>Think Logically</title>
+      <link>https://xkcd.com/1112/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
             <h2 style="color: #2c3e50;">📢 New xkcd Comic Released!</h2>
-            <h3>Zealous Autoconfig</h3>
+            <h3>Think Logically</h3>
             <p style="margin: 10px 0;">Check out the latest xkcd comic below:</p>
-            <a href="https://xkcd.com/416/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/zealous_autoconfig.png" alt="I hear this is an option in the latest Ubuntu release." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
-            <p style="font-style: italic; color: #666;">I hear this is an option in the latest Ubuntu release.</p>
+            <a href="https://xkcd.com/1112/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/think_logically.png" alt="I've developed a more logical set of rules but the people on the chess community have a bunch of stupid emotional biases and won't reply to my posts." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">I've developed a more logical set of rules but the people on the chess community have a bunch of stupid emotional biases and won't reply to my posts.</p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/416/</guid>
-      <pubDate>2008-4-28</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1112/</guid>
+      <pubDate>2012-9-24</pubDate>
     </item>
   </channel>
 </rss>
