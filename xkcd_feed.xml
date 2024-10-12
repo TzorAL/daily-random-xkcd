@@ -5,22 +5,22 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>No One Must Know</title>
-      <link>https://xkcd.com/515/</link>
+      <title>Weird Unicode Math Symbols</title>
+      <link>https://xkcd.com/2606/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
             <h2 style="color: #2c3e50;">📢 New xkcd Comic Released!</h2>
-            <h3>No One Must Know</h3>
+            <h3>Weird Unicode Math Symbols</h3>
             <p style="margin: 10px 0;">Check out the latest xkcd comic below:</p>
-            <a href="https://xkcd.com/515/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/no_one_must_know.png" alt="Or perhaps they knew he was there, and were just trying to torment him first." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
-            <p style="font-style: italic; color: #666;">Or perhaps they knew he was there, and were just trying to torment him first.</p>
+            <a href="https://xkcd.com/2606/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png" alt="U+2A0B ⨋ Mathematicians need to calm down" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">U+2A0B ⨋ Mathematicians need to calm down</p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/515/</guid>
-      <pubDate>2008-12-10</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2606/</guid>
+      <pubDate>2022-4-13</pubDate>
     </item>
   </channel>
 </rss>
