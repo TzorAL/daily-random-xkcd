@@ -16,14 +16,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Download seen_comics.json artifact (if it exists)
-      - name: Download seen comics
-        uses: actions/download-artifact@v3
-        with:
-          name: seen_comics
-          path: seen_comics.json
-        continue-on-error: true  # Proceed even if no artifact is found (e.g., first run)
-
       # Create seen_comics.json if it doesn't exist
       - name: Create seen_comics.json if missing
         run: |
@@ -42,19 +34,13 @@ jobs:
       - name: Run script
         run: python generate_rss.py
 
-      # Upload the updated seen_comics.json to persist it between runs
-      - name: Upload updated seen comics
-        uses: actions/upload-artifact@v3
-        with:
-          name: seen_comics
-          path: seen_comics.json
-
+      # Commit and push the updated seen_comics.json to persist it across runs
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add xkcd_feed.xml
-          git commit -m "Update RSS feed" || echo "No changes to commit"
+          git add seen_comics.json xkcd_feed.xml
+          git commit -m "Update seen comics and RSS feed" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
