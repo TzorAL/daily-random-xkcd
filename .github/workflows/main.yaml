@@ -16,16 +16,31 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # Step to download seen_comics.json artifact (if it exists)
+      - name: Download seen comics
+        uses: actions/download-artifact@v3
+        with:
+          name: seen_comics
+          path: seen_comics.json
+        continue-on-error: true  # If it's the first run, skip this without failing
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install requests
+      - name: Install dependencies
         run: pip install requests
 
       - name: Run script
         run: python generate_rss.py
+
+      # Upload the updated seen_comics.json to persist it between runs
+      - name: Upload updated seen comics
+        uses: actions/upload-artifact@v3
+        with:
+          name: seen_comics
+          path: seen_comics.json
 
       - name: Commit and push changes
         run: |
