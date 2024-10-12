@@ -6,12 +6,16 @@ import os
 # File path for storing seen comics
 SEEN_COMICS_FILE = 'seen_comics.json'
 
-# Load seen comics from a file
+# Load seen comics from a file (create if missing)
 def load_seen_comics():
     if os.path.exists(SEEN_COMICS_FILE):
         with open(SEEN_COMICS_FILE, 'r') as file:
             return json.load(file)
-    return []  # If the file doesn't exist, return an empty list
+    else:
+        # If file doesn't exist, create an empty one and return empty list
+        with open(SEEN_COMICS_FILE, 'w') as file:
+            json.dump([], file)
+        return []
 
 # Save seen comics to a file
 def save_seen_comics(seen_comics):
@@ -20,25 +24,42 @@ def save_seen_comics(seen_comics):
 
 # Fetch the latest XKCD comic number
 def fetch_latest_comic_number():
-    response = requests.get('https://xkcd.com/info.0.json')
-    latest_comic_data = response.json()
-    return latest_comic_data['num']
+    try:
+        response = requests.get('https://xkcd.com/info.0.json')
+        response.raise_for_status()  # Will raise an error for bad response codes
+        latest_comic_data = response.json()
+        return latest_comic_data['num']
+    except requests.RequestException as e:
+        print(f"Error fetching latest comic: {e}")
+        return None
 
 # Fetch a random XKCD comic that hasn't been seen yet
 def fetch_random_comic(seen_comics):
     latest_comic_number = fetch_latest_comic_number()
     
+    if not latest_comic_number:
+        print("Error: Unable to retrieve latest comic number.")
+        return None
+
     while True:
         comic_id = random.randint(1, latest_comic_number)
         if comic_id not in seen_comics:
-            response = requests.get(f'https://xkcd.com/{comic_id}/info.0.json')
-            if response.status_code == 200:
+            try:
+                response = requests.get(f'https://xkcd.com/{comic_id}/info.0.json')
+                response.raise_for_status()
                 return response.json()
+            except requests.RequestException as e:
+                print(f"Error fetching comic {comic_id}: {e}")
+                return None
 
 # Generate RSS feed
 def generate_rss():
     seen_comics = load_seen_comics()
     comic_data = fetch_random_comic(seen_comics)
+    
+    if not comic_data:
+        print("Error: No comic data retrieved.")
+        return None
     
     # Update the seen comics list
     seen_comics.append(comic_data['num'])
@@ -79,8 +100,11 @@ def generate_rss():
 
 # Save the RSS feed to a file
 def save_rss_to_file(rss_content):
-    with open('xkcd_feed.xml', 'w') as file:
-        file.write(rss_content)
+    if rss_content:
+        with open('xkcd_feed.xml', 'w') as file:
+            file.write(rss_content)
+    else:
+        print("Error: RSS feed could not be generated.")
 
 # Main function to run the script
 if __name__ == "__main__":
