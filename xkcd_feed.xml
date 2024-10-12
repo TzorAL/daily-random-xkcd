@@ -5,22 +5,22 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Bad Map Projection: ABS(Longitude)</title>
-      <link>https://xkcd.com/2807/</link>
+      <title>Parameterball</title>
+      <link>https://xkcd.com/2852/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
             <h2 style="color: #2c3e50;">📢 New xkcd Comic Released!</h2>
-            <h3>Bad Map Projection: ABS(Longitude)</h3>
+            <h3>Parameterball</h3>
             <p style="margin: 10px 0;">Check out the latest xkcd comic below:</p>
-            <a href="https://xkcd.com/2807/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png" alt="Positive vibes/longitudes only" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
-            <p style="font-style: italic; color: #666;">Positive vibes/longitudes only</p>
+            <a href="https://xkcd.com/2852/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/parameterball.png" alt="The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.</p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2807/</guid>
-      <pubDate>2023-7-26</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2852/</guid>
+      <pubDate>2023-11-8</pubDate>
     </item>
   </channel>
 </rss>
