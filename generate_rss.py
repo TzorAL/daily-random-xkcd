@@ -3,16 +3,47 @@ import random
 import requests
 import os
 
-# Fetch a random xkcd comic
-def fetch_random_comic():
-    total_comics = 2544  # Update this number with the latest xkcd comic number
-    comic_id = random.randint(1, total_comics)
-    response = requests.get(f'https://xkcd.com/{comic_id}/info.0.json')
-    return response.json()
+# File path for storing seen comics
+SEEN_COMICS_FILE = 'seen_comics.json'
+
+# Load seen comics from a file
+def load_seen_comics():
+    if os.path.exists(SEEN_COMICS_FILE):
+        with open(SEEN_COMICS_FILE, 'r') as file:
+            return json.load(file)
+    return []
+
+# Save seen comics to a file
+def save_seen_comics(seen_comics):
+    with open(SEEN_COMICS_FILE, 'w') as file:
+        json.dump(seen_comics, file)
+
+# Fetch the latest XKCD comic number
+def fetch_latest_comic_number():
+    response = requests.get('https://xkcd.com/info.0.json')
+    latest_comic_data = response.json()
+    return latest_comic_data['num']
+
+# Fetch a random XKCD comic that hasn't been seen yet
+def fetch_random_comic(seen_comics):
+    latest_comic_number = fetch_latest_comic_number()
+    
+    while True:
+        comic_id = random.randint(1, latest_comic_number)
+        if comic_id not in seen_comics:
+            response = requests.get(f'https://xkcd.com/{comic_id}/info.0.json')
+            if response.status_code == 200:
+                return response.json()
 
 # Generate RSS feed
 def generate_rss():
-    comic_data = fetch_random_comic()
+    seen_comics = load_seen_comics()
+    comic_data = fetch_random_comic(seen_comics)
+    
+    # Update the seen comics list
+    seen_comics.append(comic_data['num'])
+    save_seen_comics(seen_comics)
+    
     title = comic_data['title']
     img_url = comic_data['img']
     alt_text = comic_data['alt']
