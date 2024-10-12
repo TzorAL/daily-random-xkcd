@@ -5,22 +5,22 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Kilogram</title>
-      <link>https://xkcd.com/2073/</link>
+      <title>Timeline of Bicycle Design</title>
+      <link>https://xkcd.com/1673/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
             <h2 style="color: #2c3e50;">📢 New xkcd Comic Released!</h2>
-            <h3>Kilogram</h3>
+            <h3>Timeline of Bicycle Design</h3>
             <p style="margin: 10px 0;">Check out the latest xkcd comic below:</p>
-            <a href="https://xkcd.com/2073/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/kilogram.png" alt="I'm glad to hear they're finally redefining the meter to be exactly three feet." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
-            <p style="font-style: italic; color: #666;">I'm glad to hear they're finally redefining the meter to be exactly three feet.</p>
+            <a href="https://xkcd.com/1673/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/timeline_of_bicycle_design.png" alt="I'll be honest--the 1950s were a rough time for cycling." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">I'll be honest--the 1950s were a rough time for cycling.</p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2073/</guid>
-      <pubDate>2018-11-16</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1673/</guid>
+      <pubDate>2016-4-27</pubDate>
     </item>
   </channel>
 </rss>
