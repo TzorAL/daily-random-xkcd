@@ -16,13 +16,20 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Step to download seen_comics.json artifact (if it exists)
+      # Download seen_comics.json artifact (if it exists)
       - name: Download seen comics
         uses: actions/download-artifact@v3
         with:
           name: seen_comics
           path: seen_comics.json
-        continue-on-error: true  # If it's the first run, skip this without failing
+        continue-on-error: true  # Proceed even if no artifact is found (e.g., first run)
+
+      # Create seen_comics.json if it doesn't exist
+      - name: Create seen_comics.json if missing
+        run: |
+          if [ ! -f seen_comics.json ]; then
+            echo "[]" > seen_comics.json
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v4
