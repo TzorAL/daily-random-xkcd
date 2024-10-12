@@ -11,7 +11,7 @@ def load_seen_comics():
     if os.path.exists(SEEN_COMICS_FILE):
         with open(SEEN_COMICS_FILE, 'r') as file:
             return json.load(file)
-    return []
+    return []  # If the file doesn't exist, return an empty list
 
 # Save seen comics to a file
 def save_seen_comics(seen_comics):
