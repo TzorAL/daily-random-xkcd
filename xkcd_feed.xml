@@ -5,22 +5,22 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Message Boards</title>
-      <link>https://xkcd.com/2363/</link>
+      <title>Final Exam</title>
+      <link>https://xkcd.com/2385/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
             <h2 style="color: #2c3e50;">📢 New xkcd Comic Released!</h2>
-            <h3>Message Boards</h3>
+            <h3>Final Exam</h3>
             <p style="margin: 10px 0;">Check out the latest xkcd comic below:</p>
-            <a href="https://xkcd.com/2363/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/message_boards.png" alt="(c) You can have a scooter when you pay for it yourself, and (d) if you can't learn to start a new thread rather than responding to an old one, you'll be banned. [thread locked by moderator]" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
-            <p style="font-style: italic; color: #666;">(c) You can have a scooter when you pay for it yourself, and (d) if you can't learn to start a new thread rather than responding to an old one, you'll be banned. [thread locked by moderator]</p>
+            <a href="https://xkcd.com/2385/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/final_exam.png" alt="For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average.</p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2363/</guid>
-      <pubDate>2020-9-23</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2385/</guid>
+      <pubDate>2020-11-13</pubDate>
     </item>
   </channel>
 </rss>
