@@ -62,7 +62,7 @@ def generate_rss():
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
             <h2 style="color: #2c3e50;">📢 Random xkcd Comic Feed! (Comic #{comic_data['num']})</h2> <!-- Comic number added here -->
             <h3>{title}</h3>
-            <p style="font-style: italic; color: #666;">{alt_text}</p>  <!-- Alt text added here -->
+            <p style="font-style: italic; color: #666;">[Comic No. #{comic_data['num']}] {alt_text}</p>  <!-- Alt text added here -->
             <p style="margin: 10px 0;">Check out a random xkcd comic below:</p>
             <a href="https://xkcd.com/{comic_data['num']}/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
             <img src="{img_url}" alt="{alt_text}" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
