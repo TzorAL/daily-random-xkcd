@@ -5,18 +5,18 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Project Orion</title>
-      <link>https://xkcd.com/2423/</link>
+      <title>Rounding</title>
+      <link>https://xkcd.com/2585/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[#2423] If you tune out again, when you tune back in you'll be hearing about dusty plasma fission fragment rockets.</p>  <!-- Alt text added here -->
-            <img src="https://imgs.xkcd.com/comics/project_orion.png" alt="If you tune out again, when you tune back in you'll be hearing about dusty plasma fission fragment rockets." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[#2585] I've developed a novel propulsion system powered by loss of precision in unit conversion.</p>  <!-- Alt text added here -->
+            <img src="https://imgs.xkcd.com/comics/rounding.png" alt="I've developed a novel propulsion system powered by loss of precision in unit conversion." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2423/</guid>
-      <pubDate>2021-2-10</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2585/</guid>
+      <pubDate>2022-2-23</pubDate>
     </item>
   </channel>
 </rss>
