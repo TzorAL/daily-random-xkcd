@@ -5,20 +5,20 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Secret Worlds</title>
-      <link>https://xkcd.com/52/</link>
+      <title>Incinerator</title>
+      <link>https://xkcd.com/1821/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <h3>Secret Worlds</h3>
-            <p style="font-style: italic; color: #666;">[#{comic_data['num']}] No two adjacent circles are the same color.</p>  <!-- Alt text added here -->
-            <a href="https://xkcd.com/52/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/secret_worlds.jpg" alt="No two adjacent circles are the same color." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <h3>Incinerator</h3>
+            <p style="font-style: italic; color: #666;">[#1821] My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.</p>  <!-- Alt text added here -->
+            <a href="https://xkcd.com/1821/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/incinerator.png" alt="My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/52/</guid>
-      <pubDate>2006-1-21</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1821/</guid>
+      <pubDate>2017-4-7</pubDate>
     </item>
   </channel>
 </rss>
