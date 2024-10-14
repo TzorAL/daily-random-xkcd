@@ -5,22 +5,22 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Pluto</title>
-      <link>https://xkcd.com/1551/</link>
+      <title>Photoshops</title>
+      <link>https://xkcd.com/331/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <h2 style="color: #2c3e50;">📢 Random xkcd Comic Feed! (Comic #1551)</h2> <!-- Comic number added here -->
-            <h3>Pluto</h3>
-            <p style="font-style: italic; color: #666;">After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."</p>  <!-- Alt text added here -->
+            <h2 style="color: #2c3e50;">📢 Random xkcd Comic Feed! (Comic #331)</h2> <!-- Comic number added here -->
+            <h3>Photoshops</h3>
+            <p style="font-style: italic; color: #666;">[Comic No. #331] When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other.</p>  <!-- Alt text added here -->
             <p style="margin: 10px 0;">Check out a random xkcd comic below:</p>
-            <a href="https://xkcd.com/1551/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/pluto.png" alt="After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <a href="https://xkcd.com/331/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/photoshops.png" alt="When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1551/</guid>
-      <pubDate>2015-7-14</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/331/</guid>
+      <pubDate>2007-10-19</pubDate>
     </item>
   </channel>
 </rss>
