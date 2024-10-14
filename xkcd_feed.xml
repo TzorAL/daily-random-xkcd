@@ -5,19 +5,18 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Two Down, One to Go</title>
-      <link>https://xkcd.com/1887/</link>
+      <title>Project Orion</title>
+      <link>https://xkcd.com/2423/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[#1887] The third row will probably have to wait until 2034, and maybe longer. If I see a daytime supernova, I'll replace the meteor storm with that and consider it 3/3.</p>  <!-- Alt text added here -->
-            <a href="https://xkcd.com/1887/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/two_down_one_to_go.png" alt="The third row will probably have to wait until 2034, and maybe longer. If I see a daytime supernova, I'll replace the meteor storm with that and consider it 3/3." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[#2423] If you tune out again, when you tune back in you'll be hearing about dusty plasma fission fragment rockets.</p>  <!-- Alt text added here -->
+            <img src="https://imgs.xkcd.com/comics/project_orion.png" alt="If you tune out again, when you tune back in you'll be hearing about dusty plasma fission fragment rockets." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1887/</guid>
-      <pubDate>2017-9-8</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2423/</guid>
+      <pubDate>2021-2-10</pubDate>
     </item>
   </channel>
 </rss>
