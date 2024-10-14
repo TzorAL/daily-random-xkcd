@@ -5,22 +5,22 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Migrating Geese</title>
-      <link>https://xkcd.com/1729/</link>
+      <title>Toasts</title>
+      <link>https://xkcd.com/1645/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <h2 style="color: #2c3e50;">📢 Rando xkcd Comic Feed!</h2>
-            <h3>Migrating Geese</h3>
+            <h2 style="color: #2c3e50;">📢 Random xkcd Comic Feed!</h2>
+            <h3>Toasts</h3>
+            <p style="font-style: italic; color: #666;">Platonic solids for my real friends and real solids for my platonic friends!</p>  <!-- Alt text added here -->
             <p style="margin: 10px 0;">Check out a random xkcd comic below:</p>
-            <a href="https://xkcd.com/1729/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/migrating_geese.png" alt=""Hey guys! I have a great idea for a migration!" "Dammit, Kevin."" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
-            <p style="font-style: italic; color: #666;">"Hey guys! I have a great idea for a migration!" "Dammit, Kevin."</p>
+            <a href="https://xkcd.com/1645/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/toasts.png" alt="Platonic solids for my real friends and real solids for my platonic friends!" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1729/</guid>
-      <pubDate>2016-9-5</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1645/</guid>
+      <pubDate>2016-2-19</pubDate>
     </item>
   </channel>
 </rss>
