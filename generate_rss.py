@@ -60,7 +60,7 @@ def generate_rss():
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <h2 style="color: #2c3e50;">📢 Random xkcd Comic Feed!</h2>
+            <h2 style="color: #2c3e50;">📢 Random xkcd Comic Feed! (Comic #{comic_data['num']})</h2> <!-- Comic number added here -->
             <h3>{title}</h3>
             <p style="font-style: italic; color: #666;">{alt_text}</p>  <!-- Alt text added here -->
             <p style="margin: 10px 0;">Check out a random xkcd comic below:</p>
