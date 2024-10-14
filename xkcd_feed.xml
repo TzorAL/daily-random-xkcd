@@ -5,20 +5,19 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Incinerator</title>
-      <link>https://xkcd.com/1821/</link>
+      <title>Two Down, One to Go</title>
+      <link>https://xkcd.com/1887/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <h3>Incinerator</h3>
-            <p style="font-style: italic; color: #666;">[#1821] My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.</p>  <!-- Alt text added here -->
-            <a href="https://xkcd.com/1821/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
-            <img src="https://imgs.xkcd.com/comics/incinerator.png" alt="My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[#1887] The third row will probably have to wait until 2034, and maybe longer. If I see a daytime supernova, I'll replace the meteor storm with that and consider it 3/3.</p>  <!-- Alt text added here -->
+            <a href="https://xkcd.com/1887/" style="display: inline-block; padding: 10px 15px; background-color: #3498db; color: white; text-decoration: none; border-radius: 5px;">View Comic</a>
+            <img src="https://imgs.xkcd.com/comics/two_down_one_to_go.png" alt="The third row will probably have to wait until 2034, and maybe longer. If I see a daytime supernova, I'll replace the meteor storm with that and consider it 3/3." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1821/</guid>
-      <pubDate>2017-4-7</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1887/</guid>
+      <pubDate>2017-9-8</pubDate>
     </item>
   </channel>
 </rss>
