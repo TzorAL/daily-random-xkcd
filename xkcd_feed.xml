@@ -5,18 +5,18 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Rounding</title>
-      <link>https://xkcd.com/2585/</link>
+      <title>Viral Quiz Identity Theft</title>
+      <link>https://xkcd.com/2388/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[#2585] I've developed a novel propulsion system powered by loss of precision in unit conversion.</p>  <!-- Alt text added here -->
-            <img src="https://imgs.xkcd.com/comics/rounding.png" alt="I've developed a novel propulsion system powered by loss of precision in unit conversion." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[#2388] [scrolling through a giant spreadsheet of transcribed data] 'Wow, a surprising number of users grew up at 420 69th St.' 'Yeah, must be a high-rise or something.'</p>  <!-- Alt text added here -->
+            <img src="https://imgs.xkcd.com/comics/viral_quiz_identity_theft.png" alt="[scrolling through a giant spreadsheet of transcribed data] 'Wow, a surprising number of users grew up at 420 69th St.' 'Yeah, must be a high-rise or something.'" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2585/</guid>
-      <pubDate>2022-2-23</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2388/</guid>
+      <pubDate>2020-11-20</pubDate>
     </item>
   </channel>
 </rss>
