@@ -8,12 +8,12 @@ This repository generates a daily random xkcd comic and serves it as an RSS feed
 - Generates an RSS feed that updates with new comic details.
 - Tracks seen comics in `seen_comics.json` to avoid duplication.
 - Sends email notifications via RSS.app whenever a new comic is published.
-- Generates a random xkcd HTML 404 page (`xkcd_404_style.html`) that presents a randomly selected comic in a unique format.
+- Generates a random xkcd HTML 404 page (`docs/xkcd_404_style.html`) that presents a randomly selected comic in a unique format.
 
 ## How It Works
 1. A GitHub Actions workflow is triggered daily at 8:00 AM UTC+3 to run a Python script (`generate_rss.py`).
 2. The script fetches a random comic from the xkcd API, ensuring that it hasn't been seen before.
-3. The comic details are formatted in an XML structure and saved to `xkcd_feed.xml`.
+3. The comic details are formatted in an XML structure and saved to `docs/xkcd_feed.xml`.
 4. The seen comics are tracked in `seen_comics.json`, allowing the script to remember which comics have already been shown.
 5. The RSS feed is hosted on GitHub, allowing easy access for RSS.app.
 6. An RSS.app service monitors the RSS feed and sends an email whenever a new comic is detected.
@@ -40,7 +40,7 @@ The xkcd-themed 404 page can be accessed at: `https://tzoral.github.io/daily-ran
 - `seen_comics.json`: JSON file that stores the IDs of comics that have already been fetched to ensure they are not repeated.
 - `docs/xkcd_feed.xml`: XML file that contains the RSS feed with the latest xkcd comic details.
 - `docs/xkcd_404_style.html`: HTML file that displays a random xkcd comic in a 404-style layout.
-- `.github/workflows/main.yaml`: GitHub Actions workflow configuration that schedules the daily comic update and ensures persistence of seen comics.
+- `.github/workflows/update_xkcd_rss_feed.yaml`: GitHub Actions workflow configuration that schedules the daily comic update and ensures persistence of seen comics.
 - `.github/workflows/update_html_404.yaml`: GitHub Actions workflow that schedules the generation of the random xkcd-themed 404 error page.
 
 ## License
