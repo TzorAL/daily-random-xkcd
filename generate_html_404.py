@@ -70,7 +70,7 @@ def generate_html_404_style(comic_data):
       </head>
       <body>
         <div class="container">
-          <h1>404 - Comic Not Found</h1>
+          <h1>404 - Page Not Found</h1>
           <p>Oops! The page you're looking for cannot be found. Here's a random XKCD comic instead:</p>
           
           <div class="comic-container">
@@ -80,7 +80,11 @@ def generate_html_404_style(comic_data):
 
           <div class="footer">
             <p><a href="{comic_url}" style="color: #555; text-decoration: none;">View on XKCD #{comic_data['num']}</a></p>
-            <p>Powered by XKCD | EPU-NTUA</p>
+            <p>Powered by: <a href="https://xkcd.com/"> XKCD</a> | 
+                <a href="https://github.com/TzorAL/daily-random-xkcd" target="_blank">
+                    <img class="github-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" alt="GitHub Logo">
+                </a>
+            </p>
           </div>
         </div>
       </body>
