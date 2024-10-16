@@ -29,16 +29,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # Step 4: Run the Python script to generate the 404-style XKCD HTML
+      # Step 4: Run the Python script to generate the HTML file
       - name: Run script
         run: python generate_html_404_style_xkcd.py
 
-      # Step 5: Commit and push the updated HTML file
+      # Step 5: Commit and push the updated HTML file in 'docs' directory for GitHub Pages
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add xkcd_404_style.html
+          git add docs/xkcd_404_style.html
           git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
           git push
         env:
