@@ -5,18 +5,18 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Alien Observers</title>
-      <link>https://xkcd.com/2572/</link>
+      <title>AI Hiring Algorithm</title>
+      <link>https://xkcd.com/2237/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/2572/" style="color: #1a0dab; text-decoration: none;">#2572</a>] ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range.</p>  <!-- Alt text added here -->
-            <img src="https://imgs.xkcd.com/comics/alien_observers.png" alt="ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/2237/" style="color: #1a0dab; text-decoration: none;">#2237</a>] So glad Kate over in R&D pushed for using the AlgoMaxAnalyzer to look into this. Hiring her was a great decisio- waaaait.</p>  <!-- Alt text added here -->
+            <img src="https://imgs.xkcd.com/comics/ai_hiring_algorithm.png" alt="So glad Kate over in R&D pushed for using the AlgoMaxAnalyzer to look into this. Hiring her was a great decisio- waaaait." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2572/</guid>
-      <pubDate>2022-1-24</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2237/</guid>
+      <pubDate>2019-12-4</pubDate>
     </item>
   </channel>
 </rss>
