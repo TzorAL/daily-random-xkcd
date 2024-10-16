@@ -87,11 +87,16 @@ def generate_html_404_style(comic_data):
     """
     return html_404_style
 
-# Save the HTML to a file
-def save_404_style_to_file(html_content):
-    with open('xkcd_404_style.html', 'w') as file:
-        file.write(html_content)
-
+# Save the HTML to a file in docs directory
+def save_rss_to_file(rss_content):
+    # Create the directory if it doesn't exist
+    if not os.path.exists('docs'):
+        os.makedirs('docs')
+    
+    # Save the HTML file to the 'docs' directory
+    with open('docs/xkcd_404_style.html', 'w') as file:
+        file.write(rss_content)
+        
 # Main function to fetch a random XKCD comic and generate the HTML file
 if __name__ == "__main__":
     comic_data = fetch_random_comic()
