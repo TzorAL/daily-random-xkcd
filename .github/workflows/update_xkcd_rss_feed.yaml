@@ -39,7 +39,7 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add seen_comics.json xkcd_feed.xml
+          git add seen_comics.json docs/xkcd_feed.xml
           git commit -m "Update seen comics and RSS feed" || echo "No changes to commit"
           git push
         env:
