@@ -1,48 +1,45 @@
-name: Update XKCD 404 Style HTML
+name: Update xkcd HTML Page
 
-# Run every day at midnight UTC
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at 00:00 UTC
-
-  # Allows the workflow to be triggered manually (optional)
-  workflow_dispatch:
+    - cron: '0 5 * * *'  # Runs daily at 8:00 AM Greek time (UTC+3)
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
-  update-comic:
+  update_html:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write  # Allow write access to the repository contents
+
     steps:
-    # Step 1: Checkout the repository
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      # Step 1: Checkout the repository code
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    # Step 2: Set up Python
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    # Step 3: Install required packages (if any)
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        # Add any other dependencies you need here
-        # Example:
-        # pip install requests
+      # Step 3: Install Python dependencies (including requests)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-    # Step 4: Run the Python script
-    - name: Run Python script
-      run: python generate_html_404_style_xkcd.py
+      # Step 4: Run the Python script to generate the 404-style XKCD HTML
+      - name: Run script
+        run: python generate_html_404_style_xkcd.py
 
-    # Step 5: Commit and push the updated HTML file to the repository
-    - name: Commit changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add xkcd_404_style.html
-        git commit -m "Update XKCD 404 Style HTML"
-        git push
-      env:
-        # GITHUB_TOKEN is automatically provided by GitHub Actions
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Step 5: Commit and push the updated HTML file
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add xkcd_404_style.html
+          git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub authentication token for pushing changes
