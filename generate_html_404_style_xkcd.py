@@ -95,7 +95,7 @@ def save_404_style_to_file(html_content):
         os.makedirs('docs')
     
     # Save the HTML file to the 'docs' directory
-    with open('docs/index.html', 'w') as file:
+    with open('docs/xkcd_404_style.html', 'w') as file:
         file.write(html_content)
         
 # Main function to fetch a random XKCD comic and generate the HTML file
