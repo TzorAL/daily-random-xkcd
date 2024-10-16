@@ -60,7 +60,7 @@ def generate_rss():
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[#{comic_data['num']}] {alt_text}</p>  <!-- Alt text added here -->
+            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/{comic_data['num']}/" style="color: #1a0dab; text-decoration: none;">#{comic_data['num']}</a>] {alt_text}</p>  <!-- Alt text added here -->
             <img src="{img_url}" alt="{alt_text}" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
