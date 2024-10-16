@@ -75,7 +75,7 @@ def generate_rss():
 
 # Save the RSS feed to a file
 def save_rss_to_file(rss_content):
-    with open('xkcd_feed.xml', 'w') as file:
+    with open('docs/xkcd_feed.xml', 'w') as file:
         file.write(rss_content)
 
 # Main function to run the script
