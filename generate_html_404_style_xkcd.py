@@ -1,5 +1,6 @@
 import random
 import requests
+import os
 
 # Fetch the latest XKCD comic number
 def fetch_latest_comic_number():
