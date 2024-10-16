@@ -88,7 +88,7 @@ def generate_html_404_style(comic_data):
     return html_404_style
 
 # Save the HTML to a file in docs directory
-def save_rss_to_file(rss_content):
+def save_404_style_to_file(rss_content):
     # Create the directory if it doesn't exist
     if not os.path.exists('docs'):
         os.makedirs('docs')
