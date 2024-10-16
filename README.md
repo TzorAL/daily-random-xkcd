@@ -20,7 +20,7 @@ This repository generates a daily random xkcd comic and serves it as an RSS feed
 7. Additionally, a separate Python script generates a random xkcd HTML 404 page that users can access directly.
 
 ## RSS Feed
-The generated RSS feed can be accessed at the following URL: `https://raw.githubusercontent.com/TzorAL/daily-random-xkcd/main/xkcd_feed.xml`
+The generated RSS feed can be accessed at the following URL: `https://raw.githubusercontent.com/TzorAL/daily-random-xkcd/main/docs/xkcd_feed.xml`
 
 ## Random xkcd 404 Page
 The xkcd-themed 404 page can be accessed at: `https://tzoral.github.io/daily-random-xkcd/`
@@ -29,7 +29,7 @@ The xkcd-themed 404 page can be accessed at: `https://tzoral.github.io/daily-ran
 1. **Fork this repository** to your own GitHub account.
 2. **Enable GitHub Actions** in your forked repository.
 3. **Set up RSS.app**:
-   - Create a new RSS feed alert for the URL: `https://raw.githubusercontent.com/{your_username}/daily-random-xkcd/main/xkcd_feed.xml`
+   - Create a new RSS feed alert for the URL: `https://raw.githubusercontent.com/{your_username}/daily-random-xkcd/main/docs/xkcd_feed.xml`
    - Configure the email notifications according to your preferences.
 4. **Watch for daily emails** containing the latest xkcd comic!
 5. **Visit the 404 page**: Go to the URL `https://{your_username}.github.io/daily-random-xkcd/` to see the random xkcd comic styled as a 404 error page.
