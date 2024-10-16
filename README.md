@@ -38,8 +38,10 @@ The xkcd-themed 404 page can be accessed at: `https://tzoral.github.io/daily-ran
 - `generate_rss.py`: Python script that fetches a random xkcd comic, tracks seen comics in `seen_comics.json`, and generates the RSS feed.
 - `generate_html_404_style_xkcd.py`: Python script that generates a random xkcd-themed 404 error page.
 - `seen_comics.json`: JSON file that stores the IDs of comics that have already been fetched to ensure they are not repeated.
-- `xkcd_feed.xml`: XML file that contains the RSS feed with the latest xkcd comic details.
+- `docs/xkcd_feed.xml`: XML file that contains the RSS feed with the latest xkcd comic details.
+- `docs/xkcd_404_style.html`: HTML file that displays a random xkcd comic in a 404-style layout.
 - `.github/workflows/main.yaml`: GitHub Actions workflow configuration that schedules the daily comic update and ensures persistence of seen comics.
+- `.github/workflows/update_html_404.yaml`: GitHub Actions workflow that schedules the generation of the random xkcd-themed 404 error page.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
