@@ -66,6 +66,37 @@ def generate_html_404_style(comic_data):
             font-size: 14px;
             color: #aaa;
           }}
+          .footer a {{
+            color: #555;
+            text-decoration: none;
+            transition: color 0.3s ease, border-bottom 0.3s ease;
+            border-bottom: 2px solid transparent;
+          }}
+          .footer a:hover {{
+            color: #222;
+            border-bottom: 2px solid #222;
+          }}
+          .github-link {{
+            margin-top: 20px;
+            font-size: 16px;
+            color: #555;
+          }}
+          .github-link a {{
+            font-weight: bold;
+            color: #336699;
+            text-decoration: none;
+            transition: color 0.3s ease, transform 0.3s ease;
+          }}
+          .github-link a:hover {{
+            color: #003366;
+            transform: scale(1.05);
+          }}
+          .github-logo {{
+            vertical-align: middle;
+            width: 20px;
+            height: 20px;
+            margin-left: 5px;
+          }}
         </style>
       </head>
       <body>
