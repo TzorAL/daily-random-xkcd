@@ -5,18 +5,18 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>UK Coal</title>
-      <link>https://xkcd.com/2992/</link>
+      <title>Monty Hall</title>
+      <link>https://xkcd.com/1282/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[#2992] The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.</p>  <!-- Alt text added here -->
-            <img src="https://imgs.xkcd.com/comics/uk_coal.png" alt="The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/1282/" style="color: #1a0dab; text-decoration: none;">#1282</a>] A few minutes later, the goat from behind door C drives away in the car.</p>  <!-- Alt text added here -->
+            <img src="https://imgs.xkcd.com/comics/monty_hall.png" alt="A few minutes later, the goat from behind door C drives away in the car." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2992/</guid>
-      <pubDate>2024-9-30</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1282/</guid>
+      <pubDate>2013-10-25</pubDate>
     </item>
   </channel>
 </rss>
