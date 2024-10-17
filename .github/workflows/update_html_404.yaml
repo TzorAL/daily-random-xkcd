@@ -15,11 +15,11 @@ jobs:
     steps:
       # Step 1: Checkout the repository code
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3  # Use the latest stable version
 
       # Step 2: Set up Python environment
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v4  # Use the latest stable version
         with:
           python-version: '3.10'
 
@@ -33,21 +33,12 @@ jobs:
       - name: Run script
         run: python generate_html_404.py
 
-      # Step 5: Configure git user
-      - name: Configure git
+      # Step 5: Commit and push the updated HTML file in 'docs' directory for GitHub Pages
+      - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-
-      # Step 6: Pull the latest changes from the remote repository
-      - name: Pull latest changes
-        run: |
-          git fetch origin main
-          git rebase origin/main  # Rebase your changes on top of the latest commits from the remote
-
-      # Step 7: Commit and push the updated HTML file in 'docs' directory for GitHub Pages
-      - name: Commit and push changes
-        run: |
+          git pull origin main  # Ensure the latest remote changes are pulled before committing
           git add docs/xkcd_404_style.html
           git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
           git push origin main
