@@ -33,14 +33,19 @@ jobs:
       - name: Run script
         run: python generate_html_404.py
 
-      # Step 5: Pull the latest changes from the remote repository
-      - name: Pull latest changes
+      # Step 5: Configure git user
+      - name: Configure git
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git pull origin main --rebase  # Rebase to apply your changes on top of any new commits from the remote
 
-      # Step 6: Commit and push the updated HTML file in 'docs' directory for GitHub Pages
+      # Step 6: Pull the latest changes from the remote repository
+      - name: Pull latest changes
+        run: |
+          git fetch origin main
+          git rebase origin/main  # Rebase your changes on top of the latest commits from the remote
+
+      # Step 7: Commit and push the updated HTML file in 'docs' directory for GitHub Pages
       - name: Commit and push changes
         run: |
           git add docs/xkcd_404_style.html
