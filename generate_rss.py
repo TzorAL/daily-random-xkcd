@@ -38,7 +38,7 @@ def fetch_random_comic(seen_comics):
     while True:
         comic_id = random.randint(1, latest_comic_number)
         if comic_id not in seen_comics:
-           try:
+            try:
                 response = requests.get(f'https://xkcd.com/{comic_id}/info.0.json', timeout=5)
                 response.raise_for_status()
                 return response.json()
