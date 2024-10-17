@@ -38,9 +38,9 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
+          git pull --rebase origin main  # Pull the latest changes from the remote main branch
           git add docs/xkcd_404_style.html
-          git pull --rebase  # Pull changes from the remote and rebase your local commits
           git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
-          git push
+          git push origin main  # Explicitly push to the main branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub authentication token for pushing changes
