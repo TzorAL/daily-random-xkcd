@@ -44,11 +44,6 @@ jobs:
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
 
-          # Check for uncommitted changes and stash them if there are any
-          if ! git diff-index --quiet HEAD --; then
-            git stash -u  # Stash uncommitted changes
-          fi
-
           git pull --rebase origin main  # Make sure to replace 'main' with your actual branch if different
           git add seen_comics.json docs/xkcd_feed.xml
           git commit -m "Update seen comics and RSS feed" || echo "No changes to commit"
