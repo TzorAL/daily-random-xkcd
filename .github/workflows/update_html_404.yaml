@@ -38,9 +38,20 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
+          
+          # Check for changes and stash them if there are any
+          if ! git diff-index --quiet HEAD --; then
+            git stash -u  # Stash uncommitted changes
+          fi
+
           git pull --rebase origin main  # Pull the latest changes from the remote main branch
           git add docs/xkcd_404_style.html
           git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
           git push origin main  # Explicitly push to the main branch
+
+          # Apply stashed changes if any
+          if git stash list | grep -q "stash@{0}"; then
+            git stash pop  # Apply stashed changes
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub authentication token for pushing changes
