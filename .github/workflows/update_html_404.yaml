@@ -33,11 +33,16 @@ jobs:
       - name: Run script
         run: python generate_html_404.py
 
-      # Step 5: Commit and push the updated HTML file in 'docs' directory for GitHub Pages
-      - name: Commit and push changes
+      # Step 5: Pull the latest changes from the remote repository
+      - name: Pull latest changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
+          git pull origin main
+
+      # Step 6: Commit and push the updated HTML file in 'docs' directory for GitHub Pages
+      - name: Commit and push changes
+        run: |
           git add docs/xkcd_404_style.html
           git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
           git push
