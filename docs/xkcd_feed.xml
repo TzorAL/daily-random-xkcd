@@ -6,22 +6,22 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Thu, 17 Oct 2024 20:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 20:23:09 GMT</lastBuildDate>
     <item>
-      <title>Headline Words</title>
-      <link>https://xkcd.com/2584/</link>
+      <title>Stud Finder</title>
+      <link>https://xkcd.com/952/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/2584/" style="color: #1a0dab; text-decoration: none;">#2584</a>] Roundly-condemned headlinese initiative shuttered indefinitely.</p>  <!-- Alt text added here -->
-            <a href="https://imgs.xkcd.com/comics/headline_words.png" style="color: #1a0dab; text-decoration: none;">
-              <img src="https://imgs.xkcd.com/comics/headline_words.png" alt="Roundly-condemned headlinese initiative shuttered indefinitely." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/952/" style="color: #1a0dab; text-decoration: none;">#952</a>] According to every stud finder I've tried to use, my walls contain a rapidly shifting network of hundreds and hundreds of studs.</p>  <!-- Alt text added here -->
+            <a href="https://imgs.xkcd.com/comics/stud_finder.png" style="color: #1a0dab; text-decoration: none;">
+              <img src="https://imgs.xkcd.com/comics/stud_finder.png" alt="According to every stud finder I've tried to use, my walls contain a rapidly shifting network of hundreds and hundreds of studs." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2584/</guid>
-      <pubDate>2022-2-21</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/952/</guid>
+      <pubDate>2011-9-16</pubDate>
     </item>
   </channel>
 </rss>
