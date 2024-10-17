@@ -5,18 +5,18 @@
     <link>https://xkcd.com/</link>
     <description>Random xkcd comic</description>
     <item>
-      <title>Thumbtacks And String</title>
-      <link>https://xkcd.com/2244/</link>
+      <title>Ksp 2</title>
+      <link>https://xkcd.com/2204/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/2244/" style="color: #1a0dab; text-decoration: none;">#2244</a>] A tattoo of a tattoo parlor receipt</p>  <!-- Alt text added here -->
-            <img src="https://imgs.xkcd.com/comics/thumbtacks_and_string.png" alt="A tattoo of a tattoo parlor receipt" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/2204/" style="color: #1a0dab; text-decoration: none;">#2204</a>] "The committee appreciates that your 2020 launch is on track, but the 'human capital/personnel retention' budget includes a lot more unmarked cash payments than usual. What are th--" "Public outreach."</p>  <!-- Alt text added here -->
+            <img src="https://imgs.xkcd.com/comics/ksp_2.png" alt=""The committee appreciates that your 2020 launch is on track, but the 'human capital/personnel retention' budget includes a lot more unmarked cash payments than usual. What are th--" "Public outreach."" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2244/</guid>
-      <pubDate>2019-12-20</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2204/</guid>
+      <pubDate>2019-9-18</pubDate>
     </item>
   </channel>
 </rss>
