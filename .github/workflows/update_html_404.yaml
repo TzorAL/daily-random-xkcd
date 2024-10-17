@@ -38,9 +38,8 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git pull origin main  # Ensure the latest remote changes are pulled before committing
           git add docs/xkcd_404_style.html
           git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
-          git push origin main
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub authentication token for pushing changes
