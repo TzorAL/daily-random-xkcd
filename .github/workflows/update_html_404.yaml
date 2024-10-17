@@ -39,6 +39,7 @@ jobs:
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add docs/xkcd_404_style.html
+          git pull --rebase  # Pull changes from the remote and rebase your local commits
           git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
           git push
         env:
