@@ -38,13 +38,13 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git pull origin main
+          git pull origin main --rebase  # Rebase to apply your changes on top of any new commits from the remote
 
       # Step 6: Commit and push the updated HTML file in 'docs' directory for GitHub Pages
       - name: Commit and push changes
         run: |
           git add docs/xkcd_404_style.html
           git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
-          git push
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub authentication token for pushing changes
