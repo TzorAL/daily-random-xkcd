@@ -30,11 +30,22 @@ def fetch_latest_comic_number():
         print(f"Error fetching latest comic: {e}")
         return None
 
+# Clear seen comics if all comics have been viewed
+def clear_seen_comics_if_complete(seen_comics, latest_comic_number):
+    if len(seen_comics) >= latest_comic_number:
+        print("All comics have been seen. Clearing the seen comics list.")
+        seen_comics.clear()
+        save_seen_comics(seen_comics)
+        
 # Fetch a random XKCD comic that hasn't been seen yet
 def fetch_random_comic(seen_comics):
     latest_comic_number = fetch_latest_comic_number()
     if latest_comic_number is None:
         return None  # Exit if we can't fetch the latest comic number
+
+    # Clear seen comics if all have been viewed
+    clear_seen_comics_if_complete(seen_comics, latest_comic_number)
+    
     while True:
         comic_id = random.randint(1, latest_comic_number)
         if comic_id not in seen_comics:
