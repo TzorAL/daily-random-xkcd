@@ -6,22 +6,22 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 18 Oct 2024 05:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 09:37:18 GMT</lastBuildDate>
     <item>
-      <title>College Athletes</title>
-      <link>https://xkcd.com/2210/</link>
+      <title>The Man Who Fell Sideways</title>
+      <link>https://xkcd.com/417/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/2210/" style="color: #1a0dab; text-decoration: none;">#2210</a>] Their signature play is the three-point combinator, a recursive offense which is guaranteed not to halt and continues accumulating points until the buzzer.</p>  <!-- Alt text added here -->
-            <a href="https://imgs.xkcd.com/comics/college_athletes.png" style="color: #1a0dab; text-decoration: none;">
-              <img src="https://imgs.xkcd.com/comics/college_athletes.png" alt="Their signature play is the three-point combinator, a recursive offense which is guaranteed not to halt and continues accumulating points until the buzzer." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/417/" style="color: #1a0dab; text-decoration: none;">#417</a>] Strip originally conceived in conversation with Jeph Jacques.  Soon to be a major motion picture.</p>  <!-- Alt text added here -->
+            <a href="https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png" style="color: #1a0dab; text-decoration: none;">
+              <img src="https://imgs.xkcd.com/comics/the_man_who_fell_sideways.png" alt="Strip originally conceived in conversation with Jeph Jacques.  Soon to be a major motion picture." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2210/</guid>
-      <pubDate>2019-10-2</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/417/</guid>
+      <pubDate>2008-4-30</pubDate>
     </item>
   </channel>
 </rss>
