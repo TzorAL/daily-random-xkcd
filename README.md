@@ -27,10 +27,10 @@ This repository **automatically generates a daily random xkcd comic** and serves
 
 ## 🔗 Links
 
-- **🚧 [404 HTML Page](https://<username>.github.io/<repository>/html-page/)**  
+- **🚧 [404 HTML Page](https://tzoral.github.io/daily-random-xkcd/404/)**  
   *A beautifully styled 404 page demonstrating an XKCD comic*.
 
-- **📡 [RSS Comic Feed](https://<username>.github.io/<repository>/xml-feed/feed.xml)**  
+- **📡 [RSS Comic Feed](https://tzoral.github.io/daily-random-xkcd/rss/xkc_feed.xml)**  
   *An RSS feed of random XKCD comics, formatted in XML*.
 
 ---
