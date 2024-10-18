@@ -2,24 +2,21 @@ import json
 import random
 import requests
 import os
+import time
 from datetime import datetime
 
-# File path for storing seen comics
 SEEN_COMICS_FILE = 'seen_comics.json'
 
-# Load seen comics from a file
 def load_seen_comics():
     if os.path.exists(SEEN_COMICS_FILE):
         with open(SEEN_COMICS_FILE, 'r') as file:
             return json.load(file)
-    return []  # If the file doesn't exist, return an empty list
+    return []
 
-# Save seen comics to a file
 def save_seen_comics(seen_comics):
     with open(SEEN_COMICS_FILE, 'w') as file:
         json.dump(seen_comics, file)
 
-# Fetch the latest XKCD comic number
 def fetch_latest_comic_number():
     try:
         response = requests.get('https://xkcd.com/info.0.json', timeout=5)
@@ -30,23 +27,23 @@ def fetch_latest_comic_number():
         print(f"Error fetching latest comic: {e}")
         return None
 
-# Clear seen comics if all comics have been viewed
-def clear_seen_comics_if_complete(seen_comics, latest_comic_number):
-    if len(seen_comics) >= latest_comic_number:
+def clear_seen_comics_if_complete(seen_comics, latest_comic_number, reset=False):
+    if reset and len(seen_comics) >= latest_comic_number:
         print("All comics have been seen. Clearing the seen comics list.")
         seen_comics.clear()
         save_seen_comics(seen_comics)
-        
-# Fetch a random XKCD comic that hasn't been seen yet
+
 def fetch_random_comic(seen_comics):
     latest_comic_number = fetch_latest_comic_number()
     if latest_comic_number is None:
-        return None  # Exit if we can't fetch the latest comic number
+        return None
 
-    # Clear seen comics if all have been viewed
     clear_seen_comics_if_complete(seen_comics, latest_comic_number)
-    
-    while True:
+
+    attempts = 0
+    max_attempts = 10
+
+    while attempts < max_attempts:
         comic_id = random.randint(1, latest_comic_number)
         if comic_id not in seen_comics:
             try:
@@ -55,13 +52,18 @@ def fetch_random_comic(seen_comics):
                 return response.json()
             except requests.RequestException as e:
                 print(f"Error fetching comic #{comic_id}: {e}")
+                attempts += 1
+                time.sleep(1)
                 continue
 
-# Generate RSS feed
+    print("Max attempts reached. No unseen comics available.")
+    return None
+
 def generate_rss():
     seen_comics = load_seen_comics()
     comic_data = fetch_random_comic(seen_comics)
     if comic_data is None:
+
         return None  # Exit if we couldn't fetch a random comic
 
     # Update the seen comics list
@@ -72,6 +74,7 @@ def generate_rss():
     img_url = comic_data['img']
     alt_text = comic_data['alt']
     pub_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
+    formatted_pub_date = f"{comic_data['year']}-{int(comic_data['month']):02d}-{int(comic_data['day']):02d}"
 
     rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
@@ -88,7 +91,7 @@ def generate_rss():
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/{comic_data['num']}/" style="color: #1a0dab; text-decoration: none;">#{comic_data['num']}</a>] {alt_text}</p>  <!-- Alt text added here -->
+            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/{comic_data['num']}/" style="color: #1a0dab; text-decoration: none;">#{comic_data['num']}</a>] {alt_text}</p>
             <a href="{img_url}" style="color: #1a0dab; text-decoration: none;">
               <img src="{img_url}" alt="{alt_text}" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
             </a>
@@ -96,22 +99,22 @@ def generate_rss():
         ]]>
       </description>
       <guid isPermaLink="true">https://xkcd.com/{comic_data['num']}/</guid>
-      <pubDate>{comic_data['year']}-{comic_data['month']}-{comic_data['day']}</pubDate>
+      <pubDate>{formatted_pub_date}</pubDate>
     </item>
   </channel>
 </rss>
 """
     return rss_content
 
-# Save the RSS feed to a file
 def save_rss_to_file(rss_content):
+    os.makedirs('docs/rss', exist_ok=True)
+
     if rss_content:
         with open('docs/rss/xkcd_feed.xml', 'w') as file:
             file.write(rss_content)
     else:
         print("Failed to generate RSS feed.")
 
-# Main function to run the script
 if __name__ == "__main__":
     rss_feed = generate_rss()
     save_rss_to_file(rss_feed)
