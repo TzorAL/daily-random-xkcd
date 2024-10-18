@@ -44,7 +44,7 @@ jobs:
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
 
-          git add seen_comics.json docs/xkcd_feed.xml
+          git add seen_comics.json docs/rss/xkcd_feed.xml
           git commit -m "Update seen comics and RSS feed" || echo "No changes to commit"
           git pull --rebase origin main  # Make sure to replace 'main' with your actual branch if different
           git push origin main  # Explicitly push to the main branch
