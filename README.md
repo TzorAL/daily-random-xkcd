@@ -27,10 +27,10 @@ This repository **automatically generates a daily random xkcd comic** and serves
 
 ## 🔗 Links
 
-- **🚧 [404 HTML Page](https://tzoral.github.io/daily-random-xkcd/404/)**  
+- **🚧 [404 HTML Page](https://tzoral.github.io/daily-random-xkcd/docs/404/)**  
   *A beautifully styled 404 page demonstrating an XKCD comic*.
 
-- **📡 [RSS Comic Feed](https://tzoral.github.io/daily-random-xkcd/rss/xkc_feed.xml)**  
+- **📡 [RSS Comic Feed](https://tzoral.github.io/daily-random-xkcd/docs/rss/xkc_feed.xml)**  
   *An RSS feed of random XKCD comics, formatted in XML*.
 
 ---
@@ -42,13 +42,11 @@ This repository **automatically generates a daily random xkcd comic** and serves
 1. **Fork** this repository to your GitHub account.
 2. **Enable GitHub Actions** in your forked repository.
 3. **Set up RSS.app**:
-   - Create a new RSS feed alert for the URL:  
-     `https://raw.githubusercontent.com/{your_username}/daily-random-xkcd/main/docs/xkcd_feed.xml`
+   - Create a new RSS feed alert for the URL
    - Configure the email notifications based on your preferences.
 4. **Enjoy daily xkcd emails** and check the latest comic each day!
-5. **Access the 404 Page** at:  
-   `https://{your_username}.github.io/daily-random-xkcd/`
-
+5. **Access the 404 Page**
+   
 ---
 
 ## 📂 Files
