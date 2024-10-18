@@ -63,9 +63,14 @@ def generate_rss():
     seen_comics = load_seen_comics()
     comic_data = fetch_random_comic(seen_comics)
     if comic_data is None:
-        return None
 
-    seen_comics = comic_data['title']
+        return None  # Exit if we couldn't fetch a random comic
+
+    # Update the seen comics list
+    seen_comics.append(comic_data['num'])
+    save_seen_comics(seen_comics)
+    
+    title = comic_data['title']
     img_url = comic_data['img']
     alt_text = comic_data['alt']
     pub_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")

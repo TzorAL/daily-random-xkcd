@@ -15,11 +15,11 @@ jobs:
     steps:
       # Step 1: Checkout the repository code
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3  # Use the latest stable version
 
       # Step 2: Set up Python environment
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v4  # Use the latest stable version
         with:
           python-version: '3.10'
 
@@ -38,8 +38,15 @@ jobs:
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add docs/xkcd_404_style.html
+          
+          git add docs/404/xkcd_404_style.html
           git commit -m "Update XKCD 404-style HTML page" || echo "No changes to commit"
-          git push
+          git pull --rebase origin main  # Pull the latest changes from the remote main branch
+          git push origin main  # Explicitly push to the main branch
+
+          # Apply stashed changes if any
+          if git stash list | grep -q "stash@{0}"; then
+            git stash pop  # Apply stashed changes
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub authentication token for pushing changes

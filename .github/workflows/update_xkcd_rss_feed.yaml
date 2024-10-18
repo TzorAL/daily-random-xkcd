@@ -13,34 +13,45 @@ jobs:
       contents: write  # Allow write access to the repository contents
 
     steps:
+      # Step 1: Checkout the repository code
       - name: Checkout code
         uses: actions/checkout@v3  # Use the latest stable version
 
-      # Create seen_comics.json if it doesn't exist
+      # Step 2: Create seen_comics.json if it doesn't exist
       - name: Create seen_comics.json if missing
         run: |
           if [ ! -f seen_comics.json ]; then
             echo "[]" > seen_comics.json
           fi
 
+      # Step 3: Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4  # Use the latest stable version
         with:
           python-version: '3.10'
 
+      # Step 4: Install dependencies
       - name: Install dependencies
         run: pip install requests
 
+      # Step 5: Run the script
       - name: Run script
         run: python generate_rss.py
 
-      # Commit and push the updated seen_comics.json to persist it across runs
+      # Step 6: Commit and push the updated seen_comics.json and RSS feed to persist it across runs
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add seen_comics.json xkcd_feed.xml
+
+          git add seen_comics.json docs/rss/xkcd_feed.xml
           git commit -m "Update seen comics and RSS feed" || echo "No changes to commit"
-          git push
+          git pull --rebase origin main  # Make sure to replace 'main' with your actual branch if different
+          git push origin main  # Explicitly push to the main branch
+
+          # Apply stashed changes if any
+          if git stash list | grep -q "stash@{0}"; then
+            git stash pop  # Apply stashed changes
+          fi
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub authentication token for pushing changes
