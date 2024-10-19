@@ -25,6 +25,29 @@ This repository **automatically generates a daily random xkcd comic** and serves
 
 ---
 
+## 🛠️ Getting Started
+
+You can use this tool in two ways:
+
+### 1. Use the Pre-Generated RSS Feed Hosted by GitHub
+
+- Subscribe to the **[Daily Random XKCD RSS Feed](https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml)**.
+- Optionally, configure email notifications via **RSS.app** or any other RSS service to receive daily updates whenever a new comic is available.
+
+### 2. Fork the Repository and Automate Your Own Feed
+
+If you'd like to run your own instance of this tool:
+
+1. **Fork** this repository to your GitHub account.
+2. **Enable GitHub Actions** in your forked repository.
+3. **Set up RSS.app**:
+   - Create a new RSS feed alert for the URL.
+   - Configure email notifications based on your preferences.
+4. Enjoy daily xkcd emails and check the latest comic each day.
+5. Access the 404 Page whenever you want a random xkcd comic.
+
+---
+
 ## 🔗 Links
 
 - **🚧 [404 HTML Page](https://tzoral.github.io/daily-random-xkcd/docs/404/)**  
@@ -33,20 +56,6 @@ This repository **automatically generates a daily random xkcd comic** and serves
 - **📡 [RSS Comic Feed](https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml)**  
   *An RSS feed of random XKCD comics, formatted in XML*.
 
----
-
-## 🛠️ Setup Instructions
-
-> **Note**: Make sure to fork and enable GitHub Actions to automate daily comic fetching.
-
-1. **Fork** this repository to your GitHub account.
-2. **Enable GitHub Actions** in your forked repository.
-3. **Set up RSS.app**:
-   - Create a new RSS feed alert for the URL
-   - Configure the email notifications based on your preferences.
-4. **Enjoy daily xkcd emails** and check the latest comic each day!
-5. **Access the 404 Page**
-   
 ---
 
 ## 📂 Files
