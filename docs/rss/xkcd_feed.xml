@@ -6,22 +6,22 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Sat, 19 Oct 2024 05:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 08:55:32 GMT</lastBuildDate>
     <item>
-      <title>Turing Test</title>
-      <link>https://xkcd.com/329/</link>
+      <title>Things You Learn</title>
+      <link>https://xkcd.com/1775/</link>
       <description>
         <![CDATA[
           <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/329/" style="color: #1a0dab; text-decoration: none;">#329</a>] Hit Turing right in the test-ees.</p>
-            <a href="https://imgs.xkcd.com/comics/turing_test.png" style="color: #1a0dab; text-decoration: none;">
-              <img src="https://imgs.xkcd.com/comics/turing_test.png" alt="Hit Turing right in the test-ees." style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/1775/" style="color: #1a0dab; text-decoration: none;">#1775</a>] Guess who has two thumbs and spent the night in an ER after trying to rescue a kitten that ran under his car at a stoplight and climbed up into the engine compartment? And, thanks to antibiotics, will continue having two thumbs? THIS GUY. (P.S. kitten is safe!)</p>
+            <a href="https://imgs.xkcd.com/comics/things_you_learn.png" style="color: #1a0dab; text-decoration: none;">
+              <img src="https://imgs.xkcd.com/comics/things_you_learn.png" alt="Guess who has two thumbs and spent the night in an ER after trying to rescue a kitten that ran under his car at a stoplight and climbed up into the engine compartment? And, thanks to antibiotics, will continue having two thumbs? THIS GUY. (P.S. kitten is safe!)" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/329/</guid>
-      <pubDate>2007-10-15</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1775/</guid>
+      <pubDate>2016-12-21</pubDate>
     </item>
   </channel>
 </rss>
