@@ -72,9 +72,11 @@ def generate_rss():
     title = comic_data['title']
     img_url = comic_data['img']
     alt_text = comic_data['alt']
-    pub_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
-    formatted_pub_date = datetime(int(comic_data['year']), int(comic_data['month']), int(comic_data['day'])).strftime("%a, %d %b %Y %H:%M:%S GMT")
     
+    # Format the original publication date in RFC-822 format
+    formatted_pub_date = datetime(int(comic_data['year']), int(comic_data['month']), int(comic_data['day'])).strftime("%a, %d %b %Y %H:%M:%S GMT")
+
+    # Update the href in atom:link to point to the RSS feed URL
     rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -83,8 +85,8 @@ def generate_rss():
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>{pub_date}</lastBuildDate>
-    <atom:link href="https://xkcd.com/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>{formatted_pub_date}</lastBuildDate>
+    <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>{title}</title>
       <link>https://xkcd.com/{comic_data['num']}/</link>
@@ -93,7 +95,7 @@ def generate_rss():
           <div>
             <p>[<a href="https://xkcd.com/{comic_data['num']}/">#{comic_data['num']}</a>] {alt_text}</p>
             <a href="{img_url}">
-              <img src="{img_url}" alt="{alt_text}" style="max-width: 100%; height: auto;" />
+              <img src="{img_url}" alt="{alt_text}" style="height: auto;" />
             </a>
           </div>
         ]]>
