@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[xkcd] Random Comic Feed</title>
     <link>https://xkcd.com/</link>
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Sat, 19 Oct 2024 08:55:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 09:09:50 GMT</lastBuildDate>
+    <atom:link href="https://xkcd.com/" rel="self" type="application/rss+xml" />
     <item>
-      <title>Things You Learn</title>
-      <link>https://xkcd.com/1775/</link>
+      <title>Jacket</title>
+      <link>https://xkcd.com/90/</link>
       <description>
         <![CDATA[
-          <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/1775/" style="color: #1a0dab; text-decoration: none;">#1775</a>] Guess who has two thumbs and spent the night in an ER after trying to rescue a kitten that ran under his car at a stoplight and climbed up into the engine compartment? And, thanks to antibiotics, will continue having two thumbs? THIS GUY. (P.S. kitten is safe!)</p>
-            <a href="https://imgs.xkcd.com/comics/things_you_learn.png" style="color: #1a0dab; text-decoration: none;">
-              <img src="https://imgs.xkcd.com/comics/things_you_learn.png" alt="Guess who has two thumbs and spent the night in an ER after trying to rescue a kitten that ran under his car at a stoplight and climbed up into the engine compartment? And, thanks to antibiotics, will continue having two thumbs? THIS GUY. (P.S. kitten is safe!)" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+          <div>
+            <p>[<a href="https://xkcd.com/90/">#90</a>] We have this conversation at least once a day in my apartment</p>
+            <a href="https://imgs.xkcd.com/comics/jacket.jpg">
+              <img src="https://imgs.xkcd.com/comics/jacket.jpg" alt="We have this conversation at least once a day in my apartment" style="max-width: 100%; height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1775/</guid>
-      <pubDate>2016-12-21</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/90/</guid>
+      <pubDate>2006-04-17</pubDate>
     </item>
   </channel>
 </rss>
