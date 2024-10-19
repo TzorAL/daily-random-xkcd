@@ -63,13 +63,12 @@ def generate_rss():
     seen_comics = load_seen_comics()
     comic_data = fetch_random_comic(seen_comics)
     if comic_data is None:
-
         return None  # Exit if we couldn't fetch a random comic
 
     # Update the seen comics list
     seen_comics.append(comic_data['num'])
     save_seen_comics(seen_comics)
-    
+
     title = comic_data['title']
     img_url = comic_data['img']
     alt_text = comic_data['alt']
@@ -77,7 +76,7 @@ def generate_rss():
     formatted_pub_date = f"{comic_data['year']}-{int(comic_data['month']):02d}-{int(comic_data['day']):02d}"
 
     rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>[xkcd] Random Comic Feed</title>
     <link>https://xkcd.com/</link>
@@ -85,15 +84,16 @@ def generate_rss():
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
     <lastBuildDate>{pub_date}</lastBuildDate>
+    <atom:link href="https://xkcd.com/" rel="self" type="application/rss+xml" />
     <item>
       <title>{title}</title>
       <link>https://xkcd.com/{comic_data['num']}/</link>
       <description>
         <![CDATA[
-          <div style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-            <p style="font-style: italic; color: #666;">[<a href="https://xkcd.com/{comic_data['num']}/" style="color: #1a0dab; text-decoration: none;">#{comic_data['num']}</a>] {alt_text}</p>
-            <a href="{img_url}" style="color: #1a0dab; text-decoration: none;">
-              <img src="{img_url}" alt="{alt_text}" style="max-width: 100%; height: auto; border-radius: 4px; margin-top: 10px;">
+          <div>
+            <p>[<a href="https://xkcd.com/{comic_data['num']}/">#{comic_data['num']}</a>] {alt_text}</p>
+            <a href="{img_url}">
+              <img src="{img_url}" alt="{alt_text}" style="max-width: 100%; height: auto;" />
             </a>
           </div>
         ]]>
