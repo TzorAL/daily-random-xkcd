@@ -73,8 +73,8 @@ def generate_rss():
     img_url = comic_data['img']
     alt_text = comic_data['alt']
     pub_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
-    formatted_pub_date = f"{comic_data['year']}-{int(comic_data['month']):02d}-{int(comic_data['day']):02d}"
-
+    formatted_pub_date = datetime(int(comic_data['year']), int(comic_data['month']), int(comic_data['day'])).strftime("%a, %d %b %Y %H:%M:%S GMT")
+    
     rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
