@@ -15,9 +15,9 @@ jobs:
     steps:
       # Step 1: Checkout the repository code
       - name: Checkout code
-        uses: actions/checkout@v3  # Use the latest stable version
+        uses: actions/checkout@v3
 
-      # Step 2: Create seen_comics.json if it doesn't exist
+      # Step 2: Create seen_comics.json if missing
       - name: Create seen_comics.json if missing
         run: |
           if [ ! -f seen_comics.json ]; then
@@ -26,7 +26,7 @@ jobs:
 
       # Step 3: Set up Python
       - name: Set up Python
-        uses: actions/setup-python@v4  # Use the latest stable version
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
@@ -38,7 +38,7 @@ jobs:
       - name: Run script
         run: python generate_rss.py
 
-      # Step 6: Commit and push the updated seen_comics.json and RSS feed to persist it across runs
+      # Step 6: Commit and push the updated seen_comics.json and RSS feed
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
@@ -46,12 +46,12 @@ jobs:
 
           git add seen_comics.json docs/rss/xkcd_feed.xml
           git commit -m "Update seen comics and RSS feed" || echo "No changes to commit"
-          git pull --rebase origin main  # Make sure to replace 'main' with your actual branch if different
-          git push origin main  # Explicitly push to the main branch
 
-          # Apply stashed changes if any
-          if git stash list | grep -q "stash@{0}"; then
-            git stash pop  # Apply stashed changes
-          fi
+          # Fetch the latest changes from remote and rebase
+          git fetch origin
+          git rebase origin/main
+
+          # Push the changes
+          git push origin main || git pull --rebase origin main && git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub authentication token for pushing changes
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
