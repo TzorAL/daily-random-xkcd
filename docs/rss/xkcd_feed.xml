@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 09 Oct 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How Old</title>
-      <link>https://xkcd.com/2213/</link>
+      <title>Never Seen Star Wars</title>
+      <link>https://xkcd.com/1769/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2213/">#2213</a>] We've met! I remember you when you were thiiiis tall! [*holds a hand an inch above their head*]</p>
-            <a href="https://imgs.xkcd.com/comics/how_old.png">
-              <img src="https://imgs.xkcd.com/comics/how_old.png" alt="We've met! I remember you when you were thiiiis tall! [*holds a hand an inch above their head*]" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1769/">#1769</a>] If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.</p>
+            <a href="https://imgs.xkcd.com/comics/never_seen_star_wars.png">
+              <img src="https://imgs.xkcd.com/comics/never_seen_star_wars.png" alt="If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2213/</guid>
-      <pubDate>Wed, 09 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1769/</guid>
+      <pubDate>Wed, 07 Dec 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
