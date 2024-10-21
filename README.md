@@ -69,6 +69,19 @@ If you'd like to run your own instance of this tool:
 
 ---
 
+## 🔮 Future Expansion
+
+We plan to expand this project to include **other webcomics** such as *Saturday Morning Breakfast Cereal* (SMBC). The vision includes:
+
+- **Daily Fetching**: Automatically fetching a random SMBC comic each day, similar to the xkcd functionality.
+- **Separate RSS Feeds**: Creating distinct RSS feeds for each comic to cater to different audiences.
+- **Integration**: Providing a unified interface for users to subscribe to multiple comic feeds simultaneously.
+- **Themed Error Pages**: Developing themed 404 pages for each comic style, making the error experience unique and enjoyable.
+
+Stay tuned for updates as we explore these exciting new features!
+
+---
+
 ## 📝 License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
