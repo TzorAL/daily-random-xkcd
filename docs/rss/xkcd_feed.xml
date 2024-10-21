@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 07 Dec 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Apr 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Never Seen Star Wars</title>
-      <link>https://xkcd.com/1769/</link>
+      <title>Hypotheticals</title>
+      <link>https://xkcd.com/248/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1769/">#1769</a>] If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.</p>
-            <a href="https://imgs.xkcd.com/comics/never_seen_star_wars.png">
-              <img src="https://imgs.xkcd.com/comics/never_seen_star_wars.png" alt="If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/248/">#248</a>] What if someone broke out of a hypothetical situation in your room right now?</p>
+            <a href="https://imgs.xkcd.com/comics/hypotheticals.png">
+              <img src="https://imgs.xkcd.com/comics/hypotheticals.png" alt="What if someone broke out of a hypothetical situation in your room right now?" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1769/</guid>
-      <pubDate>Wed, 07 Dec 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/248/</guid>
+      <pubDate>Fri, 13 Apr 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
