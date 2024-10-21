@@ -1,7 +1,7 @@
 # 🎲 Daily Random xkcd 🎲
 
 ## 📖 About
-This repository **automatically generates a daily random xkcd comic** and serves it as an **RSS feed**. Each day, a new comic is fetched, formatted, and made available for subscription. Users can configure **RSS.app** to send email notifications whenever a new comic is available in the feed. It also features a fun xkcd-themed 404 error page that showcases a random comic in a playful layout.
+This repository **automatically generates a daily random xkcd comic** and serves it as an **RSS feed**. Each day, a new comic is fetched, formatted, and made available for subscription. Users can configure RSS feed reader to send email notifications whenever a new comic is available in the feed. It also features a fun xkcd-themed 404 error page that showcases a random comic in a playful layout.
 
 ---
 
@@ -9,7 +9,6 @@ This repository **automatically generates a daily random xkcd comic** and serves
 - 🕒 **Daily random xkcd comic fetching**.
 - 📡 **Generates an RSS feed** that updates with new comic details.
 - 🔄 **Tracks seen comics** to avoid duplicates via `seen_comics.json`.
-- 📧 **RSS.app email notifications** for new comics.
 - 🎨 **Custom xkcd 404 HTML page** showcasing a random comic in a unique format.
 
 ---
@@ -19,8 +18,8 @@ This repository **automatically generates a daily random xkcd comic** and serves
 2. 📥 **Random Comic Fetch**: The script fetches a random comic from the xkcd API, ensuring it hasn't been seen before.
 3. 📝 **XML Generation**: Comic details are formatted as XML and saved to `docs/xkcd_feed.xml`.
 4. 🗂️ **Seen Comics Tracking**: The comics are tracked in `seen_comics.json` to avoid repeats.
-5. 🚀 **RSS Hosting**: The RSS feed is hosted on GitHub for easy access by RSS.app.
-6. 📧 **Email Notifications**: RSS.app monitors the feed and sends email alerts when a new comic is available.
+5. 🚀 **RSS Hosting**: The RSS feed is hosted on GitHub for easy access by RSS web feeds.
+6. 📧 **Email Notifications**: RSS feed reader monitors the feed and sends email alerts when a new comic is available.
 7. 💡 **404 Page**: A Python script generates an xkcd-themed 404 page with a random comic.
 
 ---
@@ -32,7 +31,7 @@ You can use this tool in two ways:
 ### 1. Use the Pre-Generated RSS Feed Hosted by GitHub
 
 - Subscribe to the **[Daily Random XKCD RSS Feed](https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml)**.
-- Optionally, configure email notifications via **RSS.app** or any other RSS service to receive daily updates whenever a new comic is available.
+- Optionally, configure email notifications via RSS feed readers or any other RSS service to receive daily updates whenever a new comic is available.
 
 ### 2. Fork the Repository and Automate Your Own Feed
 
@@ -40,7 +39,7 @@ If you'd like to run your own instance of this tool:
 
 1. **Fork** this repository to your GitHub account.
 2. **Enable GitHub Actions** in your forked repository.
-3. **Set up RSS.app**:
+3. **Set up RSS feed reader**:
    - Create a new RSS feed alert for the URL.
    - Configure email notifications based on your preferences.
 4. Enjoy daily xkcd emails and check the latest comic each day.
@@ -79,7 +78,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 - Thanks to [xkcd](https://xkcd.com/) for their amazing comics.
 - Shoutout to [GitHub Actions](https://docs.github.com/en/actions) for making automation easy.
-- Thanks to [RSS.app](https://rss.app/) for helping automate RSS-to-email services.
+- Thanks to [Feedrabbit](https://feedrabbit.com/) for helping automate RSS-to-email services.
 
 ---
 
