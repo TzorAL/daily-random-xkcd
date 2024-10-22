@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 13 Apr 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hypotheticals</title>
-      <link>https://xkcd.com/248/</link>
+      <title>TED Talk</title>
+      <link>https://xkcd.com/541/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/248/">#248</a>] What if someone broke out of a hypothetical situation in your room right now?</p>
-            <a href="https://imgs.xkcd.com/comics/hypotheticals.png">
-              <img src="https://imgs.xkcd.com/comics/hypotheticals.png" alt="What if someone broke out of a hypothetical situation in your room right now?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/541/">#541</a>] The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident.</p>
+            <a href="https://imgs.xkcd.com/comics/ted_talk.png">
+              <img src="https://imgs.xkcd.com/comics/ted_talk.png" alt="The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/248/</guid>
-      <pubDate>Fri, 13 Apr 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/541/</guid>
+      <pubDate>Mon, 09 Feb 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
