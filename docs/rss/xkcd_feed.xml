@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 09 Feb 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>TED Talk</title>
-      <link>https://xkcd.com/541/</link>
+      <title>Presidential Succession</title>
+      <link>https://xkcd.com/2003/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/541/">#541</a>] The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident.</p>
-            <a href="https://imgs.xkcd.com/comics/ted_talk.png">
-              <img src="https://imgs.xkcd.com/comics/ted_talk.png" alt="The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2003/">#2003</a>] Ties are broken by whoever was closest to the surface of Europa when they were born.</p>
+            <a href="https://imgs.xkcd.com/comics/presidential_succession.png">
+              <img src="https://imgs.xkcd.com/comics/presidential_succession.png" alt="Ties are broken by whoever was closest to the surface of Europa when they were born." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/541/</guid>
-      <pubDate>Mon, 09 Feb 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2003/</guid>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
