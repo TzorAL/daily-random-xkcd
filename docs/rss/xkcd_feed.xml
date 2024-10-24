@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Presidential Succession</title>
-      <link>https://xkcd.com/2003/</link>
+      <title>Horoscopes</title>
+      <link>https://xkcd.com/1512/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2003/">#2003</a>] Ties are broken by whoever was closest to the surface of Europa when they were born.</p>
-            <a href="https://imgs.xkcd.com/comics/presidential_succession.png">
-              <img src="https://imgs.xkcd.com/comics/presidential_succession.png" alt="Ties are broken by whoever was closest to the surface of Europa when they were born." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1512/">#1512</a>] If you live in the Northern hemisphere, anyway. In the southern hemisphere, due to the coriolis effect, babies are born nine months BEFORE they're conceived.</p>
+            <a href="https://imgs.xkcd.com/comics/horoscopes.png">
+              <img src="https://imgs.xkcd.com/comics/horoscopes.png" alt="If you live in the Northern hemisphere, anyway. In the southern hemisphere, due to the coriolis effect, babies are born nine months BEFORE they're conceived." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2003/</guid>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1512/</guid>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
