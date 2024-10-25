@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 15 Apr 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Horoscopes</title>
-      <link>https://xkcd.com/1512/</link>
+      <title>Social Media</title>
+      <link>https://xkcd.com/1239/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1512/">#1512</a>] If you live in the Northern hemisphere, anyway. In the southern hemisphere, due to the coriolis effect, babies are born nine months BEFORE they're conceived.</p>
-            <a href="https://imgs.xkcd.com/comics/horoscopes.png">
-              <img src="https://imgs.xkcd.com/comics/horoscopes.png" alt="If you live in the Northern hemisphere, anyway. In the southern hemisphere, due to the coriolis effect, babies are born nine months BEFORE they're conceived." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1239/">#1239</a>] The social media reaction to this asteroid announcement has been sharply negative. Care to respond?</p>
+            <a href="https://imgs.xkcd.com/comics/social_media.png">
+              <img src="https://imgs.xkcd.com/comics/social_media.png" alt="The social media reaction to this asteroid announcement has been sharply negative. Care to respond?" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1512/</guid>
-      <pubDate>Wed, 15 Apr 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1239/</guid>
+      <pubDate>Wed, 17 Jul 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
