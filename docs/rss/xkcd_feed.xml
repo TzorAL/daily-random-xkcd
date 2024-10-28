@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 01 Mar 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unpublished Discoveries</title>
-      <link>https://xkcd.com/1805/</link>
+      <title>Valentine Dilemma</title>
+      <link>https://xkcd.com/1016/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1805/">#1805</a>] If you must know, I'm currently researching how to save this emailed tax form as a regular PDF so I can print and sign it. Our work isn't a lock for the Nobel, but we're in the running.</p>
-            <a href="https://imgs.xkcd.com/comics/unpublished_discoveries.png">
-              <img src="https://imgs.xkcd.com/comics/unpublished_discoveries.png" alt="If you must know, I'm currently researching how to save this emailed tax form as a regular PDF so I can print and sign it. Our work isn't a lock for the Nobel, but we're in the running." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1016/">#1016</a>] The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.</p>
+            <a href="https://imgs.xkcd.com/comics/valentine_dilemma.png">
+              <img src="https://imgs.xkcd.com/comics/valentine_dilemma.png" alt="The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1805/</guid>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1016/</guid>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
