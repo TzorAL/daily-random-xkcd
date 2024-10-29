@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 13 Feb 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Valentine Dilemma</title>
-      <link>https://xkcd.com/1016/</link>
+      <title>Lab Equipment</title>
+      <link>https://xkcd.com/2514/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1016/">#1016</a>] The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case.</p>
-            <a href="https://imgs.xkcd.com/comics/valentine_dilemma.png">
-              <img src="https://imgs.xkcd.com/comics/valentine_dilemma.png" alt="The worst resolution to the Valentine Prisoner's Dilemma when YOU decide not to give your partner a present but your PARTNER decides to testify against you in the armed robbery case." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2514/">#2514</a>] I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though.</p>
+            <a href="https://imgs.xkcd.com/comics/lab_equipment.png">
+              <img src="https://imgs.xkcd.com/comics/lab_equipment.png" alt="I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1016/</guid>
-      <pubDate>Mon, 13 Feb 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2514/</guid>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
