@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lab Equipment</title>
-      <link>https://xkcd.com/2514/</link>
+      <title>Exoplanet Names</title>
+      <link>https://xkcd.com/1253/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2514/">#2514</a>] I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though.</p>
-            <a href="https://imgs.xkcd.com/comics/lab_equipment.png">
-              <img src="https://imgs.xkcd.com/comics/lab_equipment.png" alt="I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1253/">#1253</a>] If you have any ideas, I hear you can send them to iaupublic@iap.fr.</p>
+            <a href="https://imgs.xkcd.com/comics/exoplanet_names.png">
+              <img src="https://imgs.xkcd.com/comics/exoplanet_names.png" alt="If you have any ideas, I hear you can send them to iaupublic@iap.fr." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2514/</guid>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1253/</guid>
+      <pubDate>Mon, 19 Aug 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
