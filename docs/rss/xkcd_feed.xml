@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 19 Aug 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Exoplanet Names</title>
-      <link>https://xkcd.com/1253/</link>
+      <title>The Wreck of the Edmund Fitzgerald</title>
+      <link>https://xkcd.com/2910/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1253/">#1253</a>] If you have any ideas, I hear you can send them to iaupublic@iap.fr.</p>
-            <a href="https://imgs.xkcd.com/comics/exoplanet_names.png">
-              <img src="https://imgs.xkcd.com/comics/exoplanet_names.png" alt="If you have any ideas, I hear you can send them to iaupublic@iap.fr." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2910/">#2910</a>] You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!</p>
+            <a href="https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png">
+              <img src="https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png" alt="You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1253/</guid>
-      <pubDate>Mon, 19 Aug 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2910/</guid>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
