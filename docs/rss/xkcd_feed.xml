@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 22 Mar 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Wreck of the Edmund Fitzgerald</title>
-      <link>https://xkcd.com/2910/</link>
+      <title>Salary Negotiation</title>
+      <link>https://xkcd.com/2597/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2910/">#2910</a>] You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!</p>
-            <a href="https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png">
-              <img src="https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png" alt="You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2597/">#2597</a>] "We can do 0.33 or 0.34, but our payroll software doesn't allow us to--" "NO DEAL."</p>
+            <a href="https://imgs.xkcd.com/comics/salary_negotiation.png">
+              <img src="https://imgs.xkcd.com/comics/salary_negotiation.png" alt=""We can do 0.33 or 0.34, but our payroll software doesn't allow us to--" "NO DEAL."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2910/</guid>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2597/</guid>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
