@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 20 Oct 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Black Holes vs Regular Holes</title>
-      <link>https://xkcd.com/2844/</link>
+      <title>Legal Hacks</title>
+      <link>https://xkcd.com/504/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2844/">#2844</a>] Created by the collapse of: [massive stars] [Florida limestone bedrock]</p>
-            <a href="https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png">
-              <img src="https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png" alt="Created by the collapse of: [massive stars] [Florida limestone bedrock]" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/504/">#504</a>] It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.</p>
+            <a href="https://imgs.xkcd.com/comics/legal_hacks.png">
+              <img src="https://imgs.xkcd.com/comics/legal_hacks.png" alt="It's totally a reasonable modern analogue.  Jefferson would have been all about crypto." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2844/</guid>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/504/</guid>
+      <pubDate>Fri, 14 Nov 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
