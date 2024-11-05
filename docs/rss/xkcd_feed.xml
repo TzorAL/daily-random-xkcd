@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 14 Nov 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Legal Hacks</title>
-      <link>https://xkcd.com/504/</link>
+      <title>Stratigraphic Record</title>
+      <link>https://xkcd.com/1194/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/504/">#504</a>] It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.</p>
-            <a href="https://imgs.xkcd.com/comics/legal_hacks.png">
-              <img src="https://imgs.xkcd.com/comics/legal_hacks.png" alt="It's totally a reasonable modern analogue.  Jefferson would have been all about crypto." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1194/">#1194</a>] All we have are these stupid tantalizing zircons and the scars on the face of the Moon.</p>
+            <a href="https://imgs.xkcd.com/comics/stratigraphic_record.png">
+              <img src="https://imgs.xkcd.com/comics/stratigraphic_record.png" alt="All we have are these stupid tantalizing zircons and the scars on the face of the Moon." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/504/</guid>
-      <pubDate>Fri, 14 Nov 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1194/</guid>
+      <pubDate>Wed, 03 Apr 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
