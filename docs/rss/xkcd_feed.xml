@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 21 Jul 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fans</title>
-      <link>https://xkcd.com/131/</link>
+      <title>Superm*n</title>
+      <link>https://xkcd.com/1394/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/131/">#131</a>] It's not going to break the fan, bouncing a rubber ball off the wall isn't going to dent it, and the roof can hold me just fine.  You LIED!</p>
-            <a href="https://imgs.xkcd.com/comics/fans.png">
-              <img src="https://imgs.xkcd.com/comics/fans.png" alt="It's not going to break the fan, bouncing a rubber ball off the wall isn't going to dent it, and the roof can hold me just fine.  You LIED!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1394/">#1394</a>] See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations.</p>
+            <a href="https://imgs.xkcd.com/comics/superm_n.png">
+              <img src="https://imgs.xkcd.com/comics/superm_n.png" alt="See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/131/</guid>
-      <pubDate>Fri, 21 Jul 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1394/</guid>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
