@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 14 Jul 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Superm*n</title>
-      <link>https://xkcd.com/1394/</link>
+      <title>Ice</title>
+      <link>https://xkcd.com/914/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1394/">#1394</a>] See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations.</p>
-            <a href="https://imgs.xkcd.com/comics/superm_n.png">
-              <img src="https://imgs.xkcd.com/comics/superm_n.png" alt="See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/914/">#914</a>] On the plus side, she wrote 'Welcome to the AAA Club!' in lipstick on the bathroom mirror, and left me a membership/roadside assistance card on the counter.</p>
+            <a href="https://imgs.xkcd.com/comics/ice.png">
+              <img src="https://imgs.xkcd.com/comics/ice.png" alt="On the plus side, she wrote 'Welcome to the AAA Club!' in lipstick on the bathroom mirror, and left me a membership/roadside assistance card on the counter." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1394/</guid>
-      <pubDate>Mon, 14 Jul 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/914/</guid>
+      <pubDate>Mon, 20 Jun 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
