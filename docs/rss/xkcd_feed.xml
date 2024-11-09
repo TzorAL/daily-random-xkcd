@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 20 Jun 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ice</title>
-      <link>https://xkcd.com/914/</link>
+      <title>Frequency</title>
+      <link>https://xkcd.com/1331/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/914/">#914</a>] On the plus side, she wrote 'Welcome to the AAA Club!' in lipstick on the bathroom mirror, and left me a membership/roadside assistance card on the counter.</p>
-            <a href="https://imgs.xkcd.com/comics/ice.png">
-              <img src="https://imgs.xkcd.com/comics/ice.png" alt="On the plus side, she wrote 'Welcome to the AAA Club!' in lipstick on the bathroom mirror, and left me a membership/roadside assistance card on the counter." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1331/">#1331</a>] This comic shows estimated average frequency. I wanted to include the pitch drop experiment, but it turns out the gif format has some issues with decade-long loops.</p>
+            <a href="https://imgs.xkcd.com/comics/frequency.png">
+              <img src="https://imgs.xkcd.com/comics/frequency.png" alt="This comic shows estimated average frequency. I wanted to include the pitch drop experiment, but it turns out the gif format has some issues with decade-long loops." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/914/</guid>
-      <pubDate>Mon, 20 Jun 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1331/</guid>
+      <pubDate>Mon, 17 Feb 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
