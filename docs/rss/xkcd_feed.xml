@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Old Game Worlds</title>
-      <link>https://xkcd.com/2189/</link>
+      <title>Canada</title>
+      <link>https://xkcd.com/180/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2189/">#2189</a>] Ok, how many coins for a cinnamon roll?</p>
-            <a href="https://imgs.xkcd.com/comics/old_game_worlds.png">
-              <img src="https://imgs.xkcd.com/comics/old_game_worlds.png" alt="Ok, how many coins for a cinnamon roll?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/180/">#180</a>] IT'S ALL REAL</p>
+            <a href="https://imgs.xkcd.com/comics/canada.png">
+              <img src="https://imgs.xkcd.com/comics/canada.png" alt="IT'S ALL REAL" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2189/</guid>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/180/</guid>
+      <pubDate>Mon, 06 Nov 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
