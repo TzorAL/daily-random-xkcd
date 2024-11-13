@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 17 Dec 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tree</title>
-      <link>https://xkcd.com/835/</link>
+      <title>Who Sends the First Text?</title>
+      <link>https://xkcd.com/2065/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/835/">#835</a>] Not only is that terrible in general, but you just KNOW Billy's going to open the root present first, and then everyone will have to wait while the heap is rebuilt.</p>
-            <a href="https://imgs.xkcd.com/comics/tree.png">
-              <img src="https://imgs.xkcd.com/comics/tree.png" alt="Not only is that terrible in general, but you just KNOW Billy's going to open the root present first, and then everyone will have to wait while the heap is rebuilt." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2065/">#2065</a>] I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know.</p>
+            <a href="https://imgs.xkcd.com/comics/who_sends_the_first_text.png">
+              <img src="https://imgs.xkcd.com/comics/who_sends_the_first_text.png" alt="I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/835/</guid>
-      <pubDate>Fri, 17 Dec 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2065/</guid>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
