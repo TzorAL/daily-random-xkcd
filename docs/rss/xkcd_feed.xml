@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Who Sends the First Text?</title>
-      <link>https://xkcd.com/2065/</link>
+      <title>Subways</title>
+      <link>https://xkcd.com/1196/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2065/">#2065</a>] I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know.</p>
-            <a href="https://imgs.xkcd.com/comics/who_sends_the_first_text.png">
-              <img src="https://imgs.xkcd.com/comics/who_sends_the_first_text.png" alt="I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1196/">#1196</a>] About one in three North American subway stops are in NYC.</p>
+            <a href="https://imgs.xkcd.com/comics/subways.png">
+              <img src="https://imgs.xkcd.com/comics/subways.png" alt="About one in three North American subway stops are in NYC." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2065/</guid>
-      <pubDate>Mon, 29 Oct 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1196/</guid>
+      <pubDate>Mon, 08 Apr 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
