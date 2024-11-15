@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 08 Apr 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Subways</title>
-      <link>https://xkcd.com/1196/</link>
+      <title>Optimization</title>
+      <link>https://xkcd.com/1691/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1196/">#1196</a>] About one in three North American subway stops are in NYC.</p>
-            <a href="https://imgs.xkcd.com/comics/subways.png">
-              <img src="https://imgs.xkcd.com/comics/subways.png" alt="About one in three North American subway stops are in NYC." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1691/">#1691</a>] Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.</p>
+            <a href="https://imgs.xkcd.com/comics/optimization.png">
+              <img src="https://imgs.xkcd.com/comics/optimization.png" alt="Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1196/</guid>
-      <pubDate>Mon, 08 Apr 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1691/</guid>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
