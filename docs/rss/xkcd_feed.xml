@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 08 Jun 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Aug 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Optimization</title>
-      <link>https://xkcd.com/1691/</link>
+      <title>Oversight</title>
+      <link>https://xkcd.com/940/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1691/">#1691</a>] Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.</p>
-            <a href="https://imgs.xkcd.com/comics/optimization.png">
-              <img src="https://imgs.xkcd.com/comics/optimization.png" alt="Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/940/">#940</a>] I felt so clever when I found a way to game the Fitocracy system by incorporating a set of easy but high-scoring activities into my regular schedule. Took me a bit to realize I'd been tricked into setting up a daily exercise routine.</p>
+            <a href="https://imgs.xkcd.com/comics/oversight.png">
+              <img src="https://imgs.xkcd.com/comics/oversight.png" alt="I felt so clever when I found a way to game the Fitocracy system by incorporating a set of easy but high-scoring activities into my regular schedule. Took me a bit to realize I'd been tricked into setting up a daily exercise routine." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1691/</guid>
-      <pubDate>Wed, 08 Jun 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/940/</guid>
+      <pubDate>Fri, 19 Aug 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
