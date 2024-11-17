@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 19 Aug 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Oversight</title>
-      <link>https://xkcd.com/940/</link>
+      <title>Universal Dreams</title>
+      <link>https://xkcd.com/1943/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/940/">#940</a>] I felt so clever when I found a way to game the Fitocracy system by incorporating a set of easy but high-scoring activities into my regular schedule. Took me a bit to realize I'd been tricked into setting up a daily exercise routine.</p>
-            <a href="https://imgs.xkcd.com/comics/oversight.png">
-              <img src="https://imgs.xkcd.com/comics/oversight.png" alt="I felt so clever when I found a way to game the Fitocracy system by incorporating a set of easy but high-scoring activities into my regular schedule. Took me a bit to realize I'd been tricked into setting up a daily exercise routine." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1943/">#1943</a>] "That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." </p>
+            <a href="https://imgs.xkcd.com/comics/universal_dreams.png">
+              <img src="https://imgs.xkcd.com/comics/universal_dreams.png" alt=""That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." " style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/940/</guid>
-      <pubDate>Fri, 19 Aug 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1943/</guid>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
