@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jan 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Universal Dreams</title>
-      <link>https://xkcd.com/1943/</link>
+      <title>Models of the Atom</title>
+      <link>https://xkcd.com/2100/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1943/">#1943</a>] "That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." </p>
-            <a href="https://imgs.xkcd.com/comics/universal_dreams.png">
-              <img src="https://imgs.xkcd.com/comics/universal_dreams.png" alt=""That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." " style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2100/">#2100</a>] J.J. Thompson won a Nobel Prize for his work in electricity in gases, but was unfairly passed over for his "An atom is plum pudding, and plum pudding is MADE of atoms! Duuuuude." theory.</p>
+            <a href="https://imgs.xkcd.com/comics/models_of_the_atom.png">
+              <img src="https://imgs.xkcd.com/comics/models_of_the_atom.png" alt="J.J. Thompson won a Nobel Prize for his work in electricity in gases, but was unfairly passed over for his "An atom is plum pudding, and plum pudding is MADE of atoms! Duuuuude." theory." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1943/</guid>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2100/</guid>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
