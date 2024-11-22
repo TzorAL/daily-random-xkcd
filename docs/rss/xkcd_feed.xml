@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 05 Jun 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Dec 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Voynich Manuscript</title>
-      <link>https://xkcd.com/593/</link>
+      <title>The Sun</title>
+      <link>https://xkcd.com/673/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/593/">#593</a>] Wait, is that the ORIGINAL voynich manuscript?  Where did you GET that?  Wanna try playing a round of Druids and Dicotyledons?</p>
-            <a href="https://imgs.xkcd.com/comics/voynich_manuscript.png">
-              <img src="https://imgs.xkcd.com/comics/voynich_manuscript.png" alt="Wait, is that the ORIGINAL voynich manuscript?  Where did you GET that?  Wanna try playing a round of Druids and Dicotyledons?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/673/">#673</a>] Obligatory bad guy: This operation is sheer foolishness, and it's not happening on my watch!  Mainly because I can't figure out how to adjust the time.</p>
+            <a href="https://imgs.xkcd.com/comics/the_sun.png">
+              <img src="https://imgs.xkcd.com/comics/the_sun.png" alt="Obligatory bad guy: This operation is sheer foolishness, and it's not happening on my watch!  Mainly because I can't figure out how to adjust the time." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/593/</guid>
-      <pubDate>Fri, 05 Jun 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/673/</guid>
+      <pubDate>Wed, 09 Dec 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
