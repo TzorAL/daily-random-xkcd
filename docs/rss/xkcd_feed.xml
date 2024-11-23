@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 09 Dec 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Sun</title>
-      <link>https://xkcd.com/673/</link>
+      <title>Emoji Movie</title>
+      <link>https://xkcd.com/1857/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/673/">#673</a>] Obligatory bad guy: This operation is sheer foolishness, and it's not happening on my watch!  Mainly because I can't figure out how to adjust the time.</p>
-            <a href="https://imgs.xkcd.com/comics/the_sun.png">
-              <img src="https://imgs.xkcd.com/comics/the_sun.png" alt="Obligatory bad guy: This operation is sheer foolishness, and it's not happening on my watch!  Mainly because I can't figure out how to adjust the time." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1857/">#1857</a>] Some other studio should do the Antz/A Bug's Life thing and release The Dingbats Movie at the same time.</p>
+            <a href="https://imgs.xkcd.com/comics/emoji_movie.png">
+              <img src="https://imgs.xkcd.com/comics/emoji_movie.png" alt="Some other studio should do the Antz/A Bug's Life thing and release The Dingbats Movie at the same time." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/673/</guid>
-      <pubDate>Wed, 09 Dec 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1857/</guid>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
