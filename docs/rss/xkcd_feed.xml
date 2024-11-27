@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 09 Sep 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 May 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interruption</title>
-      <link>https://xkcd.com/2670/</link>
+      <title>Darmok and Jalad</title>
+      <link>https://xkcd.com/902/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2670/">#2670</a>] It's been extra bad ever since my GPS got stuck on Phoebe Judge mode.</p>
-            <a href="https://imgs.xkcd.com/comics/interruption.png">
-              <img src="https://imgs.xkcd.com/comics/interruption.png" alt="It's been extra bad ever since my GPS got stuck on Phoebe Judge mode." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/902/">#902</a>] I wonder how often Patrick Stewart has Darmok flashbacks when talking to Star Trek fans.</p>
+            <a href="https://imgs.xkcd.com/comics/darmok_and_jalad.png">
+              <img src="https://imgs.xkcd.com/comics/darmok_and_jalad.png" alt="I wonder how often Patrick Stewart has Darmok flashbacks when talking to Star Trek fans." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2670/</guid>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/902/</guid>
+      <pubDate>Mon, 23 May 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
