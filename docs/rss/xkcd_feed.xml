@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 24 Sep 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 May 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>28-Hour Day</title>
-      <link>https://xkcd.com/320/</link>
+      <title>The Glass Necklace</title>
+      <link>https://xkcd.com/260/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/320/">#320</a>] Small print: this schedule will eventually drive one stark raving mad.</p>
-            <a href="https://imgs.xkcd.com/comics/28_hour_day.png">
-              <img src="https://imgs.xkcd.com/comics/28_hour_day.png" alt="Small print: this schedule will eventually drive one stark raving mad." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/260/">#260</a>] Well, for some value of 'actually work'.</p>
+            <a href="https://imgs.xkcd.com/comics/the_glass_necklace.png">
+              <img src="https://imgs.xkcd.com/comics/the_glass_necklace.png" alt="Well, for some value of 'actually work'." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/320/</guid>
-      <pubDate>Mon, 24 Sep 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/260/</guid>
+      <pubDate>Fri, 11 May 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
