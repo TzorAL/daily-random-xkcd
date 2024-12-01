@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 07 May 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Every Major's Terrible</title>
-      <link>https://xkcd.com/1052/</link>
+      <title>Minkowski Space</title>
+      <link>https://xkcd.com/2646/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1052/">#1052</a>] Someday I'll be the first to get a Ph. D in 'Undeclared'.</p>
-            <a href="https://imgs.xkcd.com/comics/every_majors_terrible.png">
-              <img src="https://imgs.xkcd.com/comics/every_majors_terrible.png" alt="Someday I'll be the first to get a Ph. D in 'Undeclared'." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2646/">#2646</a>] My liege, we were able to follow the ship into Minkowski space, but now they've jumped to Hilbert space and they could honestly be anywhere.</p>
+            <a href="https://imgs.xkcd.com/comics/minkowski_space.png">
+              <img src="https://imgs.xkcd.com/comics/minkowski_space.png" alt="My liege, we were able to follow the ship into Minkowski space, but now they've jumped to Hilbert space and they could honestly be anywhere." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1052/</guid>
-      <pubDate>Mon, 07 May 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2646/</guid>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
