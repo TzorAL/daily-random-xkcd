@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 26 Jan 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Night Sky</title>
-      <link>https://xkcd.com/1947/</link>
+      <title>Sky</title>
+      <link>https://xkcd.com/1115/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1947/">#1947</a>] There's a mountain lion nearby, but it didn't notice you because it's reading Facebook.</p>
-            <a href="https://imgs.xkcd.com/comics/night_sky.png">
-              <img src="https://imgs.xkcd.com/comics/night_sky.png" alt="There's a mountain lion nearby, but it didn't notice you because it's reading Facebook." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1115/">#1115</a>] I dropped a bird and I didn't hear it hit bottom.</p>
+            <a href="https://imgs.xkcd.com/comics/sky.png">
+              <img src="https://imgs.xkcd.com/comics/sky.png" alt="I dropped a bird and I didn't hear it hit bottom." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1947/</guid>
-      <pubDate>Fri, 26 Jan 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1115/</guid>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
