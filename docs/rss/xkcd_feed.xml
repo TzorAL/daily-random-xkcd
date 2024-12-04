@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 01 Oct 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sky</title>
-      <link>https://xkcd.com/1115/</link>
+      <title>Late Cenozoic</title>
+      <link>https://xkcd.com/2990/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1115/">#1115</a>] I dropped a bird and I didn't hear it hit bottom.</p>
-            <a href="https://imgs.xkcd.com/comics/sky.png">
-              <img src="https://imgs.xkcd.com/comics/sky.png" alt="I dropped a bird and I didn't hear it hit bottom." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2990/">#2990</a>] Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates.</p>
+            <a href="https://imgs.xkcd.com/comics/late_cenozoic.png">
+              <img src="https://imgs.xkcd.com/comics/late_cenozoic.png" alt="Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1115/</guid>
-      <pubDate>Mon, 01 Oct 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2990/</guid>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
