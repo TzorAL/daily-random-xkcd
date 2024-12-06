@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 16 Aug 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sample</title>
-      <link>https://xkcd.com/780/</link>
+      <title>Comet Visitor</title>
+      <link>https://xkcd.com/2524/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/780/">#780</a>] There are two or three songs out there with beeps in the chorus that sound exactly like the clock radio alarm I had in high school, and hearing it makes me think my life since junior year has been a dream I'm about to wake up from.</p>
-            <a href="https://imgs.xkcd.com/comics/sample.png">
-              <img src="https://imgs.xkcd.com/comics/sample.png" alt="There are two or three songs out there with beeps in the chorus that sound exactly like the clock radio alarm I had in high school, and hearing it makes me think my life since junior year has been a dream I'm about to wake up from." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2524/">#2524</a>] It's a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!</p>
+            <a href="https://imgs.xkcd.com/comics/comet_visitor.png">
+              <img src="https://imgs.xkcd.com/comics/comet_visitor.png" alt="It's a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/780/</guid>
-      <pubDate>Mon, 16 Aug 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2524/</guid>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
