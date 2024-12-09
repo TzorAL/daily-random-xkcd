@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Is it Christmas?</title>
-      <link>https://xkcd.com/2236/</link>
+      <title>Dark Arts</title>
+      <link>https://xkcd.com/2531/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2236/">#2236</a>] We've tested it on 30 different days and it hasn't gotten one wrong yet.</p>
-            <a href="https://imgs.xkcd.com/comics/is_it_christmas.png">
-              <img src="https://imgs.xkcd.com/comics/is_it_christmas.png" alt="We've tested it on 30 different days and it hasn't gotten one wrong yet." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2531/">#2531</a>] You think, 'okay, THIS is an ideal use case for hardlinks!' but then 6 months later you're doing some extremely cursed Google search like 'javascript ext4' and wondering where things went wrong.</p>
+            <a href="https://imgs.xkcd.com/comics/dark_arts.png">
+              <img src="https://imgs.xkcd.com/comics/dark_arts.png" alt="You think, 'okay, THIS is an ideal use case for hardlinks!' but then 6 months later you're doing some extremely cursed Google search like 'javascript ext4' and wondering where things went wrong." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2236/</guid>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2531/</guid>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
