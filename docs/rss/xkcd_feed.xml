@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 03 Oct 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Work</title>
-      <link>https://xkcd.com/1741/</link>
+      <title>Shouldn't Be Hard</title>
+      <link>https://xkcd.com/1349/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1741/">#1741</a>] Despite it being imaginary, I already have SUCH a strong opinion on the cord-switch firing incident.</p>
-            <a href="https://imgs.xkcd.com/comics/work.png">
-              <img src="https://imgs.xkcd.com/comics/work.png" alt="Despite it being imaginary, I already have SUCH a strong opinion on the cord-switch firing incident." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1349/">#1349</a>] (six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!</p>
+            <a href="https://imgs.xkcd.com/comics/shouldnt_be_hard.png">
+              <img src="https://imgs.xkcd.com/comics/shouldnt_be_hard.png" alt="(six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1741/</guid>
-      <pubDate>Mon, 03 Oct 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1349/</guid>
+      <pubDate>Mon, 31 Mar 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
