@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 31 Mar 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Dec 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shouldn't Be Hard</title>
-      <link>https://xkcd.com/1349/</link>
+      <title>Wrapping Paper</title>
+      <link>https://xkcd.com/2403/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1349/">#1349</a>] (six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!</p>
-            <a href="https://imgs.xkcd.com/comics/shouldnt_be_hard.png">
-              <img src="https://imgs.xkcd.com/comics/shouldnt_be_hard.png" alt="(six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2403/">#2403</a>] Wow, rude of you to regift literally every gift that you or anyone else has ever received.</p>
+            <a href="https://imgs.xkcd.com/comics/wrapping_paper.png">
+              <img src="https://imgs.xkcd.com/comics/wrapping_paper.png" alt="Wow, rude of you to regift literally every gift that you or anyone else has ever received." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1349/</guid>
-      <pubDate>Mon, 31 Mar 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2403/</guid>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
