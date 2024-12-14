@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 20 Feb 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Music DRM</title>
-      <link>https://xkcd.com/546/</link>
+      <title>Moving Boxes</title>
+      <link>https://xkcd.com/1762/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/546/">#546</a>] Just yesterday I bought my first non-DRM'd songs (The Last Vegas, in keeping with my 'I only listen to things from Guitar Hero' theme).</p>
-            <a href="https://imgs.xkcd.com/comics/music_drm.png">
-              <img src="https://imgs.xkcd.com/comics/music_drm.png" alt="Just yesterday I bought my first non-DRM'd songs (The Last Vegas, in keeping with my 'I only listen to things from Guitar Hero' theme)." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1762/">#1762</a>] Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.</p>
+            <a href="https://imgs.xkcd.com/comics/moving_boxes.png">
+              <img src="https://imgs.xkcd.com/comics/moving_boxes.png" alt="Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/546/</guid>
-      <pubDate>Fri, 20 Feb 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1762/</guid>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
