@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 25 Jul 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Aug 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Speculation</title>
-      <link>https://xkcd.com/929/</link>
+      <title>Star Ratings</title>
+      <link>https://xkcd.com/1098/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/929/">#929</a>] 'I was pretty good at skeet shooting, but was eventually kicked off the range for catching the clay pigeons in a net and dispatching them execution-style.'</p>
-            <a href="https://imgs.xkcd.com/comics/speculation.png">
-              <img src="https://imgs.xkcd.com/comics/speculation.png" alt="'I was pretty good at skeet shooting, but was eventually kicked off the range for catching the clay pigeons in a net and dispatching them execution-style.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1098/">#1098</a>] I got lost and wandered into the world's creepiest cemetery, where the headstones just had names and star ratings. Freaked me out. When I got home I tried to leave the cemetery a bad review on Yelp, but as my hand hovered over the 'one star' button I felt this distant chill ...</p>
+            <a href="https://imgs.xkcd.com/comics/star_ratings.png">
+              <img src="https://imgs.xkcd.com/comics/star_ratings.png" alt="I got lost and wandered into the world's creepiest cemetery, where the headstones just had names and star ratings. Freaked me out. When I got home I tried to leave the cemetery a bad review on Yelp, but as my hand hovered over the 'one star' button I felt this distant chill ..." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/929/</guid>
-      <pubDate>Mon, 25 Jul 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1098/</guid>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
