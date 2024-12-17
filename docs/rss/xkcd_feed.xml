@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 22 Aug 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Feb 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Star Ratings</title>
-      <link>https://xkcd.com/1098/</link>
+      <title>To Taste</title>
+      <link>https://xkcd.com/1639/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1098/">#1098</a>] I got lost and wandered into the world's creepiest cemetery, where the headstones just had names and star ratings. Freaked me out. When I got home I tried to leave the cemetery a bad review on Yelp, but as my hand hovered over the 'one star' button I felt this distant chill ...</p>
-            <a href="https://imgs.xkcd.com/comics/star_ratings.png">
-              <img src="https://imgs.xkcd.com/comics/star_ratings.png" alt="I got lost and wandered into the world's creepiest cemetery, where the headstones just had names and star ratings. Freaked me out. When I got home I tried to leave the cemetery a bad review on Yelp, but as my hand hovered over the 'one star' button I felt this distant chill ..." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1639/">#1639</a>] Look, recipe, if I knew how much was gonna taste good, I wouldn't need you.</p>
+            <a href="https://imgs.xkcd.com/comics/to_taste.png">
+              <img src="https://imgs.xkcd.com/comics/to_taste.png" alt="Look, recipe, if I knew how much was gonna taste good, I wouldn't need you." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1098/</guid>
-      <pubDate>Wed, 22 Aug 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1639/</guid>
+      <pubDate>Fri, 05 Feb 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
