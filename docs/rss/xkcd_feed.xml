@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tax AI</title>
-      <link>https://xkcd.com/2265/</link>
+      <title>Water Filtration</title>
+      <link>https://xkcd.com/2982/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2265/">#2265</a>] I ended up getting my tax return prepared at a local place by a really friendly pretrained neural net named Greg.</p>
-            <a href="https://imgs.xkcd.com/comics/tax_ai.png">
-              <img src="https://imgs.xkcd.com/comics/tax_ai.png" alt="I ended up getting my tax return prepared at a local place by a really friendly pretrained neural net named Greg." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2982/">#2982</a>] You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down.</p>
+            <a href="https://imgs.xkcd.com/comics/water_filtration.png">
+              <img src="https://imgs.xkcd.com/comics/water_filtration.png" alt="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2265/</guid>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2982/</guid>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
