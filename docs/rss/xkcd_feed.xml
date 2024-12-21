@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Water Filtration</title>
-      <link>https://xkcd.com/2982/</link>
+      <title>Metallurgy</title>
+      <link>https://xkcd.com/1114/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2982/">#2982</a>] You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down.</p>
-            <a href="https://imgs.xkcd.com/comics/water_filtration.png">
-              <img src="https://imgs.xkcd.com/comics/water_filtration.png" alt="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1114/">#1114</a>] This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!</p>
+            <a href="https://imgs.xkcd.com/comics/metallurgy.png">
+              <img src="https://imgs.xkcd.com/comics/metallurgy.png" alt="This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2982/</guid>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1114/</guid>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
