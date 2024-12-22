@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 28 Sep 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Metallurgy</title>
-      <link>https://xkcd.com/1114/</link>
+      <title>Heists And Escapes</title>
+      <link>https://xkcd.com/2145/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1114/">#1114</a>] This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!</p>
-            <a href="https://imgs.xkcd.com/comics/metallurgy.png">
-              <img src="https://imgs.xkcd.com/comics/metallurgy.png" alt="This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2145/">#2145</a>] The interactive experience is built on a single theological framework that unites Dante, George R. R. Martin, every major heist movie, and Erin Gloria Ryan's "Kevin is dead" Home Alone theory.</p>
+            <a href="https://imgs.xkcd.com/comics/heists_and_escapes.png">
+              <img src="https://imgs.xkcd.com/comics/heists_and_escapes.png" alt="The interactive experience is built on a single theological framework that unites Dante, George R. R. Martin, every major heist movie, and Erin Gloria Ryan's "Kevin is dead" Home Alone theory." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1114/</guid>
-      <pubDate>Fri, 28 Sep 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2145/</guid>
+      <pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
