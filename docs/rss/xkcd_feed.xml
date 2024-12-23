@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 03 May 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Heists And Escapes</title>
-      <link>https://xkcd.com/2145/</link>
+      <title>Language Acquisition</title>
+      <link>https://xkcd.com/2839/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2145/">#2145</a>] The interactive experience is built on a single theological framework that unites Dante, George R. R. Martin, every major heist movie, and Erin Gloria Ryan's "Kevin is dead" Home Alone theory.</p>
-            <a href="https://imgs.xkcd.com/comics/heists_and_escapes.png">
-              <img src="https://imgs.xkcd.com/comics/heists_and_escapes.png" alt="The interactive experience is built on a single theological framework that unites Dante, George R. R. Martin, every major heist movie, and Erin Gloria Ryan's "Kevin is dead" Home Alone theory." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2839/">#2839</a>] My first words were 'These were my first words; what were yours?'</p>
+            <a href="https://imgs.xkcd.com/comics/language_acquisition.png">
+              <img src="https://imgs.xkcd.com/comics/language_acquisition.png" alt="My first words were 'These were my first words; what were yours?'" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2145/</guid>
-      <pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2839/</guid>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
