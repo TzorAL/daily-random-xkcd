@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Confidence Interval</title>
-      <link>https://xkcd.com/2311/</link>
+      <title>Pods vs Bubbles</title>
+      <link>https://xkcd.com/2339/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2311/">#2311</a>] The worst part is that's the millisigma interval.</p>
-            <a href="https://imgs.xkcd.com/comics/confidence_interval.png">
-              <img src="https://imgs.xkcd.com/comics/confidence_interval.png" alt="The worst part is that's the millisigma interval." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2339/">#2339</a>] Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'</p>
+            <a href="https://imgs.xkcd.com/comics/pods_vs_bubbles.png">
+              <img src="https://imgs.xkcd.com/comics/pods_vs_bubbles.png" alt="Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2311/</guid>
-      <pubDate>Mon, 25 May 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2339/</guid>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
