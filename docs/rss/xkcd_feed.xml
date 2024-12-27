@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 24 Aug 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Sep 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tech Support Cheat Sheet</title>
-      <link>https://xkcd.com/627/</link>
+      <title>Moon Shapes</title>
+      <link>https://xkcd.com/1738/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/627/">#627</a>] 'Hey Megan, it's your father. How do I print out a flowchart?'</p>
-            <a href="https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png">
-              <img src="https://imgs.xkcd.com/comics/tech_support_cheat_sheet.png" alt="'Hey Megan, it's your father. How do I print out a flowchart?'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1738/">#1738</a>] Whenever I see a picture of the moon where the points go more than halfway around, I assume it's being eclipsed by one of those Independence Day ships and interpret the rest of the image in light of that.</p>
+            <a href="https://imgs.xkcd.com/comics/moon_shapes.png">
+              <img src="https://imgs.xkcd.com/comics/moon_shapes.png" alt="Whenever I see a picture of the moon where the points go more than halfway around, I assume it's being eclipsed by one of those Independence Day ships and interpret the rest of the image in light of that." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/627/</guid>
-      <pubDate>Mon, 24 Aug 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1738/</guid>
+      <pubDate>Mon, 26 Sep 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
