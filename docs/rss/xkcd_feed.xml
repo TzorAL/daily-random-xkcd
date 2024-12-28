@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 26 Sep 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Moon Shapes</title>
-      <link>https://xkcd.com/1738/</link>
+      <title>Bell's Theorem</title>
+      <link>https://xkcd.com/1591/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1738/">#1738</a>] Whenever I see a picture of the moon where the points go more than halfway around, I assume it's being eclipsed by one of those Independence Day ships and interpret the rest of the image in light of that.</p>
-            <a href="https://imgs.xkcd.com/comics/moon_shapes.png">
-              <img src="https://imgs.xkcd.com/comics/moon_shapes.png" alt="Whenever I see a picture of the moon where the points go more than halfway around, I assume it's being eclipsed by one of those Independence Day ships and interpret the rest of the image in light of that." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1591/">#1591</a>] The no-communication theorem states that no communication about the no-communication theorem can clear up the misunderstanding quickly enough to allow faster-than-light signaling.</p>
+            <a href="https://imgs.xkcd.com/comics/bells_theorem.png">
+              <img src="https://imgs.xkcd.com/comics/bells_theorem.png" alt="The no-communication theorem states that no communication about the no-communication theorem can clear up the misunderstanding quickly enough to allow faster-than-light signaling." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1738/</guid>
-      <pubDate>Mon, 26 Sep 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1591/</guid>
+      <pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
