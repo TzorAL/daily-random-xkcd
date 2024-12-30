@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 18 Feb 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let Go</title>
-      <link>https://xkcd.com/862/</link>
+      <title>Insurance</title>
+      <link>https://xkcd.com/1494/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/862/">#862</a>] After years of trying various methods, I broke this habit by pitting my impatience against my laziness. I decoupled the action and the neurological reward by setting up a simple 30-second delay I had to wait through, in which I couldn't do anything else, before any new page or chat client would load (and only allowed one to run at once). The urge to check all those sites magically vanished--and my 'productive' computer use was unaffected.</p>
-            <a href="https://imgs.xkcd.com/comics/let_go.png">
-              <img src="https://imgs.xkcd.com/comics/let_go.png" alt="After years of trying various methods, I broke this habit by pitting my impatience against my laziness. I decoupled the action and the neurological reward by setting up a simple 30-second delay I had to wait through, in which I couldn't do anything else, before any new page or chat client would load (and only allowed one to run at once). The urge to check all those sites magically vanished--and my 'productive' computer use was unaffected." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1494/">#1494</a>] LIFEHACKS: You can just take all the luggage off the airport conveyer belt and leave with it. They don't check that it's yours at the door!</p>
+            <a href="https://imgs.xkcd.com/comics/insurance.png">
+              <img src="https://imgs.xkcd.com/comics/insurance.png" alt="LIFEHACKS: You can just take all the luggage off the airport conveyer belt and leave with it. They don't check that it's yours at the door!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/862/</guid>
-      <pubDate>Fri, 18 Feb 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1494/</guid>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
