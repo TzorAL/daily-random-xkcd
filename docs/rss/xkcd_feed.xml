@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 04 Mar 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Insurance</title>
-      <link>https://xkcd.com/1494/</link>
+      <title>Interaction</title>
+      <link>https://xkcd.com/1961/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1494/">#1494</a>] LIFEHACKS: You can just take all the luggage off the airport conveyer belt and leave with it. They don't check that it's yours at the door!</p>
-            <a href="https://imgs.xkcd.com/comics/insurance.png">
-              <img src="https://imgs.xkcd.com/comics/insurance.png" alt="LIFEHACKS: You can just take all the luggage off the airport conveyer belt and leave with it. They don't check that it's yours at the door!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1961/">#1961</a>] [They do not move.]</p>
+            <a href="https://imgs.xkcd.com/comics/interaction.png">
+              <img src="https://imgs.xkcd.com/comics/interaction.png" alt="[They do not move.]" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1494/</guid>
-      <pubDate>Wed, 04 Mar 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1961/</guid>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
