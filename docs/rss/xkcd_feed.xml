@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interaction</title>
-      <link>https://xkcd.com/1961/</link>
+      <title>xkcd Survey</title>
+      <link>https://xkcd.com/1572/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1961/">#1961</a>] [They do not move.]</p>
-            <a href="https://imgs.xkcd.com/comics/interaction.png">
-              <img src="https://imgs.xkcd.com/comics/interaction.png" alt="[They do not move.]" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1572/">#1572</a>] The xkcd Survey: Big Data for a Big Planet</p>
+            <a href="https://imgs.xkcd.com/comics/xkcd_survey.png">
+              <img src="https://imgs.xkcd.com/comics/xkcd_survey.png" alt="The xkcd Survey: Big Data for a Big Planet" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1961/</guid>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1572/</guid>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
