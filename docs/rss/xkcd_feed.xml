@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 18 Nov 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pi vs. Tau</title>
-      <link>https://xkcd.com/1292/</link>
+      <title>Join Myspace</title>
+      <link>https://xkcd.com/146/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1292/">#1292</a>] Conveniently approximated as e+2, Pau is commonly known as the Devil's Ratio (because in the octal expansion, '666' appears four times in the first 200 digits while no other run of 3+ digits appears more than once.)</p>
-            <a href="https://imgs.xkcd.com/comics/pi_vs_tau.png">
-              <img src="https://imgs.xkcd.com/comics/pi_vs_tau.png" alt="Conveniently approximated as e+2, Pau is commonly known as the Devil's Ratio (because in the octal expansion, '666' appears four times in the first 200 digits while no other run of 3+ digits appears more than once.)" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/146/">#146</a>] I really shouldn't abuse that power so heavily.</p>
+            <a href="https://imgs.xkcd.com/comics/join_myspace.png">
+              <img src="https://imgs.xkcd.com/comics/join_myspace.png" alt="I really shouldn't abuse that power so heavily." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1292/</guid>
-      <pubDate>Mon, 18 Nov 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/146/</guid>
+      <pubDate>Mon, 21 Aug 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
