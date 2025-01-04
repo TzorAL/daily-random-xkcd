@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 21 Aug 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Join Myspace</title>
-      <link>https://xkcd.com/146/</link>
+      <title>1,000 Miles North</title>
+      <link>https://xkcd.com/402/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/146/">#146</a>] I really shouldn't abuse that power so heavily.</p>
-            <a href="https://imgs.xkcd.com/comics/join_myspace.png">
-              <img src="https://imgs.xkcd.com/comics/join_myspace.png" alt="I really shouldn't abuse that power so heavily." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/402/">#402</a>] Twister would've been a much better movie if they'd cut out the bad-guy storm chaser and all the emotional romance crap.  All you need for a good movie are tornados and scientists.  Actually, that's all you need for anything.</p>
+            <a href="https://imgs.xkcd.com/comics/1000_miles_north.png">
+              <img src="https://imgs.xkcd.com/comics/1000_miles_north.png" alt="Twister would've been a much better movie if they'd cut out the bad-guy storm chaser and all the emotional romance crap.  All you need for a good movie are tornados and scientists.  Actually, that's all you need for anything." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/146/</guid>
-      <pubDate>Mon, 21 Aug 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/402/</guid>
+      <pubDate>Fri, 28 Mar 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
