@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Taylor Series</title>
-      <link>https://xkcd.com/2605/</link>
+      <title>Pep Rally</title>
+      <link>https://xkcd.com/588/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2605/">#2605</a>] The Taylor series should have been canceled after the first term.</p>
-            <a href="https://imgs.xkcd.com/comics/taylor_series.png">
-              <img src="https://imgs.xkcd.com/comics/taylor_series.png" alt="The Taylor series should have been canceled after the first term." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/588/">#588</a>] You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.</p>
+            <a href="https://imgs.xkcd.com/comics/pep_rally.png">
+              <img src="https://imgs.xkcd.com/comics/pep_rally.png" alt="You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2605/</guid>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/588/</guid>
+      <pubDate>Mon, 25 May 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
