@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 21 Oct 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mystery News</title>
-      <link>https://xkcd.com/1280/</link>
+      <title>Types of Scientific Paper</title>
+      <link>https://xkcd.com/2456/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1280/">#1280</a>] If you find and stop the video, but you've--against all odds--gotten curious about the trade summit, just leave the tab opened. It will mysteriously start playing again 30 minutes later!</p>
-            <a href="https://imgs.xkcd.com/comics/mystery_news.png">
-              <img src="https://imgs.xkcd.com/comics/mystery_news.png" alt="If you find and stop the video, but you've--against all odds--gotten curious about the trade summit, just leave the tab opened. It will mysteriously start playing again 30 minutes later!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2456/">#2456</a>] Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."</p>
+            <a href="https://imgs.xkcd.com/comics/types_of_scientific_paper.png">
+              <img src="https://imgs.xkcd.com/comics/types_of_scientific_paper.png" alt="Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1280/</guid>
-      <pubDate>Mon, 21 Oct 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2456/</guid>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
