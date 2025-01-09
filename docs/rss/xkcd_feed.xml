@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 28 Apr 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Types of Scientific Paper</title>
-      <link>https://xkcd.com/2456/</link>
+      <title>Olympic Sports</title>
+      <link>https://xkcd.com/2964/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2456/">#2456</a>] Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."</p>
-            <a href="https://imgs.xkcd.com/comics/types_of_scientific_paper.png">
-              <img src="https://imgs.xkcd.com/comics/types_of_scientific_paper.png" alt="Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2964/">#2964</a>] Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.</p>
+            <a href="https://imgs.xkcd.com/comics/olympic_sports.png">
+              <img src="https://imgs.xkcd.com/comics/olympic_sports.png" alt="Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2456/</guid>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2964/</guid>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
