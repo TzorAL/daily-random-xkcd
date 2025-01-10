@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Olympic Sports</title>
-      <link>https://xkcd.com/2964/</link>
+      <title>Neutrinos</title>
+      <link>https://xkcd.com/955/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2964/">#2964</a>] Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.</p>
-            <a href="https://imgs.xkcd.com/comics/olympic_sports.png">
-              <img src="https://imgs.xkcd.com/comics/olympic_sports.png" alt="Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/955/">#955</a>] I can't speak to the paper's scientific merits, but it's really cool how on page 10 you can see that their reference GPS beacon is sensitive enough to pick up continential drift under the detector (interrupted halfway through by an earthquake).</p>
+            <a href="https://imgs.xkcd.com/comics/neutrinos.png">
+              <img src="https://imgs.xkcd.com/comics/neutrinos.png" alt="I can't speak to the paper's scientific merits, but it's really cool how on page 10 you can see that their reference GPS beacon is sensitive enough to pick up continential drift under the detector (interrupted halfway through by an earthquake)." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2964/</guid>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/955/</guid>
+      <pubDate>Fri, 23 Sep 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
