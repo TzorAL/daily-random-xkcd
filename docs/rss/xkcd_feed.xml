@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 15 Feb 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Degrees</title>
-      <link>https://xkcd.com/1643/</link>
+      <title>Starwatching</title>
+      <link>https://xkcd.com/428/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1643/">#1643</a>] "Radians Fahrenheit or radians Celsius?" "Uh, sorry, gotta go!"</p>
-            <a href="https://imgs.xkcd.com/comics/degrees.png">
-              <img src="https://imgs.xkcd.com/comics/degrees.png" alt=""Radians Fahrenheit or radians Celsius?" "Uh, sorry, gotta go!"" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/428/">#428</a>] I always figured the word 'blog' would sound *less* silly as the years went by.</p>
+            <a href="https://imgs.xkcd.com/comics/starwatching.png">
+              <img src="https://imgs.xkcd.com/comics/starwatching.png" alt="I always figured the word 'blog' would sound *less* silly as the years went by." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1643/</guid>
-      <pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/428/</guid>
+      <pubDate>Mon, 26 May 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
