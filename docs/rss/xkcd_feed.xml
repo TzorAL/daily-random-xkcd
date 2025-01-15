@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 13 Dec 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DateTime</title>
-      <link>https://xkcd.com/2867/</link>
+      <title>House Inputs and Outputs</title>
+      <link>https://xkcd.com/2963/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2867/">#2867</a>] It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]</p>
-            <a href="https://imgs.xkcd.com/comics/datetime.png">
-              <img src="https://imgs.xkcd.com/comics/datetime.png" alt="It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2963/">#2963</a>] People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.</p>
+            <a href="https://imgs.xkcd.com/comics/house_inputs_and_outputs.png">
+              <img src="https://imgs.xkcd.com/comics/house_inputs_and_outputs.png" alt="People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2867/</guid>
-      <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2963/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
