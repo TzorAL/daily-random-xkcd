@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>House Inputs and Outputs</title>
-      <link>https://xkcd.com/2963/</link>
+      <title>Seat Selection</title>
+      <link>https://xkcd.com/726/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2963/">#2963</a>] People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me.</p>
-            <a href="https://imgs.xkcd.com/comics/house_inputs_and_outputs.png">
-              <img src="https://imgs.xkcd.com/comics/house_inputs_and_outputs.png" alt="People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/726/">#726</a>] Don't click on the wing.</p>
+            <a href="https://imgs.xkcd.com/comics/seat_selection.png">
+              <img src="https://imgs.xkcd.com/comics/seat_selection.png" alt="Don't click on the wing." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2963/</guid>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/726/</guid>
+      <pubDate>Mon, 12 Apr 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
