@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 12 Apr 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 May 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Seat Selection</title>
-      <link>https://xkcd.com/726/</link>
+      <title>Contrails</title>
+      <link>https://xkcd.com/1677/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/726/">#726</a>] Don't click on the wing.</p>
-            <a href="https://imgs.xkcd.com/comics/seat_selection.png">
-              <img src="https://imgs.xkcd.com/comics/seat_selection.png" alt="Don't click on the wing." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1677/">#1677</a>] Astronomy (or "astrology" in British English) is the study of ...</p>
+            <a href="https://imgs.xkcd.com/comics/contrails.png">
+              <img src="https://imgs.xkcd.com/comics/contrails.png" alt="Astronomy (or "astrology" in British English) is the study of ..." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/726/</guid>
-      <pubDate>Mon, 12 Apr 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1677/</guid>
+      <pubDate>Fri, 06 May 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
