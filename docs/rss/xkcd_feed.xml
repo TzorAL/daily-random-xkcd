@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tractor Beam</title>
-      <link>https://xkcd.com/2579/</link>
+      <title>Speed and Danger</title>
+      <link>https://xkcd.com/1701/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2579/">#2579</a>] Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?</p>
-            <a href="https://imgs.xkcd.com/comics/tractor_beam.png">
-              <img src="https://imgs.xkcd.com/comics/tractor_beam.png" alt="Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1701/">#1701</a>] NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."</p>
+            <a href="https://imgs.xkcd.com/comics/speed_and_danger.png">
+              <img src="https://imgs.xkcd.com/comics/speed_and_danger.png" alt="NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2579/</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1701/</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
