@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Speed and Danger</title>
-      <link>https://xkcd.com/1701/</link>
+      <title>Tornado</title>
+      <link>https://xkcd.com/1487/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1701/">#1701</a>] NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."</p>
-            <a href="https://imgs.xkcd.com/comics/speed_and_danger.png">
-              <img src="https://imgs.xkcd.com/comics/speed_and_danger.png" alt="NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1487/">#1487</a>] Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.</p>
+            <a href="https://imgs.xkcd.com/comics/tornado.png">
+              <img src="https://imgs.xkcd.com/comics/tornado.png" alt="Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1701/</guid>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1487/</guid>
+      <pubDate>Mon, 16 Feb 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
