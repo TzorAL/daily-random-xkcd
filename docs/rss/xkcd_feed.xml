@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 29 Nov 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Business Idea</title>
-      <link>https://xkcd.com/827/</link>
+      <title>Unreliable Connection</title>
+      <link>https://xkcd.com/2659/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/827/">#827</a>] We didn't believe you at first, but we asked like three people who were at that party. They not only corroborated your story, but even said you totally mentioned wanting to start a company someday. Sorry! If this isn't enough money, let us know.</p>
-            <a href="https://imgs.xkcd.com/comics/my_business_idea.png">
-              <img src="https://imgs.xkcd.com/comics/my_business_idea.png" alt="We didn't believe you at first, but we asked like three people who were at that party. They not only corroborated your story, but even said you totally mentioned wanting to start a company someday. Sorry! If this isn't enough money, let us know." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2659/">#2659</a>] NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.</p>
+            <a href="https://imgs.xkcd.com/comics/unreliable_connection.png">
+              <img src="https://imgs.xkcd.com/comics/unreliable_connection.png" alt="NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/827/</guid>
-      <pubDate>Mon, 29 Nov 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2659/</guid>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
