@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unreliable Connection</title>
-      <link>https://xkcd.com/2659/</link>
+      <title>Time Traveler Causes of Death</title>
+      <link>https://xkcd.com/2976/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2659/">#2659</a>] NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.</p>
-            <a href="https://imgs.xkcd.com/comics/unreliable_connection.png">
-              <img src="https://imgs.xkcd.com/comics/unreliable_connection.png" alt="NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2976/">#2976</a>] Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.</p>
+            <a href="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png">
+              <img src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png" alt="Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2659/</guid>
-      <pubDate>Mon, 15 Aug 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2976/</guid>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
