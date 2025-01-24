@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Time Traveler Causes of Death</title>
-      <link>https://xkcd.com/2976/</link>
+      <title>Social Media Announcement</title>
+      <link>https://xkcd.com/2045/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2976/">#2976</a>] Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.</p>
-            <a href="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png">
-              <img src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png" alt="Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2045/">#2045</a>] Why I'm Moving Most of My Social Activity to Slack, Then Creating a Second Slack to Avoid the People in the First One, Then Giving Up on Social Interaction Completely, Then Going Back to Texting</p>
+            <a href="https://imgs.xkcd.com/comics/social_media_announcement.png">
+              <img src="https://imgs.xkcd.com/comics/social_media_announcement.png" alt="Why I'm Moving Most of My Social Activity to Slack, Then Creating a Second Slack to Avoid the People in the First One, Then Giving Up on Social Interaction Completely, Then Going Back to Texting" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2976/</guid>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2045/</guid>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
