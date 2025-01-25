@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 12 Sep 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Social Media Announcement</title>
-      <link>https://xkcd.com/2045/</link>
+      <title>Privacy Opinions</title>
+      <link>https://xkcd.com/1269/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2045/">#2045</a>] Why I'm Moving Most of My Social Activity to Slack, Then Creating a Second Slack to Avoid the People in the First One, Then Giving Up on Social Interaction Completely, Then Going Back to Texting</p>
-            <a href="https://imgs.xkcd.com/comics/social_media_announcement.png">
-              <img src="https://imgs.xkcd.com/comics/social_media_announcement.png" alt="Why I'm Moving Most of My Social Activity to Slack, Then Creating a Second Slack to Avoid the People in the First One, Then Giving Up on Social Interaction Completely, Then Going Back to Texting" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1269/">#1269</a>] I'm the Philosopher until someone hands me a burrito.</p>
+            <a href="https://imgs.xkcd.com/comics/privacy_opinions.png">
+              <img src="https://imgs.xkcd.com/comics/privacy_opinions.png" alt="I'm the Philosopher until someone hands me a burrito." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2045/</guid>
-      <pubDate>Wed, 12 Sep 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1269/</guid>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
