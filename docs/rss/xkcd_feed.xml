@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 25 Sep 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Privacy Opinions</title>
-      <link>https://xkcd.com/1269/</link>
+      <title>Existential Bug Reports</title>
+      <link>https://xkcd.com/1822/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1269/">#1269</a>] I'm the Philosopher until someone hands me a burrito.</p>
-            <a href="https://imgs.xkcd.com/comics/privacy_opinions.png">
-              <img src="https://imgs.xkcd.com/comics/privacy_opinions.png" alt="I'm the Philosopher until someone hands me a burrito." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1822/">#1822</a>] ISSUE: If we wait long enough, the Earth will eventually be consumed by the Sun. WORKAROUND: None.</p>
+            <a href="https://imgs.xkcd.com/comics/existential_bug_reports.png">
+              <img src="https://imgs.xkcd.com/comics/existential_bug_reports.png" alt="ISSUE: If we wait long enough, the Earth will eventually be consumed by the Sun. WORKAROUND: None." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1269/</guid>
-      <pubDate>Wed, 25 Sep 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1822/</guid>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
