@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 08 Jun 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Laundry</title>
-      <link>https://xkcd.com/1066/</link>
+      <title>Hyphen</title>
+      <link>https://xkcd.com/37/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1066/">#1066</a>] During the second semester, the path is briefly routed through the dishwasher.</p>
-            <a href="https://imgs.xkcd.com/comics/laundry.png">
-              <img src="https://imgs.xkcd.com/comics/laundry.png" alt="During the second semester, the path is briefly routed through the dishwasher." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/37/">#37</a>] I do this constantly</p>
+            <a href="https://imgs.xkcd.com/comics/hyphen.jpg">
+              <img src="https://imgs.xkcd.com/comics/hyphen.jpg" alt="I do this constantly" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1066/</guid>
-      <pubDate>Fri, 08 Jun 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/37/</guid>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
