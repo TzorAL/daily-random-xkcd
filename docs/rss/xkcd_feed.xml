@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hyphen</title>
-      <link>https://xkcd.com/37/</link>
+      <title>Robot Future</title>
+      <link>https://xkcd.com/1968/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/37/">#37</a>] I do this constantly</p>
-            <a href="https://imgs.xkcd.com/comics/hyphen.jpg">
-              <img src="https://imgs.xkcd.com/comics/hyphen.jpg" alt="I do this constantly" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1968/">#1968</a>] I mean, we already live in a world of flying robots killing people. I don't worry about how powerful the machines are, I worry about who the machines give power to.</p>
+            <a href="https://imgs.xkcd.com/comics/robot_future.png">
+              <img src="https://imgs.xkcd.com/comics/robot_future.png" alt="I mean, we already live in a world of flying robots killing people. I don't worry about how powerful the machines are, I worry about who the machines give power to." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/37/</guid>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1968/</guid>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
