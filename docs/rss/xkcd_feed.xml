@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ice Core</title>
-      <link>https://xkcd.com/2902/</link>
+      <title>Sourdough Starter</title>
+      <link>https://xkcd.com/2296/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2902/">#2902</a>] If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.</p>
-            <a href="https://imgs.xkcd.com/comics/ice_core.png">
-              <img src="https://imgs.xkcd.com/comics/ice_core.png" alt="If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2296/">#2296</a>] Once the lockdown is over, let's all get together and swap starters!</p>
+            <a href="https://imgs.xkcd.com/comics/sourdough_starter.png">
+              <img src="https://imgs.xkcd.com/comics/sourdough_starter.png" alt="Once the lockdown is over, let's all get together and swap starters!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2902/</guid>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2296/</guid>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
