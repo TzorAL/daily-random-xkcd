@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 29 Mar 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Aug 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Humming</title>
-      <link>https://xkcd.com/1192/</link>
+      <title>Mac/PC</title>
+      <link>https://xkcd.com/934/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1192/">#1192</a>] I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.</p>
-            <a href="https://imgs.xkcd.com/comics/humming.png">
-              <img src="https://imgs.xkcd.com/comics/humming.png" alt="I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/934/">#934</a>] It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.</p>
+            <a href="https://imgs.xkcd.com/comics/mac_pc.png">
+              <img src="https://imgs.xkcd.com/comics/mac_pc.png" alt="It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1192/</guid>
-      <pubDate>Fri, 29 Mar 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/934/</guid>
+      <pubDate>Fri, 05 Aug 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
