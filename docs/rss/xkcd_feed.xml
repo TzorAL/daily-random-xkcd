@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 15 Jan 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FIRST Design</title>
-      <link>https://xkcd.com/689/</link>
+      <title>Slides</title>
+      <link>https://xkcd.com/365/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/689/">#689</a>] Pool on the roof must've sprung a leak.</p>
-            <a href="https://imgs.xkcd.com/comics/first_design.png">
-              <img src="https://imgs.xkcd.com/comics/first_design.png" alt="Pool on the roof must've sprung a leak." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/365/">#365</a>] Did you know they can actually physically throw you out of SIGGRAPH?</p>
+            <a href="https://imgs.xkcd.com/comics/slides.png">
+              <img src="https://imgs.xkcd.com/comics/slides.png" alt="Did you know they can actually physically throw you out of SIGGRAPH?" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/689/</guid>
-      <pubDate>Fri, 15 Jan 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/365/</guid>
+      <pubDate>Wed, 02 Jan 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
