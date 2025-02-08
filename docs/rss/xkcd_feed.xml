@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 02 Jan 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Slides</title>
-      <link>https://xkcd.com/365/</link>
+      <title>Trash</title>
+      <link>https://xkcd.com/1786/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/365/">#365</a>] Did you know they can actually physically throw you out of SIGGRAPH?</p>
-            <a href="https://imgs.xkcd.com/comics/slides.png">
-              <img src="https://imgs.xkcd.com/comics/slides.png" alt="Did you know they can actually physically throw you out of SIGGRAPH?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1786/">#1786</a>] Plus, time's all weird in there, so most of it probably broke down and decomposed hundreds of years ago. Which reminds me, I've been meaning to get in touch with Yucca Mountain to see if they're interested in a partnership.</p>
+            <a href="https://imgs.xkcd.com/comics/trash.png">
+              <img src="https://imgs.xkcd.com/comics/trash.png" alt="Plus, time's all weird in there, so most of it probably broke down and decomposed hundreds of years ago. Which reminds me, I've been meaning to get in touch with Yucca Mountain to see if they're interested in a partnership." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/365/</guid>
-      <pubDate>Wed, 02 Jan 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1786/</guid>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
