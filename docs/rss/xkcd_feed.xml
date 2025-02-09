@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 16 Jan 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trash</title>
-      <link>https://xkcd.com/1786/</link>
+      <title>Fatal Crash Rate</title>
+      <link>https://xkcd.com/1993/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1786/">#1786</a>] Plus, time's all weird in there, so most of it probably broke down and decomposed hundreds of years ago. Which reminds me, I've been meaning to get in touch with Yucca Mountain to see if they're interested in a partnership.</p>
-            <a href="https://imgs.xkcd.com/comics/trash.png">
-              <img src="https://imgs.xkcd.com/comics/trash.png" alt="Plus, time's all weird in there, so most of it probably broke down and decomposed hundreds of years ago. Which reminds me, I've been meaning to get in touch with Yucca Mountain to see if they're interested in a partnership." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1993/">#1993</a>] Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.</p>
+            <a href="https://imgs.xkcd.com/comics/fatal_crash_rate.png">
+              <img src="https://imgs.xkcd.com/comics/fatal_crash_rate.png" alt="Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1786/</guid>
-      <pubDate>Mon, 16 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1993/</guid>
+      <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
