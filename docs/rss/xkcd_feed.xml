@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 14 May 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fatal Crash Rate</title>
-      <link>https://xkcd.com/1993/</link>
+      <title>Purity</title>
+      <link>https://xkcd.com/435/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1993/">#1993</a>] Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.</p>
-            <a href="https://imgs.xkcd.com/comics/fatal_crash_rate.png">
-              <img src="https://imgs.xkcd.com/comics/fatal_crash_rate.png" alt="Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/435/">#435</a>] On the other hand, physicists like to say physics is to math as sex is to masturbation.</p>
+            <a href="https://imgs.xkcd.com/comics/purity.png">
+              <img src="https://imgs.xkcd.com/comics/purity.png" alt="On the other hand, physicists like to say physics is to math as sex is to masturbation." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1993/</guid>
-      <pubDate>Mon, 14 May 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/435/</guid>
+      <pubDate>Wed, 11 Jun 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
