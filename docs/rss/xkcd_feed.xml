@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 11 Jun 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Purity</title>
-      <link>https://xkcd.com/435/</link>
+      <title>Car Model Names</title>
+      <link>https://xkcd.com/1571/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/435/">#435</a>] On the other hand, physicists like to say physics is to math as sex is to masturbation.</p>
-            <a href="https://imgs.xkcd.com/comics/purity.png">
-              <img src="https://imgs.xkcd.com/comics/purity.png" alt="On the other hand, physicists like to say physics is to math as sex is to masturbation." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1571/">#1571</a>] CLIMAX is good, but SEXCLIMAX is even better.</p>
+            <a href="https://imgs.xkcd.com/comics/car_model_names.png">
+              <img src="https://imgs.xkcd.com/comics/car_model_names.png" alt="CLIMAX is good, but SEXCLIMAX is even better." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/435/</guid>
-      <pubDate>Wed, 11 Jun 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1571/</guid>
+      <pubDate>Mon, 31 Aug 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
