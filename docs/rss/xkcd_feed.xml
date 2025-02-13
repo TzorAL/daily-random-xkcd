@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 13 Jul 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Argument Victory</title>
-      <link>https://xkcd.com/1081/</link>
+      <title>Background Screens</title>
+      <link>https://xkcd.com/1451/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1081/">#1081</a>] Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who's in power has any plan at all.</p>
-            <a href="https://imgs.xkcd.com/comics/argument_victory.png">
-              <img src="https://imgs.xkcd.com/comics/argument_victory.png" alt="Really, the comforting side in most conspiracy theory arguments is the one claiming that anyone who's in power has any plan at all." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1451/">#1451</a>] No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.</p>
+            <a href="https://imgs.xkcd.com/comics/background_screens.png">
+              <img src="https://imgs.xkcd.com/comics/background_screens.png" alt="No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1081/</guid>
-      <pubDate>Fri, 13 Jul 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1451/</guid>
+      <pubDate>Mon, 24 Nov 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
