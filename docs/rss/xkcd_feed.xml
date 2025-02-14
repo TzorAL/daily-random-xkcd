@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 24 Nov 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Background Screens</title>
-      <link>https://xkcd.com/1451/</link>
+      <title>Heartbleed Explanation</title>
+      <link>https://xkcd.com/1354/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1451/">#1451</a>] No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.</p>
-            <a href="https://imgs.xkcd.com/comics/background_screens.png">
-              <img src="https://imgs.xkcd.com/comics/background_screens.png" alt="No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1354/">#1354</a>] Are you still there, server? It's me, Margaret.</p>
+            <a href="https://imgs.xkcd.com/comics/heartbleed_explanation.png">
+              <img src="https://imgs.xkcd.com/comics/heartbleed_explanation.png" alt="Are you still there, server? It's me, Margaret." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1451/</guid>
-      <pubDate>Mon, 24 Nov 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1354/</guid>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
