@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 11 Apr 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Heartbleed Explanation</title>
-      <link>https://xkcd.com/1354/</link>
+      <title>Self-Isolate</title>
+      <link>https://xkcd.com/2276/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1354/">#1354</a>] Are you still there, server? It's me, Margaret.</p>
-            <a href="https://imgs.xkcd.com/comics/heartbleed_explanation.png">
-              <img src="https://imgs.xkcd.com/comics/heartbleed_explanation.png" alt="Are you still there, server? It's me, Margaret." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2276/">#2276</a>] Turns out I've been "practicing social distancing" for years without even realizing it was a thing!</p>
+            <a href="https://imgs.xkcd.com/comics/self_isolate.png">
+              <img src="https://imgs.xkcd.com/comics/self_isolate.png" alt="Turns out I've been "practicing social distancing" for years without even realizing it was a thing!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1354/</guid>
-      <pubDate>Fri, 11 Apr 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2276/</guid>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
