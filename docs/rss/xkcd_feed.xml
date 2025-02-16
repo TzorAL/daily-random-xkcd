@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 04 Mar 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Self-Isolate</title>
-      <link>https://xkcd.com/2276/</link>
+      <title>Baby Names</title>
+      <link>https://xkcd.com/1011/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2276/">#2276</a>] Turns out I've been "practicing social distancing" for years without even realizing it was a thing!</p>
-            <a href="https://imgs.xkcd.com/comics/self_isolate.png">
-              <img src="https://imgs.xkcd.com/comics/self_isolate.png" alt="Turns out I've been "practicing social distancing" for years without even realizing it was a thing!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1011/">#1011</a>] I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.</p>
+            <a href="https://imgs.xkcd.com/comics/baby_names.png">
+              <img src="https://imgs.xkcd.com/comics/baby_names.png" alt="I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2276/</guid>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1011/</guid>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
