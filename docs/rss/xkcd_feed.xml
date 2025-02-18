@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 02 Sep 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Anatomy Text</title>
-      <link>https://xkcd.com/631/</link>
+      <title>New Nobel Prizes</title>
+      <link>https://xkcd.com/2527/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/631/">#631</a>] For many of the anatomy pictures on Wikipedia, I think this is actually not far from reality. They only look all formal and professional due to careful cropping.</p>
-            <a href="https://imgs.xkcd.com/comics/anatomy_text.png">
-              <img src="https://imgs.xkcd.com/comics/anatomy_text.png" alt="For many of the anatomy pictures on Wikipedia, I think this is actually not far from reality. They only look all formal and professional due to careful cropping." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2527/">#2527</a>] They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.</p>
+            <a href="https://imgs.xkcd.com/comics/new_nobel_prizes.png">
+              <img src="https://imgs.xkcd.com/comics/new_nobel_prizes.png" alt="They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/631/</guid>
-      <pubDate>Wed, 02 Sep 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2527/</guid>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
