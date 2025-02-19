@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Nobel Prizes</title>
-      <link>https://xkcd.com/2527/</link>
+      <title>New Products</title>
+      <link>https://xkcd.com/1497/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2527/">#2527</a>] They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.</p>
-            <a href="https://imgs.xkcd.com/comics/new_nobel_prizes.png">
-              <img src="https://imgs.xkcd.com/comics/new_nobel_prizes.png" alt="They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1497/">#1497</a>] If you ever hear "Wait, is that Kim Dotcom's new project? I'm really excited about it and already signed up, although I'm a little nervous about whether everyone should hand over control of their medical...", it's time to dig a bunker in your backyard.</p>
+            <a href="https://imgs.xkcd.com/comics/new_products.png">
+              <img src="https://imgs.xkcd.com/comics/new_products.png" alt="If you ever hear "Wait, is that Kim Dotcom's new project? I'm really excited about it and already signed up, although I'm a little nervous about whether everyone should hand over control of their medical...", it's time to dig a bunker in your backyard." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2527/</guid>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1497/</guid>
+      <pubDate>Wed, 11 Mar 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
