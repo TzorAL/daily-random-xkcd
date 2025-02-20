@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 11 Mar 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Mar 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Products</title>
-      <link>https://xkcd.com/1497/</link>
+      <title>Reviews</title>
+      <link>https://xkcd.com/1036/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1497/">#1497</a>] If you ever hear "Wait, is that Kim Dotcom's new project? I'm really excited about it and already signed up, although I'm a little nervous about whether everyone should hand over control of their medical...", it's time to dig a bunker in your backyard.</p>
-            <a href="https://imgs.xkcd.com/comics/new_products.png">
-              <img src="https://imgs.xkcd.com/comics/new_products.png" alt="If you ever hear "Wait, is that Kim Dotcom's new project? I'm really excited about it and already signed up, although I'm a little nervous about whether everyone should hand over control of their medical...", it's time to dig a bunker in your backyard." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1036/">#1036</a>] I plugged in this lamp and my dog went rigid, spoke a sentence of perfect Akkadian, and then was hurled sideways through the picture window. Even worse, it's one of those lamps where the switch is on the cord.</p>
+            <a href="https://imgs.xkcd.com/comics/reviews.png">
+              <img src="https://imgs.xkcd.com/comics/reviews.png" alt="I plugged in this lamp and my dog went rigid, spoke a sentence of perfect Akkadian, and then was hurled sideways through the picture window. Even worse, it's one of those lamps where the switch is on the cord." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1497/</guid>
-      <pubDate>Wed, 11 Mar 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1036/</guid>
+      <pubDate>Fri, 30 Mar 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
