@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Scientific Field Prefixes</title>
-      <link>https://xkcd.com/2656/</link>
+      <title>Nerd Girls</title>
+      <link>https://xkcd.com/67/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2656/">#2656</a>] Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)</p>
-            <a href="https://imgs.xkcd.com/comics/scientific_field_prefixes.png">
-              <img src="https://imgs.xkcd.com/comics/scientific_field_prefixes.png" alt="Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/67/">#67</a>] Nothing personal, high schoolers.</p>
+            <a href="https://imgs.xkcd.com/comics/nerd_girls.jpg">
+              <img src="https://imgs.xkcd.com/comics/nerd_girls.jpg" alt="Nothing personal, high schoolers." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2656/</guid>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/67/</guid>
+      <pubDate>Wed, 22 Feb 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
