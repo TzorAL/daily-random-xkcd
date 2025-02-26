@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Log Cabin</title>
-      <link>https://xkcd.com/2891/</link>
+      <title>The Wrong Stuff</title>
+      <link>https://xkcd.com/2865/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2891/">#2891</a>] I'm sure the building inspectors will approve my design once they finally manage to escape.</p>
-            <a href="https://imgs.xkcd.com/comics/log_cabin.png">
-              <img src="https://imgs.xkcd.com/comics/log_cabin.png" alt="I'm sure the building inspectors will approve my design once they finally manage to escape." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2865/">#2865</a>] The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.</p>
+            <a href="https://imgs.xkcd.com/comics/the_wrong_stuff.png">
+              <img src="https://imgs.xkcd.com/comics/the_wrong_stuff.png" alt="The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2891/</guid>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2865/</guid>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
