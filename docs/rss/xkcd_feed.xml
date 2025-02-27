@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 08 Dec 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Wrong Stuff</title>
-      <link>https://xkcd.com/2865/</link>
+      <title>Election Screen Time</title>
+      <link>https://xkcd.com/2371/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2865/">#2865</a>] The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.</p>
-            <a href="https://imgs.xkcd.com/comics/the_wrong_stuff.png">
-              <img src="https://imgs.xkcd.com/comics/the_wrong_stuff.png" alt="The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2371/">#2371</a>] Feels like I picked a bad year to try to start having a healthy relationship with political news.</p>
+            <a href="https://imgs.xkcd.com/comics/election_screen_time.png">
+              <img src="https://imgs.xkcd.com/comics/election_screen_time.png" alt="Feels like I picked a bad year to try to start having a healthy relationship with political news." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2865/</guid>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2371/</guid>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
