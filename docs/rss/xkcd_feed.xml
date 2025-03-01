@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 13 Jan 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wifi</title>
-      <link>https://xkcd.com/1785/</link>
+      <title>Diacritics</title>
+      <link>https://xkcd.com/1647/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1785/">#1785</a>] Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'</p>
-            <a href="https://imgs.xkcd.com/comics/wifi.png">
-              <img src="https://imgs.xkcd.com/comics/wifi.png" alt="Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1647/">#1647</a>] Using diacritics correctly is not my forté.</p>
+            <a href="https://imgs.xkcd.com/comics/diacritics.png">
+              <img src="https://imgs.xkcd.com/comics/diacritics.png" alt="Using diacritics correctly is not my forté." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1785/</guid>
-      <pubDate>Fri, 13 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1647/</guid>
+      <pubDate>Wed, 24 Feb 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
