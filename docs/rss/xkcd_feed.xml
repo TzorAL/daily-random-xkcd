@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 24 Feb 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jul 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Diacritics</title>
-      <link>https://xkcd.com/1647/</link>
+      <title>Fucking Blue Shells</title>
+      <link>https://xkcd.com/290/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1647/">#1647</a>] Using diacritics correctly is not my forté.</p>
-            <a href="https://imgs.xkcd.com/comics/diacritics.png">
-              <img src="https://imgs.xkcd.com/comics/diacritics.png" alt="Using diacritics correctly is not my forté." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/290/">#290</a>] You can evade blue shells in Double Dash, but it is deep magic.</p>
+            <a href="https://imgs.xkcd.com/comics/fucking_blue_shells.png">
+              <img src="https://imgs.xkcd.com/comics/fucking_blue_shells.png" alt="You can evade blue shells in Double Dash, but it is deep magic." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1647/</guid>
-      <pubDate>Wed, 24 Feb 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/290/</guid>
+      <pubDate>Mon, 16 Jul 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
