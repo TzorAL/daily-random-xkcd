@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 16 Jul 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fucking Blue Shells</title>
-      <link>https://xkcd.com/290/</link>
+      <title>Moonfall</title>
+      <link>https://xkcd.com/2561/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/290/">#290</a>] You can evade blue shells in Double Dash, but it is deep magic.</p>
-            <a href="https://imgs.xkcd.com/comics/fucking_blue_shells.png">
-              <img src="https://imgs.xkcd.com/comics/fucking_blue_shells.png" alt="You can evade blue shells in Double Dash, but it is deep magic." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2561/">#2561</a>] Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions.</p>
+            <a href="https://imgs.xkcd.com/comics/moonfall.png">
+              <img src="https://imgs.xkcd.com/comics/moonfall.png" alt="Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/290/</guid>
-      <pubDate>Mon, 16 Jul 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2561/</guid>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
