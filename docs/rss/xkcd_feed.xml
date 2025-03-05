@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 08 Dec 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Simultaneous</title>
-      <link>https://xkcd.com/514/</link>
+      <title>Clinical Trials</title>
+      <link>https://xkcd.com/2530/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/514/">#514</a>] I'm leaving you for your twin.  He's more mature than you by now.</p>
-            <a href="https://imgs.xkcd.com/comics/simultaneous.png">
-              <img src="https://imgs.xkcd.com/comics/simultaneous.png" alt="I'm leaving you for your twin.  He's more mature than you by now." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2530/">#2530</a>] We don't need to do a clinical trial of this change because the standard of care is to adopt new ideas without doing clinical trials.</p>
+            <a href="https://imgs.xkcd.com/comics/clinical_trials.png">
+              <img src="https://imgs.xkcd.com/comics/clinical_trials.png" alt="We don't need to do a clinical trial of this change because the standard of care is to adopt new ideas without doing clinical trials." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/514/</guid>
-      <pubDate>Mon, 08 Dec 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2530/</guid>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
