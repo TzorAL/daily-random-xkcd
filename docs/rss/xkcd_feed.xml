@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 21 Feb 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Major in the Universe</title>
-      <link>https://xkcd.com/863/</link>
+      <title>Surgery</title>
+      <link>https://xkcd.com/644/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/863/">#863</a>] I hear Steven Levitt is writing a book analyzing A.J. Jacobs' quest to spend a year reading everything Malcolm Gladwell ever wrote. The audiobook will be narrated by Robert Krulwich of Radiolab.</p>
-            <a href="https://imgs.xkcd.com/comics/major_in_the_universe.png">
-              <img src="https://imgs.xkcd.com/comics/major_in_the_universe.png" alt="I hear Steven Levitt is writing a book analyzing A.J. Jacobs' quest to spend a year reading everything Malcolm Gladwell ever wrote. The audiobook will be narrated by Robert Krulwich of Radiolab." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/644/">#644</a>] Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm.</p>
+            <a href="https://imgs.xkcd.com/comics/surgery.png">
+              <img src="https://imgs.xkcd.com/comics/surgery.png" alt="Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/863/</guid>
-      <pubDate>Mon, 21 Feb 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/644/</guid>
+      <pubDate>Fri, 02 Oct 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
