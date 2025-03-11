@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 22 Oct 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Los Alamos</title>
-      <link>https://xkcd.com/809/</link>
+      <title>The Flake Equation</title>
+      <link>https://xkcd.com/718/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/809/">#809</a>] The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.</p>
-            <a href="https://imgs.xkcd.com/comics/los_alamos.png">
-              <img src="https://imgs.xkcd.com/comics/los_alamos.png" alt="The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/718/">#718</a>] Statistics suggest that there should be tons of alien encounter stories, and in practice there are tons of alien encounter stories. This is known as Fermi's Lack-of-a-Paradox.</p>
+            <a href="https://imgs.xkcd.com/comics/the_flake_equation.png">
+              <img src="https://imgs.xkcd.com/comics/the_flake_equation.png" alt="Statistics suggest that there should be tons of alien encounter stories, and in practice there are tons of alien encounter stories. This is known as Fermi's Lack-of-a-Paradox." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/809/</guid>
-      <pubDate>Fri, 22 Oct 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/718/</guid>
+      <pubDate>Wed, 24 Mar 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
