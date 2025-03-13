@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 03 Jan 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mark</title>
-      <link>https://xkcd.com/842/</link>
+      <title>Schwarzschild's Cat</title>
+      <link>https://xkcd.com/2088/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/842/">#842</a>] I'm a solipsistic conspiracy theorist. I'm sure I must be up to something, and I will not stop until I find out what.</p>
-            <a href="https://imgs.xkcd.com/comics/mark.png">
-              <img src="https://imgs.xkcd.com/comics/mark.png" alt="I'm a solipsistic conspiracy theorist. I'm sure I must be up to something, and I will not stop until I find out what." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2088/">#2088</a>] Cats can be smaller than the critical limit, but they're unobservable. If one shrinks enough that it crosses the limit, it just appears to get cuter and cuter as it slowly fades from view.</p>
+            <a href="https://imgs.xkcd.com/comics/schwarzschilds_cat.png">
+              <img src="https://imgs.xkcd.com/comics/schwarzschilds_cat.png" alt="Cats can be smaller than the critical limit, but they're unobservable. If one shrinks enough that it crosses the limit, it just appears to get cuter and cuter as it slowly fades from view." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/842/</guid>
-      <pubDate>Mon, 03 Jan 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2088/</guid>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
