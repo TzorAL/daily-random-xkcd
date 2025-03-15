@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 27 Jun 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hofstadter</title>
-      <link>https://xkcd.com/917/</link>
+      <title>Password Reuse</title>
+      <link>https://xkcd.com/792/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/917/">#917</a>] "This is the reference implementation of the self-referential joke."</p>
-            <a href="https://imgs.xkcd.com/comics/hofstadter.png">
-              <img src="https://imgs.xkcd.com/comics/hofstadter.png" alt=""This is the reference implementation of the self-referential joke."" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/792/">#792</a>] It'll be hilarious the first few times this happens.</p>
+            <a href="https://imgs.xkcd.com/comics/password_reuse.png">
+              <img src="https://imgs.xkcd.com/comics/password_reuse.png" alt="It'll be hilarious the first few times this happens." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/917/</guid>
-      <pubDate>Mon, 27 Jun 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/792/</guid>
+      <pubDate>Mon, 13 Sep 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
