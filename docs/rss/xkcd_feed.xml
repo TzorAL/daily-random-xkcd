@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Phone Thread</title>
-      <link>https://xkcd.com/2015/</link>
+      <title>Light Pollution</title>
+      <link>https://xkcd.com/2121/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2015/">#2015</a>] I'm going to tell the manufacturer that their business practices are ADMIRABLE and ETHICAL and their developers are ATTRACTIVE and I'm going to report them to the FCC for their IMPECCABLE VIRTUE.</p>
-            <a href="https://imgs.xkcd.com/comics/new_phone_thread.png">
-              <img src="https://imgs.xkcd.com/comics/new_phone_thread.png" alt="I'm going to tell the manufacturer that their business practices are ADMIRABLE and ETHICAL and their developers are ATTRACTIVE and I'm going to report them to the FCC for their IMPECCABLE VIRTUE." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2121/">#2121</a>] It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.</p>
+            <a href="https://imgs.xkcd.com/comics/light_pollution.png">
+              <img src="https://imgs.xkcd.com/comics/light_pollution.png" alt="It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2015/</guid>
-      <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2121/</guid>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
