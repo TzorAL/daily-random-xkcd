@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 01 Jun 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Troll Slayer</title>
-      <link>https://xkcd.com/591/</link>
+      <title>Wells</title>
+      <link>https://xkcd.com/3004/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/591/">#591</a>] We have met the enemy and he is us.</p>
-            <a href="https://imgs.xkcd.com/comics/troll_slayer.png">
-              <img src="https://imgs.xkcd.com/comics/troll_slayer.png" alt="We have met the enemy and he is us." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/3004/">#3004</a>] You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead.</p>
+            <a href="https://imgs.xkcd.com/comics/wells.png">
+              <img src="https://imgs.xkcd.com/comics/wells.png" alt="You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/591/</guid>
-      <pubDate>Mon, 01 Jun 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3004/</guid>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
