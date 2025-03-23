@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 07 Jun 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Baring My Heart</title>
-      <link>https://xkcd.com/112/</link>
+      <title>Julia Stiles</title>
+      <link>https://xkcd.com/130/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/112/">#112</a>] I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?</p>
-            <a href="https://imgs.xkcd.com/comics/baring_my_heart.png">
-              <img src="https://imgs.xkcd.com/comics/baring_my_heart.png" alt="I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/130/">#130</a>] I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!</p>
+            <a href="https://imgs.xkcd.com/comics/julia_stiles.jpg">
+              <img src="https://imgs.xkcd.com/comics/julia_stiles.jpg" alt="I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/112/</guid>
-      <pubDate>Wed, 07 Jun 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/130/</guid>
+      <pubDate>Wed, 19 Jul 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
