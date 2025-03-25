@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 23 Aug 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Columbus</title>
-      <link>https://xkcd.com/1255/</link>
+      <title>Nothing to Offer</title>
+      <link>https://xkcd.com/1148/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1255/">#1255</a>] And thus was smallpox introduced into the previously Undying Lands.</p>
-            <a href="https://imgs.xkcd.com/comics/columbus.png">
-              <img src="https://imgs.xkcd.com/comics/columbus.png" alt="And thus was smallpox introduced into the previously Undying Lands." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1148/">#1148</a>] cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.</p>
+            <a href="https://imgs.xkcd.com/comics/nothing_to_offer.png">
+              <img src="https://imgs.xkcd.com/comics/nothing_to_offer.png" alt="cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1255/</guid>
-      <pubDate>Fri, 23 Aug 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1148/</guid>
+      <pubDate>Mon, 17 Dec 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
