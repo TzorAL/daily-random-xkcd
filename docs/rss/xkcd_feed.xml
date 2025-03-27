@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Best Camera</title>
-      <link>https://xkcd.com/2645/</link>
+      <title>Preprint</title>
+      <link>https://xkcd.com/2304/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2645/">#2645</a>] The best camera is the one at L2.</p>
-            <a href="https://imgs.xkcd.com/comics/the_best_camera.png">
-              <img src="https://imgs.xkcd.com/comics/the_best_camera.png" alt="The best camera is the one at L2." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2304/">#2304</a>] DOWNSIDES: Adobe people may periodically email your newsroom to ask you to call it an 'Adobe® PDF document,' but they'll reverse course once they learn how sarcastically you can pronounce the registered trademark symbol.</p>
+            <a href="https://imgs.xkcd.com/comics/preprint.png">
+              <img src="https://imgs.xkcd.com/comics/preprint.png" alt="DOWNSIDES: Adobe people may periodically email your newsroom to ask you to call it an 'Adobe® PDF document,' but they'll reverse course once they learn how sarcastically you can pronounce the registered trademark symbol." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2645/</guid>
-      <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2304/</guid>
+      <pubDate>Fri, 08 May 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
