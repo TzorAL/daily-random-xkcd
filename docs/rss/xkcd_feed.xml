@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 08 May 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Preprint</title>
-      <link>https://xkcd.com/2304/</link>
+      <title>Pastime</title>
+      <link>https://xkcd.com/1222/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2304/">#2304</a>] DOWNSIDES: Adobe people may periodically email your newsroom to ask you to call it an 'Adobe® PDF document,' but they'll reverse course once they learn how sarcastically you can pronounce the registered trademark symbol.</p>
-            <a href="https://imgs.xkcd.com/comics/preprint.png">
-              <img src="https://imgs.xkcd.com/comics/preprint.png" alt="DOWNSIDES: Adobe people may periodically email your newsroom to ask you to call it an 'Adobe® PDF document,' but they'll reverse course once they learn how sarcastically you can pronounce the registered trademark symbol." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1222/">#1222</a>] Good thing we're too smart to spend all day being uselessly frustrated with ourselves. I mean, that'd be a hell of a waste, right?</p>
+            <a href="https://imgs.xkcd.com/comics/pastime.png">
+              <img src="https://imgs.xkcd.com/comics/pastime.png" alt="Good thing we're too smart to spend all day being uselessly frustrated with ourselves. I mean, that'd be a hell of a waste, right?" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2304/</guid>
-      <pubDate>Fri, 08 May 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1222/</guid>
+      <pubDate>Fri, 07 Jun 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
