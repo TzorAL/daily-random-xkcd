@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 07 Apr 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Feb 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Digital Rights Management</title>
-      <link>https://xkcd.com/86/</link>
+      <title>Archimedes</title>
+      <link>https://xkcd.com/857/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/86/">#86</a>] If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good</p>
-            <a href="https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg">
-              <img src="https://imgs.xkcd.com/comics/sony_microsoft_mpaa_riaa_apple.jpg" alt="If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/857/">#857</a>] Give a man a fish, or he will destroy the only existing vial of antidote.</p>
+            <a href="https://imgs.xkcd.com/comics/archimedes.png">
+              <img src="https://imgs.xkcd.com/comics/archimedes.png" alt="Give a man a fish, or he will destroy the only existing vial of antidote." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/86/</guid>
-      <pubDate>Fri, 07 Apr 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/857/</guid>
+      <pubDate>Mon, 07 Feb 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
