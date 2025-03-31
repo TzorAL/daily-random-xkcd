@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 07 Feb 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Archimedes</title>
-      <link>https://xkcd.com/857/</link>
+      <title>COVID Risk Comfort Zone</title>
+      <link>https://xkcd.com/2346/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/857/">#857</a>] Give a man a fish, or he will destroy the only existing vial of antidote.</p>
-            <a href="https://imgs.xkcd.com/comics/archimedes.png">
-              <img src="https://imgs.xkcd.com/comics/archimedes.png" alt="Give a man a fish, or he will destroy the only existing vial of antidote." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2346/">#2346</a>] I'm like a vampire, except I'm not crossing that threshold even if you invite me.</p>
+            <a href="https://imgs.xkcd.com/comics/covid_risk_comfort_zone.png">
+              <img src="https://imgs.xkcd.com/comics/covid_risk_comfort_zone.png" alt="I'm like a vampire, except I'm not crossing that threshold even if you invite me." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/857/</guid>
-      <pubDate>Mon, 07 Feb 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2346/</guid>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
