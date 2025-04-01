@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>COVID Risk Comfort Zone</title>
-      <link>https://xkcd.com/2346/</link>
+      <title>Air Handler</title>
+      <link>https://xkcd.com/2753/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2346/">#2346</a>] I'm like a vampire, except I'm not crossing that threshold even if you invite me.</p>
-            <a href="https://imgs.xkcd.com/comics/covid_risk_comfort_zone.png">
-              <img src="https://imgs.xkcd.com/comics/covid_risk_comfort_zone.png" alt="I'm like a vampire, except I'm not crossing that threshold even if you invite me." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2753/">#2753</a>] It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.</p>
+            <a href="https://imgs.xkcd.com/comics/air_handler.png">
+              <img src="https://imgs.xkcd.com/comics/air_handler.png" alt="It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2346/</guid>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2753/</guid>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
