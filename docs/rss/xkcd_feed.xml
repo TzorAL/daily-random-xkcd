@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 18 Dec 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Statistics</title>
-      <link>https://xkcd.com/2400/</link>
+      <title>Form</title>
+      <link>https://xkcd.com/608/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2400/">#2400</a>] We reject the null hypothesis based on the 'hot damn, check out this chart' test.</p>
-            <a href="https://imgs.xkcd.com/comics/statistics.png">
-              <img src="https://imgs.xkcd.com/comics/statistics.png" alt="We reject the null hypothesis based on the 'hot damn, check out this chart' test." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/608/">#608</a>] 'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.</p>
+            <a href="https://imgs.xkcd.com/comics/form.png">
+              <img src="https://imgs.xkcd.com/comics/form.png" alt="'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2400/</guid>
-      <pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/608/</guid>
+      <pubDate>Fri, 10 Jul 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
