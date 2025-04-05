@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 10 Jul 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Form</title>
-      <link>https://xkcd.com/608/</link>
+      <title>Siri</title>
+      <link>https://xkcd.com/2438/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/608/">#608</a>] 'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.</p>
-            <a href="https://imgs.xkcd.com/comics/form.png">
-              <img src="https://imgs.xkcd.com/comics/form.png" alt="'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2438/">#2438</a>] Alexa defeated her in a battle hinging on the ability to set multiple timers.</p>
+            <a href="https://imgs.xkcd.com/comics/siri.png">
+              <img src="https://imgs.xkcd.com/comics/siri.png" alt="Alexa defeated her in a battle hinging on the ability to set multiple timers." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/608/</guid>
-      <pubDate>Fri, 10 Jul 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2438/</guid>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
