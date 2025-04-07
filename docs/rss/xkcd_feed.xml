@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 29 Jul 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Six Words</title>
-      <link>https://xkcd.com/1244/</link>
+      <title>Greek Letters</title>
+      <link>https://xkcd.com/2586/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1244/">#1244</a>] Ahem. We are STRICTLY an Orbiter shop.</p>
-            <a href="https://imgs.xkcd.com/comics/six_words.png">
-              <img src="https://imgs.xkcd.com/comics/six_words.png" alt="Ahem. We are STRICTLY an Orbiter shop." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2586/">#2586</a>] If you ever see someone using a capital xi in an equation, just observe them quietly to learn as much as you can before they return to their home planet.</p>
+            <a href="https://imgs.xkcd.com/comics/greek_letters.png">
+              <img src="https://imgs.xkcd.com/comics/greek_letters.png" alt="If you ever see someone using a capital xi in an equation, just observe them quietly to learn as much as you can before they return to their home planet." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1244/</guid>
-      <pubDate>Mon, 29 Jul 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2586/</guid>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
