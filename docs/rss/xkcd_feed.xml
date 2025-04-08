@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Greek Letters</title>
-      <link>https://xkcd.com/2586/</link>
+      <title>2017</title>
+      <link>https://xkcd.com/1779/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2586/">#2586</a>] If you ever see someone using a capital xi in an equation, just observe them quietly to learn as much as you can before they return to their home planet.</p>
-            <a href="https://imgs.xkcd.com/comics/greek_letters.png">
-              <img src="https://imgs.xkcd.com/comics/greek_letters.png" alt="If you ever see someone using a capital xi in an equation, just observe them quietly to learn as much as you can before they return to their home planet." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1779/">#1779</a>] Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August.</p>
+            <a href="https://imgs.xkcd.com/comics/2017.png">
+              <img src="https://imgs.xkcd.com/comics/2017.png" alt="Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2586/</guid>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1779/</guid>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
