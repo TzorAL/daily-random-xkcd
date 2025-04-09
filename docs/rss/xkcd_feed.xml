@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 30 Dec 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2017</title>
-      <link>https://xkcd.com/1779/</link>
+      <title>Cosmologist on a Tire Swing</title>
+      <link>https://xkcd.com/1352/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1779/">#1779</a>] Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August.</p>
-            <a href="https://imgs.xkcd.com/comics/2017.png">
-              <img src="https://imgs.xkcd.com/comics/2017.png" alt="Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1352/">#1352</a>] No matter how fast I swing, I can never travel outside this loop! Maybe space outside it doesn't exist! But I bet it does. This tire came from somewhere.</p>
+            <a href="https://imgs.xkcd.com/comics/cosmologist_on_a_tire_swing.png">
+              <img src="https://imgs.xkcd.com/comics/cosmologist_on_a_tire_swing.png" alt="No matter how fast I swing, I can never travel outside this loop! Maybe space outside it doesn't exist! But I bet it does. This tire came from somewhere." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1779/</guid>
-      <pubDate>Fri, 30 Dec 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1352/</guid>
+      <pubDate>Mon, 07 Apr 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
