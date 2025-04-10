@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 07 Apr 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cosmologist on a Tire Swing</title>
-      <link>https://xkcd.com/1352/</link>
+      <title>Inbox</title>
+      <link>https://xkcd.com/2181/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1352/">#1352</a>] No matter how fast I swing, I can never travel outside this loop! Maybe space outside it doesn't exist! But I bet it does. This tire came from somewhere.</p>
-            <a href="https://imgs.xkcd.com/comics/cosmologist_on_a_tire_swing.png">
-              <img src="https://imgs.xkcd.com/comics/cosmologist_on_a_tire_swing.png" alt="No matter how fast I swing, I can never travel outside this loop! Maybe space outside it doesn't exist! But I bet it does. This tire came from somewhere." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2181/">#2181</a>] Rome's declaration of war against Carthage was sent from a no-reply address, so Hannibal had to cross the Alps to deliver his "UNSUBSCRIBE" response in person.</p>
+            <a href="https://imgs.xkcd.com/comics/inbox.png">
+              <img src="https://imgs.xkcd.com/comics/inbox.png" alt="Rome's declaration of war against Carthage was sent from a no-reply address, so Hannibal had to cross the Alps to deliver his "UNSUBSCRIBE" response in person." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1352/</guid>
-      <pubDate>Mon, 07 Apr 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2181/</guid>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
