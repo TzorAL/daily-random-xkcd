@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Inbox</title>
-      <link>https://xkcd.com/2181/</link>
+      <title>2016 Election Map</title>
+      <link>https://xkcd.com/1939/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2181/">#2181</a>] Rome's declaration of war against Carthage was sent from a no-reply address, so Hannibal had to cross the Alps to deliver his "UNSUBSCRIBE" response in person.</p>
-            <a href="https://imgs.xkcd.com/comics/inbox.png">
-              <img src="https://imgs.xkcd.com/comics/inbox.png" alt="Rome's declaration of war against Carthage was sent from a no-reply address, so Hannibal had to cross the Alps to deliver his "UNSUBSCRIBE" response in person." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1939/">#1939</a>] I like the idea of cartograms (distorted population maps), but I feel like in practice they often end up being the worst of both worlds—not great for showing geography OR counting people. And on top of that, they have all the problems of a chloro... chorophl... chloropet... map with areas colored in.</p>
+            <a href="https://imgs.xkcd.com/comics/2016_election_map.png">
+              <img src="https://imgs.xkcd.com/comics/2016_election_map.png" alt="I like the idea of cartograms (distorted population maps), but I feel like in practice they often end up being the worst of both worlds—not great for showing geography OR counting people. And on top of that, they have all the problems of a chloro... chorophl... chloropet... map with areas colored in." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2181/</guid>
-      <pubDate>Fri, 26 Jul 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1939/</guid>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
