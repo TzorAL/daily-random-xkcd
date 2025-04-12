@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2016 Election Map</title>
-      <link>https://xkcd.com/1939/</link>
+      <title>Missal of Silos</title>
+      <link>https://xkcd.com/2099/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1939/">#1939</a>] I like the idea of cartograms (distorted population maps), but I feel like in practice they often end up being the worst of both worlds—not great for showing geography OR counting people. And on top of that, they have all the problems of a chloro... chorophl... chloropet... map with areas colored in.</p>
-            <a href="https://imgs.xkcd.com/comics/2016_election_map.png">
-              <img src="https://imgs.xkcd.com/comics/2016_election_map.png" alt="I like the idea of cartograms (distorted population maps), but I feel like in practice they often end up being the worst of both worlds—not great for showing geography OR counting people. And on top of that, they have all the problems of a chloro... chorophl... chloropet... map with areas colored in." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2099/">#2099</a>] Welcome to Wyoming, motto "We'd like to clarify that Cheyenne Mountain is in Colorado."</p>
+            <a href="https://imgs.xkcd.com/comics/missal_of_silos.png">
+              <img src="https://imgs.xkcd.com/comics/missal_of_silos.png" alt="Welcome to Wyoming, motto "We'd like to clarify that Cheyenne Mountain is in Colorado."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1939/</guid>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2099/</guid>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
