@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Immune Factory</title>
-      <link>https://xkcd.com/2491/</link>
+      <title>Too Much Talking</title>
+      <link>https://xkcd.com/2134/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2491/">#2491</a>] In the final vote, the doubters were won over by the strength of the name IMMUNION.</p>
-            <a href="https://imgs.xkcd.com/comics/immune_factory.png">
-              <img src="https://imgs.xkcd.com/comics/immune_factory.png" alt="In the final vote, the doubters were won over by the strength of the name IMMUNION." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2134/">#2134</a>] Next time I go, I'm going to prepare a whole bunch of opinions that I'm sure are good, and make everyone sit quietly while I run through them.</p>
+            <a href="https://imgs.xkcd.com/comics/too_much_talking.png">
+              <img src="https://imgs.xkcd.com/comics/too_much_talking.png" alt="Next time I go, I'm going to prepare a whole bunch of opinions that I'm sure are good, and make everyone sit quietly while I run through them." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2491/</guid>
-      <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2134/</guid>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
