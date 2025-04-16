@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Laws of Physics</title>
-      <link>https://xkcd.com/1670/</link>
+      <title>Reverse Identity Theft</title>
+      <link>https://xkcd.com/1279/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1670/">#1670</a>] The laws of physics are fun to try to understand, but as an organism with incredibly delicate eyes who evolved in a world full of sharp objects, I have an awful lot of trust in biology's calibration of my flinch reflex.</p>
-            <a href="https://imgs.xkcd.com/comics/laws_of_physics.png">
-              <img src="https://imgs.xkcd.com/comics/laws_of_physics.png" alt="The laws of physics are fun to try to understand, but as an organism with incredibly delicate eyes who evolved in a world full of sharp objects, I have an awful lot of trust in biology's calibration of my flinch reflex." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1279/">#1279</a>] I asked a few friends whether they'd had this happen, then looked up the popularity of their initials/names over time.  Based on those numbers, it looks like there must be at least 750,000 people in the US alone who think 'Sure, that's probably my email address' on a regular basis.</p>
+            <a href="https://imgs.xkcd.com/comics/reverse_identity_theft.png">
+              <img src="https://imgs.xkcd.com/comics/reverse_identity_theft.png" alt="I asked a few friends whether they'd had this happen, then looked up the popularity of their initials/names over time.  Based on those numbers, it looks like there must be at least 750,000 people in the US alone who think 'Sure, that's probably my email address' on a regular basis." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1670/</guid>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1279/</guid>
+      <pubDate>Fri, 18 Oct 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
