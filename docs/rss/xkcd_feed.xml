@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 27 May 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Designated Drivers</title>
-      <link>https://xkcd.com/589/</link>
+      <title>Surface Area</title>
+      <link>https://xkcd.com/1389/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/589/">#589</a>] Calling a cab means cutting into beer money.</p>
-            <a href="https://imgs.xkcd.com/comics/designated_drivers.png">
-              <img src="https://imgs.xkcd.com/comics/designated_drivers.png" alt="Calling a cab means cutting into beer money." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1389/">#1389</a>] This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.</p>
+            <a href="https://imgs.xkcd.com/comics/surface_area.png">
+              <img src="https://imgs.xkcd.com/comics/surface_area.png" alt="This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/589/</guid>
-      <pubDate>Wed, 27 May 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1389/</guid>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
