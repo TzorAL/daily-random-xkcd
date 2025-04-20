@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 02 Jul 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Surface Area</title>
-      <link>https://xkcd.com/1389/</link>
+      <title>Capri Suns</title>
+      <link>https://xkcd.com/2647/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1389/">#1389</a>] This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.</p>
-            <a href="https://imgs.xkcd.com/comics/surface_area.png">
-              <img src="https://imgs.xkcd.com/comics/surface_area.png" alt="This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2647/">#2647</a>] [As security is dragging me away] "Come on, at least I didn't make the mistake in the other direction!"</p>
+            <a href="https://imgs.xkcd.com/comics/capri_suns.png">
+              <img src="https://imgs.xkcd.com/comics/capri_suns.png" alt="[As security is dragging me away] "Come on, at least I didn't make the mistake in the other direction!"" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1389/</guid>
-      <pubDate>Wed, 02 Jul 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2647/</guid>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
