@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jun 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Capri Suns</title>
-      <link>https://xkcd.com/2647/</link>
+      <title>Librarians</title>
+      <link>https://xkcd.com/280/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2647/">#2647</a>] [As security is dragging me away] "Come on, at least I didn't make the mistake in the other direction!"</p>
-            <a href="https://imgs.xkcd.com/comics/capri_suns.png">
-              <img src="https://imgs.xkcd.com/comics/capri_suns.png" alt="[As security is dragging me away] "Come on, at least I didn't make the mistake in the other direction!"" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/280/">#280</a>] Don't expect any leniency on late fees, though.</p>
+            <a href="https://imgs.xkcd.com/comics/librarians.png">
+              <img src="https://imgs.xkcd.com/comics/librarians.png" alt="Don't expect any leniency on late fees, though." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2647/</guid>
-      <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/280/</guid>
+      <pubDate>Fri, 22 Jun 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
