@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Down</title>
-      <link>https://xkcd.com/2800/</link>
+      <title>Flag Map Sabotage</title>
+      <link>https://xkcd.com/2528/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2800/">#2800</a>] It's just that I get nervous about heights.</p>
-            <a href="https://imgs.xkcd.com/comics/down.png">
-              <img src="https://imgs.xkcd.com/comics/down.png" alt="It's just that I get nervous about heights." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2528/">#2528</a>] Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.</p>
+            <a href="https://imgs.xkcd.com/comics/flag_map_sabotage.png">
+              <img src="https://imgs.xkcd.com/comics/flag_map_sabotage.png" alt="Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2800/</guid>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2528/</guid>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
