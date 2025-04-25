@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 06 Dec 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Aug 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Genetic Analysis</title>
-      <link>https://xkcd.com/830/</link>
+      <title>Atheists</title>
+      <link>https://xkcd.com/774/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/830/">#830</a>] There's still a chance you were conceived via IVF. But we've checked your mom's college yearbook photos, and whether or not she and your father had sex, it's clear that ... listen, I know this is hard for you.</p>
-            <a href="https://imgs.xkcd.com/comics/genetic_analysis.png">
-              <img src="https://imgs.xkcd.com/comics/genetic_analysis.png" alt="There's still a chance you were conceived via IVF. But we've checked your mom's college yearbook photos, and whether or not she and your father had sex, it's clear that ... listen, I know this is hard for you." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/774/">#774</a>] 'But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'</p>
+            <a href="https://imgs.xkcd.com/comics/atheists.png">
+              <img src="https://imgs.xkcd.com/comics/atheists.png" alt="'But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/830/</guid>
-      <pubDate>Mon, 06 Dec 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/774/</guid>
+      <pubDate>Mon, 02 Aug 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
