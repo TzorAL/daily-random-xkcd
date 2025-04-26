@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 02 Aug 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Atheists</title>
-      <link>https://xkcd.com/774/</link>
+      <title>Dependency</title>
+      <link>https://xkcd.com/2347/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/774/">#774</a>] 'But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'</p>
-            <a href="https://imgs.xkcd.com/comics/atheists.png">
-              <img src="https://imgs.xkcd.com/comics/atheists.png" alt="'But you're using that same tactic to try to feel superior to me, too!' 'Sorry, that accusation expires after one use per conversation.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2347/">#2347</a>] Someday ImageMagick will finally break for good and we'll have a long period of scrambling as we try to reassemble civilization from the rubble.</p>
+            <a href="https://imgs.xkcd.com/comics/dependency.png">
+              <img src="https://imgs.xkcd.com/comics/dependency.png" alt="Someday ImageMagick will finally break for good and we'll have a long period of scrambling as we try to reassemble civilization from the rubble." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/774/</guid>
-      <pubDate>Mon, 02 Aug 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2347/</guid>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
