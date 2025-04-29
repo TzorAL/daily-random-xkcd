@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 17 Mar 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Onboarding</title>
-      <link>https://xkcd.com/1812/</link>
+      <title>Moments of Inspiration</title>
+      <link>https://xkcd.com/1584/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1812/">#1812</a>] 'So we just have a steady flow of metal piling up in our server room? Isn't that a problem?' 'Yeah, you should bring that up at our next bismuth meeting.'</p>
-            <a href="https://imgs.xkcd.com/comics/onboarding.png">
-              <img src="https://imgs.xkcd.com/comics/onboarding.png" alt="'So we just have a steady flow of metal piling up in our server room? Isn't that a problem?' 'Yeah, you should bring that up at our next bismuth meeting.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1584/">#1584</a>] Charles, I just talked to John and Mildred, who run that company selling seeds and nuts, and their kids with MOUTHS are starving!</p>
+            <a href="https://imgs.xkcd.com/comics/moments_of_inspiration.png">
+              <img src="https://imgs.xkcd.com/comics/moments_of_inspiration.png" alt="Charles, I just talked to John and Mildred, who run that company selling seeds and nuts, and their kids with MOUTHS are starving!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1812/</guid>
-      <pubDate>Fri, 17 Mar 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1584/</guid>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
