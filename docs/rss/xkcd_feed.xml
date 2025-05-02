@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brain Hemispheres</title>
-      <link>https://xkcd.com/2120/</link>
+      <title>Terry Pratchett</title>
+      <link>https://xkcd.com/1498/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2120/">#2120</a>] Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.</p>
-            <a href="https://imgs.xkcd.com/comics/brain_hemispheres.png">
-              <img src="https://imgs.xkcd.com/comics/brain_hemispheres.png" alt="Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1498/">#1498</a>] Thank you for teaching us how big our world is by sharing so many of your own.</p>
+            <a href="https://imgs.xkcd.com/comics/terry_pratchett.png">
+              <img src="https://imgs.xkcd.com/comics/terry_pratchett.png" alt="Thank you for teaching us how big our world is by sharing so many of your own." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2120/</guid>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1498/</guid>
+      <pubDate>Fri, 13 Mar 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
