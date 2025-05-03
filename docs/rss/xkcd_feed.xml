@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 13 Mar 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Terry Pratchett</title>
-      <link>https://xkcd.com/1498/</link>
+      <title>1000 Times</title>
+      <link>https://xkcd.com/558/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1498/">#1498</a>] Thank you for teaching us how big our world is by sharing so many of your own.</p>
-            <a href="https://imgs.xkcd.com/comics/terry_pratchett.png">
-              <img src="https://imgs.xkcd.com/comics/terry_pratchett.png" alt="Thank you for teaching us how big our world is by sharing so many of your own." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/558/">#558</a>] And 0.002 dollars will NEVER equal 0.002 cents.</p>
+            <a href="https://imgs.xkcd.com/comics/1000_times.png">
+              <img src="https://imgs.xkcd.com/comics/1000_times.png" alt="And 0.002 dollars will NEVER equal 0.002 cents." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1498/</guid>
-      <pubDate>Fri, 13 Mar 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/558/</guid>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
