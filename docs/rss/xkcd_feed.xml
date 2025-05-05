@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FDR</title>
-      <link>https://xkcd.com/2084/</link>
+      <title>Worst Ladder</title>
+      <link>https://xkcd.com/2375/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2084/">#2084</a>] June 21st, 365, the date of the big Mediterranean earthquake and tsunami, lived in infamy for a few centuries before fading. Maybe the trick is a catchy rhyme; the '5th of November' thing is still going strong over 400 years later.</p>
-            <a href="https://imgs.xkcd.com/comics/fdr.png">
-              <img src="https://imgs.xkcd.com/comics/fdr.png" alt="June 21st, 365, the date of the big Mediterranean earthquake and tsunami, lived in infamy for a few centuries before fading. Maybe the trick is a catchy rhyme; the '5th of November' thing is still going strong over 400 years later." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2375/">#2375</a>] [Six months later] "Well, our 'worst ladder' subscription series was a surprisingly lucrative success, but was completely canceled out by the losses from the disastrous Home Depot merchandising tie-in."</p>
+            <a href="https://imgs.xkcd.com/comics/worst_ladder.png">
+              <img src="https://imgs.xkcd.com/comics/worst_ladder.png" alt="[Six months later] "Well, our 'worst ladder' subscription series was a surprisingly lucrative success, but was completely canceled out by the losses from the disastrous Home Depot merchandising tie-in."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2084/</guid>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2375/</guid>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
