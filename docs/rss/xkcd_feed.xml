@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Worst Ladder</title>
-      <link>https://xkcd.com/2375/</link>
+      <title>Is It Worth the Time?</title>
+      <link>https://xkcd.com/1205/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2375/">#2375</a>] [Six months later] "Well, our 'worst ladder' subscription series was a surprisingly lucrative success, but was completely canceled out by the losses from the disastrous Home Depot merchandising tie-in."</p>
-            <a href="https://imgs.xkcd.com/comics/worst_ladder.png">
-              <img src="https://imgs.xkcd.com/comics/worst_ladder.png" alt="[Six months later] "Well, our 'worst ladder' subscription series was a surprisingly lucrative success, but was completely canceled out by the losses from the disastrous Home Depot merchandising tie-in."" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1205/">#1205</a>] Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.</p>
+            <a href="https://imgs.xkcd.com/comics/is_it_worth_the_time.png">
+              <img src="https://imgs.xkcd.com/comics/is_it_worth_the_time.png" alt="Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2375/</guid>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1205/</guid>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
