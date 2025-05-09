@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 24 Aug 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Sep 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Synonym Movies 2</title>
-      <link>https://xkcd.com/1568/</link>
+      <title>Symbols</title>
+      <link>https://xkcd.com/2520/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1568/">#1568</a>] There's also the TV show based on the hit Hot and Cold Music books: Fun With Chairs, Royal Rumble, Knife Blizzard, Breakfast for Birds, and Samba Serpents.</p>
-            <a href="https://imgs.xkcd.com/comics/synonym_movies_2.png">
-              <img src="https://imgs.xkcd.com/comics/synonym_movies_2.png" alt="There's also the TV show based on the hit Hot and Cold Music books: Fun With Chairs, Royal Rumble, Knife Blizzard, Breakfast for Birds, and Samba Serpents." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2520/">#2520</a>] "röntgen" and "rem" are 20th-century physics terms that mean "no trespassing."</p>
+            <a href="https://imgs.xkcd.com/comics/symbols.png">
+              <img src="https://imgs.xkcd.com/comics/symbols.png" alt=""röntgen" and "rem" are 20th-century physics terms that mean "no trespassing."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1568/</guid>
-      <pubDate>Mon, 24 Aug 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2520/</guid>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
