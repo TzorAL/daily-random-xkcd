@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 04 Jan 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cougars</title>
-      <link>https://xkcd.com/999/</link>
+      <title>Humans</title>
+      <link>https://xkcd.com/1527/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/999/">#999</a>] If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!</p>
-            <a href="https://imgs.xkcd.com/comics/cougars.png">
-              <img src="https://imgs.xkcd.com/comics/cougars.png" alt="If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1527/">#1527</a>] At this point, if we're going to keep insisting on portraying dinosaurs as featherless because it's "cooler", it's time to apply that same logic to art involving bald eagles.</p>
+            <a href="https://imgs.xkcd.com/comics/humans.png">
+              <img src="https://imgs.xkcd.com/comics/humans.png" alt="At this point, if we're going to keep insisting on portraying dinosaurs as featherless because it's "cooler", it's time to apply that same logic to art involving bald eagles." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/999/</guid>
-      <pubDate>Wed, 04 Jan 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1527/</guid>
+      <pubDate>Wed, 20 May 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
