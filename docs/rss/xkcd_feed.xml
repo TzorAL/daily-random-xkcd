@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 20 May 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Humans</title>
-      <link>https://xkcd.com/1527/</link>
+      <title>Star Wars</title>
+      <link>https://xkcd.com/1477/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1527/">#1527</a>] At this point, if we're going to keep insisting on portraying dinosaurs as featherless because it's "cooler", it's time to apply that same logic to art involving bald eagles.</p>
-            <a href="https://imgs.xkcd.com/comics/humans.png">
-              <img src="https://imgs.xkcd.com/comics/humans.png" alt="At this point, if we're going to keep insisting on portraying dinosaurs as featherless because it's "cooler", it's time to apply that same logic to art involving bald eagles." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1477/">#1477</a>] A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...</p>
+            <a href="https://imgs.xkcd.com/comics/star_wars.png">
+              <img src="https://imgs.xkcd.com/comics/star_wars.png" alt="A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ..." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1527/</guid>
-      <pubDate>Wed, 20 May 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1477/</guid>
+      <pubDate>Fri, 23 Jan 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
