@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 23 Sep 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Physics Lab Thermostat</title>
-      <link>https://xkcd.com/2989/</link>
+      <title>Disk Usage</title>
+      <link>https://xkcd.com/2143/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2989/">#2989</a>] Hopefully the HVAC people set it to only affect the AIR in the room.</p>
-            <a href="https://imgs.xkcd.com/comics/physics_lab_thermostat.png">
-              <img src="https://imgs.xkcd.com/comics/physics_lab_thermostat.png" alt="Hopefully the HVAC people set it to only affect the AIR in the room." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2143/">#2143</a>] Menu -> Manage -> [Optimize space usage, Encrypt disk usage report, Convert photos to text-only, Delete temporary files, Delete permanent files, Delete all files currently in use, Optimize menu options, Download cloud, Optimize cloud , Upload unused space to cloud]</p>
+            <a href="https://imgs.xkcd.com/comics/disk_usage.png">
+              <img src="https://imgs.xkcd.com/comics/disk_usage.png" alt="Menu -> Manage -> [Optimize space usage, Encrypt disk usage report, Convert photos to text-only, Delete temporary files, Delete permanent files, Delete all files currently in use, Optimize menu options, Download cloud, Optimize cloud , Upload unused space to cloud]" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2989/</guid>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2143/</guid>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
