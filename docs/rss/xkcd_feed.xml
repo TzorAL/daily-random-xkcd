@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 02 Mar 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jun 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Error Code</title>
-      <link>https://xkcd.com/1024/</link>
+      <title>Permanence</title>
+      <link>https://xkcd.com/910/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1024/">#1024</a>] It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.</p>
-            <a href="https://imgs.xkcd.com/comics/error_code.png">
-              <img src="https://imgs.xkcd.com/comics/error_code.png" alt="It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/910/">#910</a>] This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!</p>
+            <a href="https://imgs.xkcd.com/comics/permanence.png">
+              <img src="https://imgs.xkcd.com/comics/permanence.png" alt="This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1024/</guid>
-      <pubDate>Fri, 02 Mar 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/910/</guid>
+      <pubDate>Fri, 10 Jun 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
