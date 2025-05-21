@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 11 Dec 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Red Car</title>
-      <link>https://xkcd.com/1615/</link>
+      <title>int(pi)</title>
+      <link>https://xkcd.com/1275/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1615/">#1615</a>] That guy only drives an alkaline car to overcompensate for his highly acidic penis.</p>
-            <a href="https://imgs.xkcd.com/comics/red_car.png">
-              <img src="https://imgs.xkcd.com/comics/red_car.png" alt="That guy only drives an alkaline car to overcompensate for his highly acidic penis." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1275/">#1275</a>] If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) / floor(pi) * pi * r^floor(pi)'. Mmm, floor pie.</p>
+            <a href="https://imgs.xkcd.com/comics/int_pi.png">
+              <img src="https://imgs.xkcd.com/comics/int_pi.png" alt="If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) / floor(pi) * pi * r^floor(pi)'. Mmm, floor pie." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1615/</guid>
-      <pubDate>Fri, 11 Dec 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1275/</guid>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
