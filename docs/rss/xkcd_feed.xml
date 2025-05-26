@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 May 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Girl sleeping (Sketch -- 11th grade Spanish class)</title>
-      <link>https://xkcd.com/7/</link>
+      <title>Yogurt</title>
+      <link>https://xkcd.com/737/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/7/">#7</a>] I don't remember her name at all, but she fell asleep on the floor in front of me.</p>
-            <a href="https://imgs.xkcd.com/comics/girl_sleeping_noline_(1).jpg">
-              <img src="https://imgs.xkcd.com/comics/girl_sleeping_noline_(1).jpg" alt="I don't remember her name at all, but she fell asleep on the floor in front of me." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/737/">#737</a>] I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.</p>
+            <a href="https://imgs.xkcd.com/comics/yogurt.png">
+              <img src="https://imgs.xkcd.com/comics/yogurt.png" alt="I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/7/</guid>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/737/</guid>
+      <pubDate>Fri, 07 May 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
