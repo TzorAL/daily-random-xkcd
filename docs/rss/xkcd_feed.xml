@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 07 May 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Yogurt</title>
-      <link>https://xkcd.com/737/</link>
+      <title>When I'm Back at a Keyboard</title>
+      <link>https://xkcd.com/2182/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/737/">#737</a>] I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.</p>
-            <a href="https://imgs.xkcd.com/comics/yogurt.png">
-              <img src="https://imgs.xkcd.com/comics/yogurt.png" alt="I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2182/">#2182</a>] [after typing 1,500 words on feathered dinosaurs, paleontology, sexism, lava, and dinosaurs as animals rather than movie monsters] Sorry to cut it short, I'm on my phone. When I'm back at a keyboard, I can give you another 5,000 words.</p>
+            <a href="https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png">
+              <img src="https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png" alt="[after typing 1,500 words on feathered dinosaurs, paleontology, sexism, lava, and dinosaurs as animals rather than movie monsters] Sorry to cut it short, I'm on my phone. When I'm back at a keyboard, I can give you another 5,000 words." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/737/</guid>
-      <pubDate>Fri, 07 May 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2182/</guid>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
