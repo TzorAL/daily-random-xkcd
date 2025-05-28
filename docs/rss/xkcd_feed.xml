@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>When I'm Back at a Keyboard</title>
-      <link>https://xkcd.com/2182/</link>
+      <title>Oort Cloud</title>
+      <link>https://xkcd.com/1297/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2182/">#2182</a>] [after typing 1,500 words on feathered dinosaurs, paleontology, sexism, lava, and dinosaurs as animals rather than movie monsters] Sorry to cut it short, I'm on my phone. When I'm back at a keyboard, I can give you another 5,000 words.</p>
-            <a href="https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png">
-              <img src="https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png" alt="[after typing 1,500 words on feathered dinosaurs, paleontology, sexism, lava, and dinosaurs as animals rather than movie monsters] Sorry to cut it short, I'm on my phone. When I'm back at a keyboard, I can give you another 5,000 words." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1297/">#1297</a>] ... I wanna try.  Hang on, be right back.</p>
+            <a href="https://imgs.xkcd.com/comics/oort_cloud.png">
+              <img src="https://imgs.xkcd.com/comics/oort_cloud.png" alt="... I wanna try.  Hang on, be right back." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2182/</guid>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1297/</guid>
+      <pubDate>Fri, 29 Nov 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
