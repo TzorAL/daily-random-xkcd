@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 29 Nov 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Oort Cloud</title>
-      <link>https://xkcd.com/1297/</link>
+      <title>Skateboarding is Not a Crime</title>
+      <link>https://xkcd.com/172/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1297/">#1297</a>] ... I wanna try.  Hang on, be right back.</p>
-            <a href="https://imgs.xkcd.com/comics/oort_cloud.png">
-              <img src="https://imgs.xkcd.com/comics/oort_cloud.png" alt="... I wanna try.  Hang on, be right back." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/172/">#172</a>] 'Arrest me, I'm a skateboarder' is an even more obnoxious variant.</p>
+            <a href="https://imgs.xkcd.com/comics/skateboarding_is_not_a_crime.png">
+              <img src="https://imgs.xkcd.com/comics/skateboarding_is_not_a_crime.png" alt="'Arrest me, I'm a skateboarder' is an even more obnoxious variant." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1297/</guid>
-      <pubDate>Fri, 29 Nov 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/172/</guid>
+      <pubDate>Wed, 18 Oct 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
