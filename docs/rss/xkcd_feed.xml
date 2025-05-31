@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 16 Jul 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Sea</title>
-      <link>https://xkcd.com/450/</link>
+      <title>Brightness</title>
+      <link>https://xkcd.com/1371/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/450/">#450</a>] And then a second one, to drain the sea.</p>
-            <a href="https://imgs.xkcd.com/comics/the_sea.png">
-              <img src="https://imgs.xkcd.com/comics/the_sea.png" alt="And then a second one, to drain the sea." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1371/">#1371</a>] Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.</p>
+            <a href="https://imgs.xkcd.com/comics/brightness.png">
+              <img src="https://imgs.xkcd.com/comics/brightness.png" alt="Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/450/</guid>
-      <pubDate>Wed, 16 Jul 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1371/</guid>
+      <pubDate>Wed, 21 May 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
