@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 21 May 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jan 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brightness</title>
-      <link>https://xkcd.com/1371/</link>
+      <title>1000 Comics</title>
+      <link>https://xkcd.com/1000/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1371/">#1371</a>] Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.</p>
-            <a href="https://imgs.xkcd.com/comics/brightness.png">
-              <img src="https://imgs.xkcd.com/comics/brightness.png" alt="Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1000/">#1000</a>] Thank you for making me feel less alone.</p>
+            <a href="https://imgs.xkcd.com/comics/1000_comics.png">
+              <img src="https://imgs.xkcd.com/comics/1000_comics.png" alt="Thank you for making me feel less alone." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1371/</guid>
-      <pubDate>Wed, 21 May 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1000/</guid>
+      <pubDate>Fri, 06 Jan 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
