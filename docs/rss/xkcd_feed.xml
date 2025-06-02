@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 06 Jan 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1000 Comics</title>
-      <link>https://xkcd.com/1000/</link>
+      <title>Fiction vs Nonfiction</title>
+      <link>https://xkcd.com/2546/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1000/">#1000</a>] Thank you for making me feel less alone.</p>
-            <a href="https://imgs.xkcd.com/comics/1000_comics.png">
-              <img src="https://imgs.xkcd.com/comics/1000_comics.png" alt="Thank you for making me feel less alone." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2546/">#2546</a>] The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin.</p>
+            <a href="https://imgs.xkcd.com/comics/fiction_vs_nonfiction.png">
+              <img src="https://imgs.xkcd.com/comics/fiction_vs_nonfiction.png" alt="The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1000/</guid>
-      <pubDate>Fri, 06 Jan 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2546/</guid>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
