@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 23 Jun 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Road Rage</title>
-      <link>https://xkcd.com/440/</link>
+      <title>Hubble Tension</title>
+      <link>https://xkcd.com/2516/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/440/">#440</a>] Okay, now just as the loss hits him, slam on the brakes.</p>
-            <a href="https://imgs.xkcd.com/comics/road_rage.png">
-              <img src="https://imgs.xkcd.com/comics/road_rage.png" alt="Okay, now just as the loss hits him, slam on the brakes." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2516/">#2516</a>] Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!</p>
+            <a href="https://imgs.xkcd.com/comics/hubble_tension.png">
+              <img src="https://imgs.xkcd.com/comics/hubble_tension.png" alt="Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/440/</guid>
-      <pubDate>Mon, 23 Jun 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2516/</guid>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
