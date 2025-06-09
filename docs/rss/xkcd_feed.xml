@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 16 Jan 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Nov 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Compiler Complaint</title>
-      <link>https://xkcd.com/371/</link>
+      <title>Diode</title>
+      <link>https://xkcd.com/814/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/371/">#371</a>] Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.</p>
-            <a href="https://imgs.xkcd.com/comics/compiler_complaint.png">
-              <img src="https://imgs.xkcd.com/comics/compiler_complaint.png" alt="Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/814/">#814</a>] And the worst part is you won't apologize.</p>
+            <a href="https://imgs.xkcd.com/comics/diode.png">
+              <img src="https://imgs.xkcd.com/comics/diode.png" alt="And the worst part is you won't apologize." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/371/</guid>
-      <pubDate>Wed, 16 Jan 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/814/</guid>
+      <pubDate>Wed, 03 Nov 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
