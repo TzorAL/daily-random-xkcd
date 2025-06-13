@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 12 Jan 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kayak</title>
-      <link>https://xkcd.com/209/</link>
+      <title>Irony</title>
+      <link>https://xkcd.com/6/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/209/">#209</a>] Man, there's future *everywhere*.</p>
-            <a href="https://imgs.xkcd.com/comics/kayak.png">
-              <img src="https://imgs.xkcd.com/comics/kayak.png" alt="Man, there's future *everywhere*." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/6/">#6</a>] It's commonly known that too much perspective can be a downer.</p>
+            <a href="https://imgs.xkcd.com/comics/irony_color.jpg">
+              <img src="https://imgs.xkcd.com/comics/irony_color.jpg" alt="It's commonly known that too much perspective can be a downer." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/209/</guid>
-      <pubDate>Fri, 12 Jan 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/6/</guid>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
