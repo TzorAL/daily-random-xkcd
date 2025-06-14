@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Irony</title>
-      <link>https://xkcd.com/6/</link>
+      <title>Cutest-Sounding Scientific Effects</title>
+      <link>https://xkcd.com/2611/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/6/">#6</a>] It's commonly known that too much perspective can be a downer.</p>
-            <a href="https://imgs.xkcd.com/comics/irony_color.jpg">
-              <img src="https://imgs.xkcd.com/comics/irony_color.jpg" alt="It's commonly known that too much perspective can be a downer." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2611/">#2611</a>] The Stroop-YORP number of a scientific paper is how many of the 16 finalist names (sans 'effect') it manages to casually sneak into the text.</p>
+            <a href="https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png">
+              <img src="https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects.png" alt="The Stroop-YORP number of a scientific paper is how many of the 16 finalist names (sans 'effect') it manages to casually sneak into the text." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/6/</guid>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2611/</guid>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
