@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meteor Shower PSA</title>
-      <link>https://xkcd.com/2970/</link>
+      <title>Hydrothermal Vents</title>
+      <link>https://xkcd.com/2872/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2970/">#2970</a>] If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult.</p>
-            <a href="https://imgs.xkcd.com/comics/meteor_shower_psa.png">
-              <img src="https://imgs.xkcd.com/comics/meteor_shower_psa.png" alt="If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2872/">#2872</a>] Benthic Santas weren't even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface.</p>
+            <a href="https://imgs.xkcd.com/comics/hydrothermal_vents.png">
+              <img src="https://imgs.xkcd.com/comics/hydrothermal_vents.png" alt="Benthic Santas weren't even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2970/</guid>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2872/</guid>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
