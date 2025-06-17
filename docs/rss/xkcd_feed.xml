@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hydrothermal Vents</title>
-      <link>https://xkcd.com/2872/</link>
+      <title>Cells</title>
+      <link>https://xkcd.com/1217/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2872/">#2872</a>] Benthic Santas weren't even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface.</p>
-            <a href="https://imgs.xkcd.com/comics/hydrothermal_vents.png">
-              <img src="https://imgs.xkcd.com/comics/hydrothermal_vents.png" alt="Benthic Santas weren't even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1217/">#1217</a>] Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.</p>
+            <a href="https://imgs.xkcd.com/comics/cells.png">
+              <img src="https://imgs.xkcd.com/comics/cells.png" alt="Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2872/</guid>
-      <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1217/</guid>
+      <pubDate>Mon, 27 May 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
