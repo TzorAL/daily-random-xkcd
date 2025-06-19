@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 17 Jun 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Porn</title>
-      <link>https://xkcd.com/598/</link>
+      <title>Emails</title>
+      <link>https://xkcd.com/1783/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/598/">#598</a>] I have a thing for corrupt women.</p>
-            <a href="https://imgs.xkcd.com/comics/porn.png">
-              <img src="https://imgs.xkcd.com/comics/porn.png" alt="I have a thing for corrupt women." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1783/">#1783</a>] Hey Rob, sorry it took me a while to get back to you! Sure, I'd love to see WALL-E opening weekend! Are you still doing that, or...?</p>
+            <a href="https://imgs.xkcd.com/comics/emails.png">
+              <img src="https://imgs.xkcd.com/comics/emails.png" alt="Hey Rob, sorry it took me a while to get back to you! Sure, I'd love to see WALL-E opening weekend! Are you still doing that, or...?" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/598/</guid>
-      <pubDate>Wed, 17 Jun 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1783/</guid>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
