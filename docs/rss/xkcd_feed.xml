@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Emails</title>
-      <link>https://xkcd.com/1783/</link>
+      <title>Okeanos</title>
+      <link>https://xkcd.com/1836/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1783/">#1783</a>] Hey Rob, sorry it took me a while to get back to you! Sure, I'd love to see WALL-E opening weekend! Are you still doing that, or...?</p>
-            <a href="https://imgs.xkcd.com/comics/emails.png">
-              <img src="https://imgs.xkcd.com/comics/emails.png" alt="Hey Rob, sorry it took me a while to get back to you! Sure, I'd love to see WALL-E opening weekend! Are you still doing that, or...?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1836/">#1836</a>] WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT</p>
+            <a href="https://imgs.xkcd.com/comics/okeanos.png">
+              <img src="https://imgs.xkcd.com/comics/okeanos.png" alt="WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1783/</guid>
-      <pubDate>Mon, 09 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1836/</guid>
+      <pubDate>Fri, 12 May 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
