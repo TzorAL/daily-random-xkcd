@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 12 May 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Okeanos</title>
-      <link>https://xkcd.com/1836/</link>
+      <title>Parker Solar Probe</title>
+      <link>https://xkcd.com/2262/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1836/">#1836</a>] WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT</p>
-            <a href="https://imgs.xkcd.com/comics/okeanos.png">
-              <img src="https://imgs.xkcd.com/comics/okeanos.png" alt="WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2262/">#2262</a>] It will get within 9 or 10 Sun-diameters of the "bottom" (the Sun's surface) which seems pretty far when you put it that way, but from up here on Earth it's practically all the way down.</p>
+            <a href="https://imgs.xkcd.com/comics/parker_solar_probe.png">
+              <img src="https://imgs.xkcd.com/comics/parker_solar_probe.png" alt="It will get within 9 or 10 Sun-diameters of the "bottom" (the Sun's surface) which seems pretty far when you put it that way, but from up here on Earth it's practically all the way down." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1836/</guid>
-      <pubDate>Fri, 12 May 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2262/</guid>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
