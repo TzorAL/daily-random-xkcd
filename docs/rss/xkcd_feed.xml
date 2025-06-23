@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Celestial Event</title>
-      <link>https://xkcd.com/2971/</link>
+      <title>Career</title>
+      <link>https://xkcd.com/1346/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2971/">#2971</a>] If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.</p>
-            <a href="https://imgs.xkcd.com/comics/celestial_event.png">
-              <img src="https://imgs.xkcd.com/comics/celestial_event.png" alt="If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1346/">#1346</a>] They'd convince me to come out of retirement for one last job: biting into a giant lump of slightly soft wax a couple of times.</p>
+            <a href="https://imgs.xkcd.com/comics/career.png">
+              <img src="https://imgs.xkcd.com/comics/career.png" alt="They'd convince me to come out of retirement for one last job: biting into a giant lump of slightly soft wax a couple of times." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2971/</guid>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1346/</guid>
+      <pubDate>Mon, 24 Mar 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
