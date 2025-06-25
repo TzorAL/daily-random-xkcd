@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sunshield</title>
-      <link>https://xkcd.com/2564/</link>
+      <title>Perspective</title>
+      <link>https://xkcd.com/198/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2564/">#2564</a>] RIP the surface of Mars</p>
-            <a href="https://imgs.xkcd.com/comics/sunshield.png">
-              <img src="https://imgs.xkcd.com/comics/sunshield.png" alt="RIP the surface of Mars" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/198/">#198</a>] I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again.</p>
+            <a href="https://imgs.xkcd.com/comics/perspective.png">
+              <img src="https://imgs.xkcd.com/comics/perspective.png" alt="I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2564/</guid>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/198/</guid>
+      <pubDate>Mon, 18 Dec 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
