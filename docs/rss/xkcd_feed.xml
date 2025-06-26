@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 18 Dec 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Perspective</title>
-      <link>https://xkcd.com/198/</link>
+      <title>Sword in the Stone</title>
+      <link>https://xkcd.com/1521/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/198/">#198</a>] I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again.</p>
-            <a href="https://imgs.xkcd.com/comics/perspective.png">
-              <img src="https://imgs.xkcd.com/comics/perspective.png" alt="I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1521/">#1521</a>] That seems like an awful lot of hassle when all I wanted was a cool sword.</p>
+            <a href="https://imgs.xkcd.com/comics/sword_in_the_stone.png">
+              <img src="https://imgs.xkcd.com/comics/sword_in_the_stone.png" alt="That seems like an awful lot of hassle when all I wanted was a cool sword." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/198/</guid>
-      <pubDate>Mon, 18 Dec 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1521/</guid>
+      <pubDate>Wed, 06 May 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
