@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 06 May 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sword in the Stone</title>
-      <link>https://xkcd.com/1521/</link>
+      <title>Keynote</title>
+      <link>https://xkcd.com/527/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1521/">#1521</a>] That seems like an awful lot of hassle when all I wanted was a cool sword.</p>
-            <a href="https://imgs.xkcd.com/comics/sword_in_the_stone.png">
-              <img src="https://imgs.xkcd.com/comics/sword_in_the_stone.png" alt="That seems like an awful lot of hassle when all I wanted was a cool sword." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/527/">#527</a>] He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll.</p>
+            <a href="https://imgs.xkcd.com/comics/keynote.png">
+              <img src="https://imgs.xkcd.com/comics/keynote.png" alt="He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1521/</guid>
-      <pubDate>Wed, 06 May 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/527/</guid>
+      <pubDate>Wed, 07 Jan 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
