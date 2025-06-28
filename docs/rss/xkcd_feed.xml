@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 07 Jan 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Keynote</title>
-      <link>https://xkcd.com/527/</link>
+      <title>Leap Smearing</title>
+      <link>https://xkcd.com/2266/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/527/">#527</a>] He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll.</p>
-            <a href="https://imgs.xkcd.com/comics/keynote.png">
-              <img src="https://imgs.xkcd.com/comics/keynote.png" alt="He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2266/">#2266</a>] Some people suspect that it started as a "No, I didn't forget Valentine's Day" excuse that got out of hand.</p>
+            <a href="https://imgs.xkcd.com/comics/leap_smearing.png">
+              <img src="https://imgs.xkcd.com/comics/leap_smearing.png" alt="Some people suspect that it started as a "No, I didn't forget Valentine's Day" excuse that got out of hand." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/527/</guid>
-      <pubDate>Wed, 07 Jan 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2266/</guid>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
