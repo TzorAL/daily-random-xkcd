@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Roman Numerals</title>
-      <link>https://xkcd.com/2637/</link>
+      <title>Presidential Middle Names</title>
+      <link>https://xkcd.com/2393/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2637/">#2637</a>] 100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a "virtuacy"?</p>
-            <a href="https://imgs.xkcd.com/comics/roman_numerals.png">
-              <img src="https://imgs.xkcd.com/comics/roman_numerals.png" alt="100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a "virtuacy"?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2393/">#2393</a>] The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes.</p>
+            <a href="https://imgs.xkcd.com/comics/presidential_middle_names.png">
+              <img src="https://imgs.xkcd.com/comics/presidential_middle_names.png" alt="The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2637/</guid>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2393/</guid>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
