@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 27 Oct 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Before Sunrise</title>
-      <link>https://xkcd.com/176/</link>
+      <title>Modified Bayes' Theorem</title>
+      <link>https://xkcd.com/2059/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/176/">#176</a>] It's an amazing time of day; the light is great for photography.</p>
-            <a href="https://imgs.xkcd.com/comics/before_sunrise.png">
-              <img src="https://imgs.xkcd.com/comics/before_sunrise.png" alt="It's an amazing time of day; the light is great for photography." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2059/">#2059</a>] Don't forget to add another term for "probability that the Modified Bayes' Theorem is correct."</p>
+            <a href="https://imgs.xkcd.com/comics/modified_bayes_theorem.png">
+              <img src="https://imgs.xkcd.com/comics/modified_bayes_theorem.png" alt="Don't forget to add another term for "probability that the Modified Bayes' Theorem is correct."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/176/</guid>
-      <pubDate>Fri, 27 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2059/</guid>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
