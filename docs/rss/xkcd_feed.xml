@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Modified Bayes' Theorem</title>
-      <link>https://xkcd.com/2059/</link>
+      <title>Squirrelphone</title>
+      <link>https://xkcd.com/1578/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2059/">#2059</a>] Don't forget to add another term for "probability that the Modified Bayes' Theorem is correct."</p>
-            <a href="https://imgs.xkcd.com/comics/modified_bayes_theorem.png">
-              <img src="https://imgs.xkcd.com/comics/modified_bayes_theorem.png" alt="Don't forget to add another term for "probability that the Modified Bayes' Theorem is correct."" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1578/">#1578</a>] After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.</p>
+            <a href="https://imgs.xkcd.com/comics/squirrelphone.png">
+              <img src="https://imgs.xkcd.com/comics/squirrelphone.png" alt="After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2059/</guid>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1578/</guid>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
