@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 16 Sep 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Squirrelphone</title>
-      <link>https://xkcd.com/1578/</link>
+      <title>Excusing Yourself</title>
+      <link>https://xkcd.com/3057/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1578/">#1578</a>] After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.</p>
-            <a href="https://imgs.xkcd.com/comics/squirrelphone.png">
-              <img src="https://imgs.xkcd.com/comics/squirrelphone.png" alt="After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/3057/">#3057</a>] The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.</p>
+            <a href="https://imgs.xkcd.com/comics/excusing_yourself.png">
+              <img src="https://imgs.xkcd.com/comics/excusing_yourself.png" alt="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1578/</guid>
-      <pubDate>Wed, 16 Sep 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3057/</guid>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
