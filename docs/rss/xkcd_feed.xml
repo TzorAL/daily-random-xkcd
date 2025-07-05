@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Excusing Yourself</title>
-      <link>https://xkcd.com/3057/</link>
+      <title>Universal Converter Box</title>
+      <link>https://xkcd.com/1406/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/3057/">#3057</a>] The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.</p>
-            <a href="https://imgs.xkcd.com/comics/excusing_yourself.png">
-              <img src="https://imgs.xkcd.com/comics/excusing_yourself.png" alt="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1406/">#1406</a>] Comes with a 50-lb sack of gender changers, and also an add-on device with a voltage selector and a zillion circular center pin DC adapter tips so you can power any of those devices from the 90s.</p>
+            <a href="https://imgs.xkcd.com/comics/universal_converter_box.png">
+              <img src="https://imgs.xkcd.com/comics/universal_converter_box.png" alt="Comes with a 50-lb sack of gender changers, and also an add-on device with a voltage selector and a zillion circular center pin DC adapter tips so you can power any of those devices from the 90s." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3057/</guid>
-      <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1406/</guid>
+      <pubDate>Mon, 11 Aug 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
