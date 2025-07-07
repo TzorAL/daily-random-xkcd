@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 30 Jun 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Real Estate Analysis</title>
-      <link>https://xkcd.com/2796/</link>
+      <title>Tall Structures</title>
+      <link>https://xkcd.com/3058/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2796/">#2796</a>] Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class.</p>
-            <a href="https://imgs.xkcd.com/comics/real_estate_analysis.png">
-              <img src="https://imgs.xkcd.com/comics/real_estate_analysis.png" alt="Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/3058/">#3058</a>] Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed.</p>
+            <a href="https://imgs.xkcd.com/comics/tall_structures.png">
+              <img src="https://imgs.xkcd.com/comics/tall_structures.png" alt="Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2796/</guid>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3058/</guid>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
