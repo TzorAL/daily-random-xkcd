@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tall Structures</title>
-      <link>https://xkcd.com/3058/</link>
+      <title>Old Days 2</title>
+      <link>https://xkcd.com/2324/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/3058/">#3058</a>] Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed.</p>
-            <a href="https://imgs.xkcd.com/comics/tall_structures.png">
-              <img src="https://imgs.xkcd.com/comics/tall_structures.png" alt="Briefly set a new record for tallest human-made structure by getting my knit sweater snagged on the skydiving plane door as I jumped and not noticing until I'd landed." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2324/">#2324</a>] The git vehicle fleet eventually pivoted to selling ice cream, but some holdovers remain. If you flag down an ice cream truck and hand the driver a floppy disk, a few hours later you'll get an invite to a git repo.</p>
+            <a href="https://imgs.xkcd.com/comics/old_days_2.png">
+              <img src="https://imgs.xkcd.com/comics/old_days_2.png" alt="The git vehicle fleet eventually pivoted to selling ice cream, but some holdovers remain. If you flag down an ice cream truck and hand the driver a floppy disk, a few hours later you'll get an invite to a git repo." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3058/</guid>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2324/</guid>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
