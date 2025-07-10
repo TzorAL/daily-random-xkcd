@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 10 Jun 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Magnet Fishing</title>
-      <link>https://xkcd.com/2944/</link>
+      <title>Prediction</title>
+      <link>https://xkcd.com/2370/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2944/">#2944</a>] The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.</p>
-            <a href="https://imgs.xkcd.com/comics/magnet_fishing.png">
-              <img src="https://imgs.xkcd.com/comics/magnet_fishing.png" alt="The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2370/">#2370</a>] You'd think it'd be easy to just bet money against these people, but you have to consider the probability of them paying up.</p>
+            <a href="https://imgs.xkcd.com/comics/prediction.png">
+              <img src="https://imgs.xkcd.com/comics/prediction.png" alt="You'd think it'd be easy to just bet money against these people, but you have to consider the probability of them paying up." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2944/</guid>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2370/</guid>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
