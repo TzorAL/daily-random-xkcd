@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Dec 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prediction</title>
-      <link>https://xkcd.com/2370/</link>
+      <title>Sky Color</title>
+      <link>https://xkcd.com/1145/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2370/">#2370</a>] You'd think it'd be easy to just bet money against these people, but you have to consider the probability of them paying up.</p>
-            <a href="https://imgs.xkcd.com/comics/prediction.png">
-              <img src="https://imgs.xkcd.com/comics/prediction.png" alt="You'd think it'd be easy to just bet money against these people, but you have to consider the probability of them paying up." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1145/">#1145</a>] Feynman recounted another good one upperclassmen would use on freshmen physics students: When you look at words in a mirror, how come they're reversed left to right but not top to bottom? What's special about the horizontal axis?</p>
+            <a href="https://imgs.xkcd.com/comics/sky_color.png">
+              <img src="https://imgs.xkcd.com/comics/sky_color.png" alt="Feynman recounted another good one upperclassmen would use on freshmen physics students: When you look at words in a mirror, how come they're reversed left to right but not top to bottom? What's special about the horizontal axis?" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2370/</guid>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1145/</guid>
+      <pubDate>Mon, 10 Dec 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
