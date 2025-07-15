@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hacking</title>
-      <link>https://xkcd.com/1808/</link>
+      <title>Rotation</title>
+      <link>https://xkcd.com/2671/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1808/">#1808</a>] The dump also contains a list of millions of prime factors, a 0-day Tamagotchi exploit, and a technique for getting gcc and bash to execute arbitrary code.</p>
-            <a href="https://imgs.xkcd.com/comics/hacking.png">
-              <img src="https://imgs.xkcd.com/comics/hacking.png" alt="The dump also contains a list of millions of prime factors, a 0-day Tamagotchi exploit, and a technique for getting gcc and bash to execute arbitrary code." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2671/">#2671</a>] It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.</p>
+            <a href="https://imgs.xkcd.com/comics/rotation.png">
+              <img src="https://imgs.xkcd.com/comics/rotation.png" alt="It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1808/</guid>
-      <pubDate>Wed, 08 Mar 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2671/</guid>
+      <pubDate>Mon, 12 Sep 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
