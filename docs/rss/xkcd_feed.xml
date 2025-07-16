@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rotation</title>
-      <link>https://xkcd.com/2671/</link>
+      <title>It Was I</title>
+      <link>https://xkcd.com/1771/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2671/">#2671</a>] It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.</p>
-            <a href="https://imgs.xkcd.com/comics/rotation.png">
-              <img src="https://imgs.xkcd.com/comics/rotation.png" alt="It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1771/">#1771</a>] It me, your father.</p>
+            <a href="https://imgs.xkcd.com/comics/it_was_i.png">
+              <img src="https://imgs.xkcd.com/comics/it_was_i.png" alt="It me, your father." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2671/</guid>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1771/</guid>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
