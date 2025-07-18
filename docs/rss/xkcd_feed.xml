@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hug Count</title>
-      <link>https://xkcd.com/2419/</link>
+      <title>Art Project</title>
+      <link>https://xkcd.com/1496/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2419/">#2419</a>] I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either.</p>
-            <a href="https://imgs.xkcd.com/comics/hug_count.png">
-              <img src="https://imgs.xkcd.com/comics/hug_count.png" alt="I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1496/">#1496</a>] It's my most ambitious project yet, judging by the amount of guacamole.</p>
+            <a href="https://imgs.xkcd.com/comics/art_project.png">
+              <img src="https://imgs.xkcd.com/comics/art_project.png" alt="It's my most ambitious project yet, judging by the amount of guacamole." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2419/</guid>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1496/</guid>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
