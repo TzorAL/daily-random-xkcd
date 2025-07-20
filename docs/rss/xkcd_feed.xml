@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 28 Jul 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>D.B. Cooper</title>
-      <link>https://xkcd.com/1400/</link>
+      <title>I Love the 20s</title>
+      <link>https://xkcd.com/2249/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1400/">#1400</a>] 'Why on Earth would someone commit air piracy just to finance a terrible movie decades later?' 'People are very strange these days.'</p>
-            <a href="https://imgs.xkcd.com/comics/d_b_cooper.png">
-              <img src="https://imgs.xkcd.com/comics/d_b_cooper.png" alt="'Why on Earth would someone commit air piracy just to finance a terrible movie decades later?' 'People are very strange these days.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2249/">#2249</a>] Billboard's "Best of the 80s" chart includes Blondie's 1980 hit "Call Me." QED.</p>
+            <a href="https://imgs.xkcd.com/comics/i_love_the_20s.png">
+              <img src="https://imgs.xkcd.com/comics/i_love_the_20s.png" alt="Billboard's "Best of the 80s" chart includes Blondie's 1980 hit "Call Me." QED." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1400/</guid>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2249/</guid>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
