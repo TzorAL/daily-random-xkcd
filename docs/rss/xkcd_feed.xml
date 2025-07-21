@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I Love the 20s</title>
-      <link>https://xkcd.com/2249/</link>
+      <title>Wasteland</title>
+      <link>https://xkcd.com/334/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2249/">#2249</a>] Billboard's "Best of the 80s" chart includes Blondie's 1980 hit "Call Me." QED.</p>
-            <a href="https://imgs.xkcd.com/comics/i_love_the_20s.png">
-              <img src="https://imgs.xkcd.com/comics/i_love_the_20s.png" alt="Billboard's "Best of the 80s" chart includes Blondie's 1980 hit "Call Me." QED." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/334/">#334</a>] You make forgetting look so easy.</p>
+            <a href="https://imgs.xkcd.com/comics/wasteland.png">
+              <img src="https://imgs.xkcd.com/comics/wasteland.png" alt="You make forgetting look so easy." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2249/</guid>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/334/</guid>
+      <pubDate>Fri, 26 Oct 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
