@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 26 Oct 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wasteland</title>
-      <link>https://xkcd.com/334/</link>
+      <title>Spice Girls</title>
+      <link>https://xkcd.com/1554/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/334/">#334</a>] You make forgetting look so easy.</p>
-            <a href="https://imgs.xkcd.com/comics/wasteland.png">
-              <img src="https://imgs.xkcd.com/comics/wasteland.png" alt="You make forgetting look so easy." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1554/">#1554</a>] The Earth's five major mass extinctions were the Posh Extinction, the Sporty Extinction, the Scary Extinction, the Ginger Extinction, and the Baby Extinction.</p>
+            <a href="https://imgs.xkcd.com/comics/spice_girls.png">
+              <img src="https://imgs.xkcd.com/comics/spice_girls.png" alt="The Earth's five major mass extinctions were the Posh Extinction, the Sporty Extinction, the Scary Extinction, the Ginger Extinction, and the Baby Extinction." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/334/</guid>
-      <pubDate>Fri, 26 Oct 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1554/</guid>
+      <pubDate>Wed, 22 Jul 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
