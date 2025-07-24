@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 29 Aug 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Begging the Question</title>
-      <link>https://xkcd.com/2039/</link>
+      <title>Query</title>
+      <link>https://xkcd.com/1409/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2039/">#2039</a>] At least we can all agree on the enormity of this usage.</p>
-            <a href="https://imgs.xkcd.com/comics/begging_the_question.png">
-              <img src="https://imgs.xkcd.com/comics/begging_the_question.png" alt="At least we can all agree on the enormity of this usage." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1409/">#1409</a>] SELECT * FROM GHOSTS</p>
+            <a href="https://imgs.xkcd.com/comics/query.png">
+              <img src="https://imgs.xkcd.com/comics/query.png" alt="SELECT * FROM GHOSTS" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2039/</guid>
-      <pubDate>Wed, 29 Aug 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1409/</guid>
+      <pubDate>Mon, 18 Aug 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
