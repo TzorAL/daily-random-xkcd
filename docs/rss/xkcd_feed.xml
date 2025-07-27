@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Depth and Breadth</title>
-      <link>https://xkcd.com/2407/</link>
+      <title>Linguists</title>
+      <link>https://xkcd.com/2390/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2407/">#2407</a>] A death-first search is when you lose your keys and travel to the depths of hell to find them, and then if they're not there you start checking your coat pockets.</p>
-            <a href="https://imgs.xkcd.com/comics/depth_and_breadth.png">
-              <img src="https://imgs.xkcd.com/comics/depth_and_breadth.png" alt="A death-first search is when you lose your keys and travel to the depths of hell to find them, and then if they're not there you start checking your coat pockets." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2390/">#2390</a>] "Do you feel like the answer depends on whether you're currently in the hole, versus when you refer to the events later after you get out? Assuming you get out."</p>
+            <a href="https://imgs.xkcd.com/comics/linguists.png">
+              <img src="https://imgs.xkcd.com/comics/linguists.png" alt=""Do you feel like the answer depends on whether you're currently in the hole, versus when you refer to the events later after you get out? Assuming you get out."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2407/</guid>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2390/</guid>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
