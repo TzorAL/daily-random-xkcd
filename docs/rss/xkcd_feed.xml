@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 28 Nov 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Network</title>
-      <link>https://xkcd.com/350/</link>
+      <title>Leap Year 2021</title>
+      <link>https://xkcd.com/2431/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/350/">#350</a>] Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out.  When Linux/Mac win in a decade or so the game will be over.</p>
-            <a href="https://imgs.xkcd.com/comics/network.png">
-              <img src="https://imgs.xkcd.com/comics/network.png" alt="Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out.  When Linux/Mac win in a decade or so the game will be over." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2431/">#2431</a>] I've lived in the present for my whole life and I'm not about to move now.</p>
+            <a href="https://imgs.xkcd.com/comics/leap_year_2021.png">
+              <img src="https://imgs.xkcd.com/comics/leap_year_2021.png" alt="I've lived in the present for my whole life and I'm not about to move now." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/350/</guid>
-      <pubDate>Wed, 28 Nov 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2431/</guid>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
