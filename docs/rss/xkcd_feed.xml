@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 12 May 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Laser Scope</title>
-      <link>https://xkcd.com/101/</link>
+      <title>Back Seat</title>
+      <link>https://xkcd.com/1565/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/101/">#101</a>] I wish I'd missed you then so I wouldn't be missing you now</p>
-            <a href="https://imgs.xkcd.com/comics/laser_scope.jpg">
-              <img src="https://imgs.xkcd.com/comics/laser_scope.jpg" alt="I wish I'd missed you then so I wouldn't be missing you now" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1565/">#1565</a>] Hang on, let me scare the live raccoon over to the same side as the dead one.</p>
+            <a href="https://imgs.xkcd.com/comics/back_seat.png">
+              <img src="https://imgs.xkcd.com/comics/back_seat.png" alt="Hang on, let me scare the live raccoon over to the same side as the dead one." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/101/</guid>
-      <pubDate>Fri, 12 May 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1565/</guid>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
