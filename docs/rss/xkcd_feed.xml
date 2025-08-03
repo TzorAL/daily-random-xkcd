@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 23 May 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bad Timing</title>
-      <link>https://xkcd.com/427/</link>
+      <title>Thor Tools</title>
+      <link>https://xkcd.com/2097/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/427/">#427</a>] Protip: Even without the red spiders, never have that conversation halfway through a balloon ride.</p>
-            <a href="https://imgs.xkcd.com/comics/bad_timing.png">
-              <img src="https://imgs.xkcd.com/comics/bad_timing.png" alt="Protip: Even without the red spiders, never have that conversation halfway through a balloon ride." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2097/">#2097</a>] CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.</p>
+            <a href="https://imgs.xkcd.com/comics/thor_tools.png">
+              <img src="https://imgs.xkcd.com/comics/thor_tools.png" alt="CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/427/</guid>
-      <pubDate>Fri, 23 May 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2097/</guid>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
