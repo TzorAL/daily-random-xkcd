@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 16 Sep 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Scribblenauts</title>
-      <link>https://xkcd.com/637/</link>
+      <title>Elements</title>
+      <link>https://xkcd.com/965/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/637/">#637</a>] Let me look away and type 'guy who's just jealous that I beat all his MarioKart times' and turn back, and ... yup, there you are again!</p>
-            <a href="https://imgs.xkcd.com/comics/scribblenauts.png">
-              <img src="https://imgs.xkcd.com/comics/scribblenauts.png" alt="Let me look away and type 'guy who's just jealous that I beat all his MarioKart times' and turn back, and ... yup, there you are again!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/965/">#965</a>] Of all the nations, the armies of the ununoctium-benders are probably the least intimidating. The xenon-benders come close, but their flickery signs are at least effective for propaganda.</p>
+            <a href="https://imgs.xkcd.com/comics/elements.png">
+              <img src="https://imgs.xkcd.com/comics/elements.png" alt="Of all the nations, the armies of the ununoctium-benders are probably the least intimidating. The xenon-benders come close, but their flickery signs are at least effective for propaganda." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/637/</guid>
-      <pubDate>Wed, 16 Sep 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/965/</guid>
+      <pubDate>Mon, 17 Oct 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
