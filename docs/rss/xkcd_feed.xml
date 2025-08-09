@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 17 Oct 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Elements</title>
-      <link>https://xkcd.com/965/</link>
+      <title>Flashlights</title>
+      <link>https://xkcd.com/1603/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/965/">#965</a>] Of all the nations, the armies of the ununoctium-benders are probably the least intimidating. The xenon-benders come close, but their flickery signs are at least effective for propaganda.</p>
-            <a href="https://imgs.xkcd.com/comics/elements.png">
-              <img src="https://imgs.xkcd.com/comics/elements.png" alt="Of all the nations, the armies of the ununoctium-benders are probably the least intimidating. The xenon-benders come close, but their flickery signs are at least effective for propaganda." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1603/">#1603</a>] Due to a typo, I initially found a forum for serious Fleshlight enthusiasts, and it turns out their highest-end models are ALSO capable of setting trees on fire. They're impossible to use without severe burns, but some of them swear it's worth it.</p>
+            <a href="https://imgs.xkcd.com/comics/flashlights.png">
+              <img src="https://imgs.xkcd.com/comics/flashlights.png" alt="Due to a typo, I initially found a forum for serious Fleshlight enthusiasts, and it turns out their highest-end models are ALSO capable of setting trees on fire. They're impossible to use without severe burns, but some of them swear it's worth it." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/965/</guid>
-      <pubDate>Mon, 17 Oct 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1603/</guid>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
