@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 13 Nov 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Feb 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Flashlights</title>
-      <link>https://xkcd.com/1603/</link>
+      <title>Bad Map Projection: Time Zones</title>
+      <link>https://xkcd.com/1799/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1603/">#1603</a>] Due to a typo, I initially found a forum for serious Fleshlight enthusiasts, and it turns out their highest-end models are ALSO capable of setting trees on fire. They're impossible to use without severe burns, but some of them swear it's worth it.</p>
-            <a href="https://imgs.xkcd.com/comics/flashlights.png">
-              <img src="https://imgs.xkcd.com/comics/flashlights.png" alt="Due to a typo, I initially found a forum for serious Fleshlight enthusiasts, and it turns out their highest-end models are ALSO capable of setting trees on fire. They're impossible to use without severe burns, but some of them swear it's worth it." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1799/">#1799</a>] This is probably the first projection in cartographic history that can be criticized for its disproportionate focus on Finland, Mongolia, and the Democratic Republic of the Congo.</p>
+            <a href="https://imgs.xkcd.com/comics/bad_map_projection_time_zones.png">
+              <img src="https://imgs.xkcd.com/comics/bad_map_projection_time_zones.png" alt="This is probably the first projection in cartographic history that can be criticized for its disproportionate focus on Finland, Mongolia, and the Democratic Republic of the Congo." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1603/</guid>
-      <pubDate>Fri, 13 Nov 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1799/</guid>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
