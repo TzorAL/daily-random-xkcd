@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 15 Feb 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bad Map Projection: Time Zones</title>
-      <link>https://xkcd.com/1799/</link>
+      <title>The End of the Rainbow</title>
+      <link>https://xkcd.com/1944/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1799/">#1799</a>] This is probably the first projection in cartographic history that can be criticized for its disproportionate focus on Finland, Mongolia, and the Democratic Republic of the Congo.</p>
-            <a href="https://imgs.xkcd.com/comics/bad_map_projection_time_zones.png">
-              <img src="https://imgs.xkcd.com/comics/bad_map_projection_time_zones.png" alt="This is probably the first projection in cartographic history that can be criticized for its disproportionate focus on Finland, Mongolia, and the Democratic Republic of the Congo." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1944/">#1944</a>] The retina is the exposed surface of the brain, so if you think about a pot of gold while looking at a rainbow, then there's one at BOTH ends.</p>
+            <a href="https://imgs.xkcd.com/comics/the_end_of_the_rainbow.png">
+              <img src="https://imgs.xkcd.com/comics/the_end_of_the_rainbow.png" alt="The retina is the exposed surface of the brain, so if you think about a pot of gold while looking at a rainbow, then there's one at BOTH ends." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1799/</guid>
-      <pubDate>Wed, 15 Feb 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1944/</guid>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
