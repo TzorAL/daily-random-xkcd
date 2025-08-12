@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Mar 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The End of the Rainbow</title>
-      <link>https://xkcd.com/1944/</link>
+      <title>Tumblr</title>
+      <link>https://xkcd.com/1025/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1944/">#1944</a>] The retina is the exposed surface of the brain, so if you think about a pot of gold while looking at a rainbow, then there's one at BOTH ends.</p>
-            <a href="https://imgs.xkcd.com/comics/the_end_of_the_rainbow.png">
-              <img src="https://imgs.xkcd.com/comics/the_end_of_the_rainbow.png" alt="The retina is the exposed surface of the brain, so if you think about a pot of gold while looking at a rainbow, then there's one at BOTH ends." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1025/">#1025</a>] Dot Tumblr Dot Com, on the other hand, would be an awful name for a band, if only because of how hard it would be to direct people to your band's website.</p>
+            <a href="https://imgs.xkcd.com/comics/tumblr.png">
+              <img src="https://imgs.xkcd.com/comics/tumblr.png" alt="Dot Tumblr Dot Com, on the other hand, would be an awful name for a band, if only because of how hard it would be to direct people to your band's website." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1944/</guid>
-      <pubDate>Fri, 19 Jan 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1025/</guid>
+      <pubDate>Mon, 05 Mar 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
