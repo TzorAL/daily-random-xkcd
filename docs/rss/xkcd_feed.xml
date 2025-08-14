@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 17 Oct 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Presidential Alert</title>
-      <link>https://xkcd.com/1435/</link>
+      <title>Virus Venn Diagram</title>
+      <link>https://xkcd.com/1180/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1435/">#1435</a>] When putting his kids to bed, after saying 'Goodnight', Obama has to stop himself from saying 'God bless you, and God bless the United States of America.'</p>
-            <a href="https://imgs.xkcd.com/comics/presidential_alert.png">
-              <img src="https://imgs.xkcd.com/comics/presidential_alert.png" alt="When putting his kids to bed, after saying 'Goodnight', Obama has to stop himself from saying 'God bless you, and God bless the United States of America.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1180/">#1180</a>] Within five minutes of the Singularity appearing, somebody will suggest defragging it.</p>
+            <a href="https://imgs.xkcd.com/comics/virus_venn_diagram.png">
+              <img src="https://imgs.xkcd.com/comics/virus_venn_diagram.png" alt="Within five minutes of the Singularity appearing, somebody will suggest defragging it." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1435/</guid>
-      <pubDate>Fri, 17 Oct 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1180/</guid>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
