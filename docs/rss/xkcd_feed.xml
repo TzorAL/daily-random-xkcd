@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 01 Mar 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Virus Venn Diagram</title>
-      <link>https://xkcd.com/1180/</link>
+      <title>Playing Devil's Advocate to Win</title>
+      <link>https://xkcd.com/164/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1180/">#1180</a>] Within five minutes of the Singularity appearing, somebody will suggest defragging it.</p>
-            <a href="https://imgs.xkcd.com/comics/virus_venn_diagram.png">
-              <img src="https://imgs.xkcd.com/comics/virus_venn_diagram.png" alt="Within five minutes of the Singularity appearing, somebody will suggest defragging it." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/164/">#164</a>] There are so many well-meaning conservatives around here who just assume global warming is only presented as a moral issue for political reasons.</p>
+            <a href="https://imgs.xkcd.com/comics/global_warming.png">
+              <img src="https://imgs.xkcd.com/comics/global_warming.png" alt="There are so many well-meaning conservatives around here who just assume global warming is only presented as a moral issue for political reasons." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1180/</guid>
-      <pubDate>Fri, 01 Mar 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/164/</guid>
+      <pubDate>Fri, 29 Sep 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
