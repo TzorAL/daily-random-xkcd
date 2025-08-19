@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 02 Aug 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Science Fair</title>
-      <link>https://xkcd.com/136/</link>
+      <title>Hard Reboot</title>
+      <link>https://xkcd.com/1495/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/136/">#136</a>] This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.</p>
-            <a href="https://imgs.xkcd.com/comics/science_fair.png">
-              <img src="https://imgs.xkcd.com/comics/science_fair.png" alt="This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1495/">#1495</a>] Googling inevitably reveals that my problem is caused by a known bug triggered by doing [the exact combination of things I want to do]. I can fix it, or wait a few years until I don't want that combination of things anymore, using the kitchen timer until then.</p>
+            <a href="https://imgs.xkcd.com/comics/hard_reboot.png">
+              <img src="https://imgs.xkcd.com/comics/hard_reboot.png" alt="Googling inevitably reveals that my problem is caused by a known bug triggered by doing [the exact combination of things I want to do]. I can fix it, or wait a few years until I don't want that combination of things anymore, using the kitchen timer until then." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/136/</guid>
-      <pubDate>Wed, 02 Aug 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1495/</guid>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
