@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 06 Mar 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hard Reboot</title>
-      <link>https://xkcd.com/1495/</link>
+      <title>Interview</title>
+      <link>https://xkcd.com/1094/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1495/">#1495</a>] Googling inevitably reveals that my problem is caused by a known bug triggered by doing [the exact combination of things I want to do]. I can fix it, or wait a few years until I don't want that combination of things anymore, using the kitchen timer until then.</p>
-            <a href="https://imgs.xkcd.com/comics/hard_reboot.png">
-              <img src="https://imgs.xkcd.com/comics/hard_reboot.png" alt="Googling inevitably reveals that my problem is caused by a known bug triggered by doing [the exact combination of things I want to do]. I can fix it, or wait a few years until I don't want that combination of things anymore, using the kitchen timer until then." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1094/">#1094</a>] Hey, before you go, can you explain to me what job I now have?</p>
+            <a href="https://imgs.xkcd.com/comics/interview.png">
+              <img src="https://imgs.xkcd.com/comics/interview.png" alt="Hey, before you go, can you explain to me what job I now have?" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1495/</guid>
-      <pubDate>Fri, 06 Mar 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1094/</guid>
+      <pubDate>Mon, 13 Aug 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
