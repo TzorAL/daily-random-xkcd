@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 13 Aug 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Interview</title>
-      <link>https://xkcd.com/1094/</link>
+      <title>Judgment Day</title>
+      <link>https://xkcd.com/1626/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1094/">#1094</a>] Hey, before you go, can you explain to me what job I now have?</p>
-            <a href="https://imgs.xkcd.com/comics/interview.png">
-              <img src="https://imgs.xkcd.com/comics/interview.png" alt="Hey, before you go, can you explain to me what job I now have?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1626/">#1626</a>] It took a lot of booster rockets, but luckily Amazon had recently built thousands of them to bring Amazon Prime same-day delivery to the Moon colony.</p>
+            <a href="https://imgs.xkcd.com/comics/judgment_day.png">
+              <img src="https://imgs.xkcd.com/comics/judgment_day.png" alt="It took a lot of booster rockets, but luckily Amazon had recently built thousands of them to bring Amazon Prime same-day delivery to the Moon colony." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1094/</guid>
-      <pubDate>Mon, 13 Aug 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1626/</guid>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
