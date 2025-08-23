@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Proterozoic Rocks</title>
-      <link>https://xkcd.com/3008/</link>
+      <title>Density</title>
+      <link>https://xkcd.com/550/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/3008/">#3008</a>] These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.</p>
-            <a href="https://imgs.xkcd.com/comics/proterozoic_rocks.png">
-              <img src="https://imgs.xkcd.com/comics/proterozoic_rocks.png" alt="These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/550/">#550</a>] If only I had asked 4chan for ideas for what I should do to prevent this!</p>
+            <a href="https://imgs.xkcd.com/comics/density.png">
+              <img src="https://imgs.xkcd.com/comics/density.png" alt="If only I had asked 4chan for ideas for what I should do to prevent this!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3008/</guid>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/550/</guid>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
