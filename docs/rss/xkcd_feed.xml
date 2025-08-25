@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>JWST Delays</title>
-      <link>https://xkcd.com/2014/</link>
+      <title>Parking</title>
+      <link>https://xkcd.com/562/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2014/">#2014</a>] Since delays should get less likely closer to the launch, most astronomers in 2018 believed the expansion of the schedule was slowing, but by early 2020 new measurements indicated that it was actually accelerating.</p>
-            <a href="https://imgs.xkcd.com/comics/jwst_delays.png">
-              <img src="https://imgs.xkcd.com/comics/jwst_delays.png" alt="Since delays should get less likely closer to the launch, most astronomers in 2018 believed the expansion of the schedule was slowing, but by early 2020 new measurements indicated that it was actually accelerating." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/562/">#562</a>] Police reported three dozen cheerful bystanders, yet no one claims to have seen who did it.</p>
+            <a href="https://imgs.xkcd.com/comics/parking.png">
+              <img src="https://imgs.xkcd.com/comics/parking.png" alt="Police reported three dozen cheerful bystanders, yet no one claims to have seen who did it." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2014/</guid>
-      <pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/562/</guid>
+      <pubDate>Mon, 30 Mar 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
