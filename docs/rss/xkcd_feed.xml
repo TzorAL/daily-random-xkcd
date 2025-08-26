@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 30 Mar 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Apr 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Parking</title>
-      <link>https://xkcd.com/562/</link>
+      <title>Floor Tiles</title>
+      <link>https://xkcd.com/245/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/562/">#562</a>] Police reported three dozen cheerful bystanders, yet no one claims to have seen who did it.</p>
-            <a href="https://imgs.xkcd.com/comics/parking.png">
-              <img src="https://imgs.xkcd.com/comics/parking.png" alt="Police reported three dozen cheerful bystanders, yet no one claims to have seen who did it." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/245/">#245</a>] The worst part is when sidewalk cracks are out-of-sync with your natural stride.</p>
+            <a href="https://imgs.xkcd.com/comics/floor_tiles.png">
+              <img src="https://imgs.xkcd.com/comics/floor_tiles.png" alt="The worst part is when sidewalk cracks are out-of-sync with your natural stride." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/562/</guid>
-      <pubDate>Mon, 30 Mar 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/245/</guid>
+      <pubDate>Fri, 06 Apr 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
