@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Earthquake Early Warnings</title>
-      <link>https://xkcd.com/2219/</link>
+      <title>Back to the Future</title>
+      <link>https://xkcd.com/102/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2219/">#2219</a>] I was fired by the National Weather Service five minutes after they hired me for going into their code base and renaming all the tornado warnings to "tornado spoiler alerts."</p>
-            <a href="https://imgs.xkcd.com/comics/earthquake_early_warnings.png">
-              <img src="https://imgs.xkcd.com/comics/earthquake_early_warnings.png" alt="I was fired by the National Weather Service five minutes after they hired me for going into their code base and renaming all the tornado warnings to "tornado spoiler alerts."" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/102/">#102</a>] He's kind of an asshole, when you think about it</p>
+            <a href="https://imgs.xkcd.com/comics/back_to_the_future.jpg">
+              <img src="https://imgs.xkcd.com/comics/back_to_the_future.jpg" alt="He's kind of an asshole, when you think about it" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2219/</guid>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/102/</guid>
+      <pubDate>Mon, 15 May 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
