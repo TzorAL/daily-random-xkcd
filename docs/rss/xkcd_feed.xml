@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 23 Nov 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Horror Movies 2</title>
-      <link>https://xkcd.com/2076/</link>
+      <title>Room Temperature</title>
+      <link>https://xkcd.com/2798/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2076/">#2076</a>] When I was a kid, someone told me the end of The Giver was ambiguous, which surprised me. I had just assumed Jonah died--because the book had a medal on the cover, and I knew grown-ups liked stories where sad stuff happens at the end for no reason.</p>
-            <a href="https://imgs.xkcd.com/comics/horror_movies_2.png">
-              <img src="https://imgs.xkcd.com/comics/horror_movies_2.png" alt="When I was a kid, someone told me the end of The Giver was ambiguous, which surprised me. I had just assumed Jonah died--because the book had a medal on the cover, and I knew grown-ups liked stories where sad stuff happens at the end for no reason." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2798/">#2798</a>] They're also refusing to fund my device that demonstrates uncontrolled hot fusion.</p>
+            <a href="https://imgs.xkcd.com/comics/room_temperature.png">
+              <img src="https://imgs.xkcd.com/comics/room_temperature.png" alt="They're also refusing to fund my device that demonstrates uncontrolled hot fusion." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2076/</guid>
-      <pubDate>Fri, 23 Nov 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2798/</guid>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
