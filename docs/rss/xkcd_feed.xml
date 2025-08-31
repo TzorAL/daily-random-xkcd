@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 05 Jul 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Room Temperature</title>
-      <link>https://xkcd.com/2798/</link>
+      <title>Dark Matter Candidates</title>
+      <link>https://xkcd.com/2035/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2798/">#2798</a>] They're also refusing to fund my device that demonstrates uncontrolled hot fusion.</p>
-            <a href="https://imgs.xkcd.com/comics/room_temperature.png">
-              <img src="https://imgs.xkcd.com/comics/room_temperature.png" alt="They're also refusing to fund my device that demonstrates uncontrolled hot fusion." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2035/">#2035</a>] My theory is that dark matter is actually just a thin patina of grime covering the whole universe, and we don't notice it because we haven't thoroughly cleaned the place in eons.</p>
+            <a href="https://imgs.xkcd.com/comics/dark_matter_candidates.png">
+              <img src="https://imgs.xkcd.com/comics/dark_matter_candidates.png" alt="My theory is that dark matter is actually just a thin patina of grime covering the whole universe, and we don't notice it because we haven't thoroughly cleaned the place in eons." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2798/</guid>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2035/</guid>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
