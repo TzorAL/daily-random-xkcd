@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Air Gap</title>
-      <link>https://xkcd.com/2651/</link>
+      <title>Proxy Variable</title>
+      <link>https://xkcd.com/2652/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2651/">#2651</a>] You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.</p>
-            <a href="https://imgs.xkcd.com/comics/air_gap.png">
-              <img src="https://imgs.xkcd.com/comics/air_gap.png" alt="You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2652/">#2652</a>] Our work has produced great answers. Now someone just needs to figure out which questions they go with.</p>
+            <a href="https://imgs.xkcd.com/comics/proxy_variable.png">
+              <img src="https://imgs.xkcd.com/comics/proxy_variable.png" alt="Our work has produced great answers. Now someone just needs to figure out which questions they go with." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2651/</guid>
-      <pubDate>Wed, 27 Jul 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2652/</guid>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
