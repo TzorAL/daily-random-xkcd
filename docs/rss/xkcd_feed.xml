@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 01 Apr 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Headache</title>
-      <link>https://xkcd.com/880/</link>
+      <title>Bill Nye</title>
+      <link>https://xkcd.com/200/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/880/">#880</a>] I'm only willing to visit placid lakes, salt flats, and painting exhibits until the world's 3D technology improves.</p>
-            <a href="https://imgs.xkcd.com/comics/headache.png">
-              <img src="https://imgs.xkcd.com/comics/headache.png" alt="I'm only willing to visit placid lakes, salt flats, and painting exhibits until the world's 3D technology improves." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/200/">#200</a>] You could at least not wear the lab coat everywhere, dude.</p>
+            <a href="https://imgs.xkcd.com/comics/bill_nye.png">
+              <img src="https://imgs.xkcd.com/comics/bill_nye.png" alt="You could at least not wear the lab coat everywhere, dude." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/880/</guid>
-      <pubDate>Fri, 01 Apr 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/200/</guid>
+      <pubDate>Fri, 22 Dec 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
