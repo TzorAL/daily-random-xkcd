@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 12 Mar 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Escape Artist</title>
-      <link>https://xkcd.com/234/</link>
+      <title>Love Songs</title>
+      <link>https://xkcd.com/2870/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/234/">#234</a>] Easier to escape: n-layered nested quotes or an iron maiden?</p>
-            <a href="https://imgs.xkcd.com/comics/escape_artist.png">
-              <img src="https://imgs.xkcd.com/comics/escape_artist.png" alt="Easier to escape: n-layered nested quotes or an iron maiden?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2870/">#2870</a>] The Piña Colada song carves a trajectory across the chart over the course of the song.</p>
+            <a href="https://imgs.xkcd.com/comics/love_songs.png">
+              <img src="https://imgs.xkcd.com/comics/love_songs.png" alt="The Piña Colada song carves a trajectory across the chart over the course of the song." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/234/</guid>
-      <pubDate>Mon, 12 Mar 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2870/</guid>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
