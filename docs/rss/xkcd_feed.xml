@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Love Songs</title>
-      <link>https://xkcd.com/2870/</link>
+      <title>Windows 7</title>
+      <link>https://xkcd.com/528/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2870/">#2870</a>] The Piña Colada song carves a trajectory across the chart over the course of the song.</p>
-            <a href="https://imgs.xkcd.com/comics/love_songs.png">
-              <img src="https://imgs.xkcd.com/comics/love_songs.png" alt="The Piña Colada song carves a trajectory across the chart over the course of the song." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/528/">#528</a>] Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.</p>
+            <a href="https://imgs.xkcd.com/comics/windows_7.png">
+              <img src="https://imgs.xkcd.com/comics/windows_7.png" alt="Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2870/</guid>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/528/</guid>
+      <pubDate>Fri, 09 Jan 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
