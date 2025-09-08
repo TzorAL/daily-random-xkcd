@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 09 Jan 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Windows 7</title>
-      <link>https://xkcd.com/528/</link>
+      <title>Overqualified</title>
+      <link>https://xkcd.com/408/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/528/">#528</a>] Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.</p>
-            <a href="https://imgs.xkcd.com/comics/windows_7.png">
-              <img src="https://imgs.xkcd.com/comics/windows_7.png" alt="Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/408/">#408</a>] To anyone I've taken on a terrible date, this is retroactively my cover story.</p>
+            <a href="https://imgs.xkcd.com/comics/overqualified.png">
+              <img src="https://imgs.xkcd.com/comics/overqualified.png" alt="To anyone I've taken on a terrible date, this is retroactively my cover story." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/528/</guid>
-      <pubDate>Fri, 09 Jan 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/408/</guid>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
