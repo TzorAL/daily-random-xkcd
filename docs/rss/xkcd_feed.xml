@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 09 Apr 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Overqualified</title>
-      <link>https://xkcd.com/408/</link>
+      <title>Red Spiders Cometh</title>
+      <link>https://xkcd.com/126/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/408/">#408</a>] To anyone I've taken on a terrible date, this is retroactively my cover story.</p>
-            <a href="https://imgs.xkcd.com/comics/overqualified.png">
-              <img src="https://imgs.xkcd.com/comics/overqualified.png" alt="To anyone I've taken on a terrible date, this is retroactively my cover story." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/126/">#126</a>] Uh-oh.</p>
+            <a href="https://imgs.xkcd.com/comics/red_spiders_cometh.jpg">
+              <img src="https://imgs.xkcd.com/comics/red_spiders_cometh.jpg" alt="Uh-oh." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/408/</guid>
-      <pubDate>Wed, 09 Apr 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/126/</guid>
+      <pubDate>Mon, 10 Jul 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
