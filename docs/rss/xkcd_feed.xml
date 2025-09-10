@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 10 Jul 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Red Spiders Cometh</title>
-      <link>https://xkcd.com/126/</link>
+      <title>Jurassic World</title>
+      <link>https://xkcd.com/1452/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/126/">#126</a>] Uh-oh.</p>
-            <a href="https://imgs.xkcd.com/comics/red_spiders_cometh.jpg">
-              <img src="https://imgs.xkcd.com/comics/red_spiders_cometh.jpg" alt="Uh-oh." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1452/">#1452</a>] Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.</p>
+            <a href="https://imgs.xkcd.com/comics/jurassic_world.png">
+              <img src="https://imgs.xkcd.com/comics/jurassic_world.png" alt="Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/126/</guid>
-      <pubDate>Mon, 10 Jul 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1452/</guid>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
