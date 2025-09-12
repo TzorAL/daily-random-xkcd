@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 17 Nov 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Materials Scientists</title>
-      <link>https://xkcd.com/2856/</link>
+      <title>Oregon</title>
+      <link>https://xkcd.com/623/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2856/">#2856</a>] If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork.</p>
-            <a href="https://imgs.xkcd.com/comics/materials_scientists.png">
-              <img src="https://imgs.xkcd.com/comics/materials_scientists.png" alt="If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/623/">#623</a>] A century later, the harrowing flight of the survivors from Oregon was dramatized in a popular video game.</p>
+            <a href="https://imgs.xkcd.com/comics/oregon.png">
+              <img src="https://imgs.xkcd.com/comics/oregon.png" alt="A century later, the harrowing flight of the survivors from Oregon was dramatized in a popular video game." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2856/</guid>
-      <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/623/</guid>
+      <pubDate>Fri, 14 Aug 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
