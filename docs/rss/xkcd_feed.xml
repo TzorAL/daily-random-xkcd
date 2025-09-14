@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 03 Mar 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Obituary Editor</title>
-      <link>https://xkcd.com/2745/</link>
+      <title>Literally</title>
+      <link>https://xkcd.com/725/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2745/">#2745</a>] As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected.</p>
-            <a href="https://imgs.xkcd.com/comics/obituary_editor.png">
-              <img src="https://imgs.xkcd.com/comics/obituary_editor.png" alt="As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/725/">#725</a>] The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat.</p>
+            <a href="https://imgs.xkcd.com/comics/literally.png">
+              <img src="https://imgs.xkcd.com/comics/literally.png" alt="The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2745/</guid>
-      <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/725/</guid>
+      <pubDate>Fri, 09 Apr 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
