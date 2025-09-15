@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 09 Apr 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Literally</title>
-      <link>https://xkcd.com/725/</link>
+      <title>Feature Comparison</title>
+      <link>https://xkcd.com/2699/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/725/">#725</a>] The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat.</p>
-            <a href="https://imgs.xkcd.com/comics/literally.png">
-              <img src="https://imgs.xkcd.com/comics/literally.png" alt="The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2699/">#2699</a>] Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.</p>
+            <a href="https://imgs.xkcd.com/comics/feature_comparison.png">
+              <img src="https://imgs.xkcd.com/comics/feature_comparison.png" alt="Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/725/</guid>
-      <pubDate>Fri, 09 Apr 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2699/</guid>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
