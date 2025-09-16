@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Feature Comparison</title>
-      <link>https://xkcd.com/2699/</link>
+      <title>Barrel - Part 3</title>
+      <link>https://xkcd.com/22/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2699/">#2699</a>] Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.</p>
-            <a href="https://imgs.xkcd.com/comics/feature_comparison.png">
-              <img src="https://imgs.xkcd.com/comics/feature_comparison.png" alt="Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/22/">#22</a>] A whirlpool!</p>
+            <a href="https://imgs.xkcd.com/comics/barrel_whirlpool.jpg">
+              <img src="https://imgs.xkcd.com/comics/barrel_whirlpool.jpg" alt="A whirlpool!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2699/</guid>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/22/</guid>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
