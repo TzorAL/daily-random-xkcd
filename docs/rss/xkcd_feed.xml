@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 16 Feb 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jun 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unification</title>
-      <link>https://xkcd.com/1956/</link>
+      <title>3x9</title>
+      <link>https://xkcd.com/759/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1956/">#1956</a>] For a while, some physicists worked on a theory unifying the other forces with both the force of gravity and the film "Gravity," but even after Alfonso Cuarón was held in a deep underground chamber of water for 10^31 years he refused to sell his film to Disney.</p>
-            <a href="https://imgs.xkcd.com/comics/unification.png">
-              <img src="https://imgs.xkcd.com/comics/unification.png" alt="For a while, some physicists worked on a theory unifying the other forces with both the force of gravity and the film "Gravity," but even after Alfonso Cuarón was held in a deep underground chamber of water for 10^31 years he refused to sell his film to Disney." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/759/">#759</a>] Handy exam trick: when you know the answer but not the correct derivation, derive blindly forward from the givens and backward from the answer, and join the chains once the equations start looking similar. Sometimes the graders don't notice the seam.</p>
+            <a href="https://imgs.xkcd.com/comics/3x9.png">
+              <img src="https://imgs.xkcd.com/comics/3x9.png" alt="Handy exam trick: when you know the answer but not the correct derivation, derive blindly forward from the givens and backward from the answer, and join the chains once the equations start looking similar. Sometimes the graders don't notice the seam." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1956/</guid>
-      <pubDate>Fri, 16 Feb 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/759/</guid>
+      <pubDate>Mon, 28 Jun 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
