@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 28 Jun 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3x9</title>
-      <link>https://xkcd.com/759/</link>
+      <title>Headlines</title>
+      <link>https://xkcd.com/1283/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/759/">#759</a>] Handy exam trick: when you know the answer but not the correct derivation, derive blindly forward from the givens and backward from the answer, and join the chains once the equations start looking similar. Sometimes the graders don't notice the seam.</p>
-            <a href="https://imgs.xkcd.com/comics/3x9.png">
-              <img src="https://imgs.xkcd.com/comics/3x9.png" alt="Handy exam trick: when you know the answer but not the correct derivation, derive blindly forward from the givens and backward from the answer, and join the chains once the equations start looking similar. Sometimes the graders don't notice the seam." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1283/">#1283</a>] 1916: 'PHYSICIST DAD' TURNS HIS ATTENTION TO GRAVITY, AND YOU WON'T BELIEVE WHAT HE FINDS. [PICS] [NSFW]</p>
+            <a href="https://imgs.xkcd.com/comics/headlines.png">
+              <img src="https://imgs.xkcd.com/comics/headlines.png" alt="1916: 'PHYSICIST DAD' TURNS HIS ATTENTION TO GRAVITY, AND YOU WON'T BELIEVE WHAT HE FINDS. [PICS] [NSFW]" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/759/</guid>
-      <pubDate>Mon, 28 Jun 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1283/</guid>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
