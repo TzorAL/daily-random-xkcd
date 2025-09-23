@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 12 Sep 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jan 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sports Cheat Sheet</title>
-      <link>https://xkcd.com/1107/</link>
+      <title>Rubber Sheet</title>
+      <link>https://xkcd.com/1158/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1107/">#1107</a>] I would subscribe to a Twitter feed that supplied you with one reasonable sports opinion per day, like 'The Red Sox can't make the playoffs (championship games), but in last night's game their win seriously damaged the chances of the Yankees (longstanding rival team).'</p>
-            <a href="https://imgs.xkcd.com/comics/sports_cheat_sheet.png">
-              <img src="https://imgs.xkcd.com/comics/sports_cheat_sheet.png" alt="I would subscribe to a Twitter feed that supplied you with one reasonable sports opinion per day, like 'The Red Sox can't make the playoffs (championship games), but in last night's game their win seriously damaged the chances of the Yankees (longstanding rival team).'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1158/">#1158</a>] It IS about physics. It ALL is.</p>
+            <a href="https://imgs.xkcd.com/comics/rubber_sheet.png">
+              <img src="https://imgs.xkcd.com/comics/rubber_sheet.png" alt="It IS about physics. It ALL is." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1107/</guid>
-      <pubDate>Wed, 12 Sep 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1158/</guid>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
