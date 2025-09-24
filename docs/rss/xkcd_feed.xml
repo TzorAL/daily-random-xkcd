@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 09 Jan 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rubber Sheet</title>
-      <link>https://xkcd.com/1158/</link>
+      <title>Insight</title>
+      <link>https://xkcd.com/1215/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1158/">#1158</a>] It IS about physics. It ALL is.</p>
-            <a href="https://imgs.xkcd.com/comics/rubber_sheet.png">
-              <img src="https://imgs.xkcd.com/comics/rubber_sheet.png" alt="It IS about physics. It ALL is." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1215/">#1215</a>] The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.</p>
+            <a href="https://imgs.xkcd.com/comics/insight.png">
+              <img src="https://imgs.xkcd.com/comics/insight.png" alt="The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1158/</guid>
-      <pubDate>Wed, 09 Jan 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1215/</guid>
+      <pubDate>Wed, 22 May 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
