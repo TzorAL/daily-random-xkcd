@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 05 Jul 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sports Knowledge</title>
-      <link>https://xkcd.com/1859/</link>
+      <title>Factorial Numbers</title>
+      <link>https://xkcd.com/2835/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1859/">#1859</a>] I heard they might make the wild card game, which would be cool. Do you know when that is? I have a wedding next weekend, but if it's after that we could try to go!</p>
-            <a href="https://imgs.xkcd.com/comics/sports_knowledge.png">
-              <img src="https://imgs.xkcd.com/comics/sports_knowledge.png" alt="I heard they might make the wild card game, which would be cool. Do you know when that is? I have a wedding next weekend, but if it's after that we could try to go!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2835/">#2835</a>] So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.</p>
+            <a href="https://imgs.xkcd.com/comics/factorial_numbers.png">
+              <img src="https://imgs.xkcd.com/comics/factorial_numbers.png" alt="So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1859/</guid>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2835/</guid>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
