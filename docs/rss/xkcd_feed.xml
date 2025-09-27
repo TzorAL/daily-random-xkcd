@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 29 Sep 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Mar 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Factorial Numbers</title>
-      <link>https://xkcd.com/2835/</link>
+      <title>Universal Install Script</title>
+      <link>https://xkcd.com/1654/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2835/">#2835</a>] So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.</p>
-            <a href="https://imgs.xkcd.com/comics/factorial_numbers.png">
-              <img src="https://imgs.xkcd.com/comics/factorial_numbers.png" alt="So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1654/">#1654</a>] The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)</p>
+            <a href="https://imgs.xkcd.com/comics/universal_install_script.png">
+              <img src="https://imgs.xkcd.com/comics/universal_install_script.png" alt="The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2835/</guid>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1654/</guid>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
