@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 11 Mar 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Aug 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Universal Install Script</title>
-      <link>https://xkcd.com/1654/</link>
+      <title>Tuesdays</title>
+      <link>https://xkcd.com/1099/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1654/">#1654</a>] The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)</p>
-            <a href="https://imgs.xkcd.com/comics/universal_install_script.png">
-              <img src="https://imgs.xkcd.com/comics/universal_install_script.png" alt="The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1099/">#1099</a>] Try our bottomless drinks and fall forever!</p>
+            <a href="https://imgs.xkcd.com/comics/tuesdays.png">
+              <img src="https://imgs.xkcd.com/comics/tuesdays.png" alt="Try our bottomless drinks and fall forever!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1654/</guid>
-      <pubDate>Fri, 11 Mar 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1099/</guid>
+      <pubDate>Fri, 24 Aug 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
