@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 12 Feb 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Standing</title>
-      <link>https://xkcd.com/1329/</link>
+      <title>Messaging Systems</title>
+      <link>https://xkcd.com/2365/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1329/">#1329</a>] At first I was making fun of them, but joke's on me--the deer is surprisingly ergonomic, except for the kicks.</p>
-            <a href="https://imgs.xkcd.com/comics/standing.png">
-              <img src="https://imgs.xkcd.com/comics/standing.png" alt="At first I was making fun of them, but joke's on me--the deer is surprisingly ergonomic, except for the kicks." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2365/">#2365</a>] SMS is just the worst, but I'm having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser.</p>
+            <a href="https://imgs.xkcd.com/comics/messaging_systems.png">
+              <img src="https://imgs.xkcd.com/comics/messaging_systems.png" alt="SMS is just the worst, but I'm having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1329/</guid>
-      <pubDate>Wed, 12 Feb 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2365/</guid>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
