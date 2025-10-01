@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Messaging Systems</title>
-      <link>https://xkcd.com/2365/</link>
+      <title>Inside Joke</title>
+      <link>https://xkcd.com/794/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2365/">#2365</a>] SMS is just the worst, but I'm having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser.</p>
-            <a href="https://imgs.xkcd.com/comics/messaging_systems.png">
-              <img src="https://imgs.xkcd.com/comics/messaging_systems.png" alt="SMS is just the worst, but I'm having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/794/">#794</a>] I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now.</p>
+            <a href="https://imgs.xkcd.com/comics/inside_joke.png">
+              <img src="https://imgs.xkcd.com/comics/inside_joke.png" alt="I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2365/</guid>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/794/</guid>
+      <pubDate>Fri, 17 Sep 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
