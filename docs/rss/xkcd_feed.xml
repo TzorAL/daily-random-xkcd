@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 17 Sep 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Inside Joke</title>
-      <link>https://xkcd.com/794/</link>
+      <title>Haskell</title>
+      <link>https://xkcd.com/1312/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/794/">#794</a>] I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now.</p>
-            <a href="https://imgs.xkcd.com/comics/inside_joke.png">
-              <img src="https://imgs.xkcd.com/comics/inside_joke.png" alt="I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1312/">#1312</a>] The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it.</p>
+            <a href="https://imgs.xkcd.com/comics/haskell.png">
+              <img src="https://imgs.xkcd.com/comics/haskell.png" alt="The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/794/</guid>
-      <pubDate>Fri, 17 Sep 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1312/</guid>
+      <pubDate>Fri, 03 Jan 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
