@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 03 Jan 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jan 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Haskell</title>
-      <link>https://xkcd.com/1312/</link>
+      <title>Sick Day</title>
+      <link>https://xkcd.com/1157/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1312/">#1312</a>] The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it.</p>
-            <a href="https://imgs.xkcd.com/comics/haskell.png">
-              <img src="https://imgs.xkcd.com/comics/haskell.png" alt="The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1157/">#1157</a>] Wikipedia path: Virus -> Immune system -> Innate immune system -> Parasites -> List of parasites of humans -> Naegleria fowleri -> Primary amoebic meningoencephalitis -> Deciding I DEFINITELY shouldn't connect an aquarium pump to my sinuses</p>
+            <a href="https://imgs.xkcd.com/comics/sick_day.png">
+              <img src="https://imgs.xkcd.com/comics/sick_day.png" alt="Wikipedia path: Virus -> Immune system -> Innate immune system -> Parasites -> List of parasites of humans -> Naegleria fowleri -> Primary amoebic meningoencephalitis -> Deciding I DEFINITELY shouldn't connect an aquarium pump to my sinuses" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1312/</guid>
-      <pubDate>Fri, 03 Jan 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1157/</guid>
+      <pubDate>Mon, 07 Jan 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
