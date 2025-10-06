@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 15 Jan 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>90's Flowchart</title>
-      <link>https://xkcd.com/210/</link>
+      <title>Ayn Random</title>
+      <link>https://xkcd.com/1277/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/210/">#210</a>] Freestyle rapping is basically applied Markov chains.</p>
-            <a href="https://imgs.xkcd.com/comics/90s_flowchart.png">
-              <img src="https://imgs.xkcd.com/comics/90s_flowchart.png" alt="Freestyle rapping is basically applied Markov chains." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1277/">#1277</a>] In a cavern deep below the Earth, Ayn Rand, Paul Ryan, Rand Paul, Ann Druyan, Paul Rudd, Alan Alda, and Duran Duran meet together in the Secret Council of /(b[plurandy]+b ?){2}/i.</p>
+            <a href="https://imgs.xkcd.com/comics/ayn_random.png">
+              <img src="https://imgs.xkcd.com/comics/ayn_random.png" alt="In a cavern deep below the Earth, Ayn Rand, Paul Ryan, Rand Paul, Ann Druyan, Paul Rudd, Alan Alda, and Duran Duran meet together in the Secret Council of /(b[plurandy]+b ?){2}/i." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/210/</guid>
-      <pubDate>Mon, 15 Jan 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1277/</guid>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
