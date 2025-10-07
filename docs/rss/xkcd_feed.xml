@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 14 Oct 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ayn Random</title>
-      <link>https://xkcd.com/1277/</link>
+      <title>Imagine Going Back in Time</title>
+      <link>https://xkcd.com/2220/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1277/">#1277</a>] In a cavern deep below the Earth, Ayn Rand, Paul Ryan, Rand Paul, Ann Druyan, Paul Rudd, Alan Alda, and Duran Duran meet together in the Secret Council of /(b[plurandy]+b ?){2}/i.</p>
-            <a href="https://imgs.xkcd.com/comics/ayn_random.png">
-              <img src="https://imgs.xkcd.com/comics/ayn_random.png" alt="In a cavern deep below the Earth, Ayn Rand, Paul Ryan, Rand Paul, Ann Druyan, Paul Rudd, Alan Alda, and Duran Duran meet together in the Secret Council of /(b[plurandy]+b ?){2}/i." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2220/">#2220</a>] I wonder what the trendy adults in 2019 who are too cool for Pokemon will be into. Probably Digimon!</p>
+            <a href="https://imgs.xkcd.com/comics/imagine_going_back_in_time.png">
+              <img src="https://imgs.xkcd.com/comics/imagine_going_back_in_time.png" alt="I wonder what the trendy adults in 2019 who are too cool for Pokemon will be into. Probably Digimon!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1277/</guid>
-      <pubDate>Mon, 14 Oct 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2220/</guid>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
