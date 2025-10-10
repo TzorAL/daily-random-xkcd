@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 21 Apr 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Sep 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Survivorship Bias</title>
-      <link>https://xkcd.com/1827/</link>
+      <title>Hamster Ball</title>
+      <link>https://xkcd.com/152/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1827/">#1827</a>] They say you can't argue with results, but what kind of defeatist attitude is that? If you stick with it, you can argue with ANYTHING.</p>
-            <a href="https://imgs.xkcd.com/comics/survivorship_bias.png">
-              <img src="https://imgs.xkcd.com/comics/survivorship_bias.png" alt="They say you can't argue with results, but what kind of defeatist attitude is that? If you stick with it, you can argue with ANYTHING." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/152/">#152</a>] Reportedly, double-walled inflatable balls like this exist somewhere.  Now to find that place.</p>
+            <a href="https://imgs.xkcd.com/comics/hamster_ball.png">
+              <img src="https://imgs.xkcd.com/comics/hamster_ball.png" alt="Reportedly, double-walled inflatable balls like this exist somewhere.  Now to find that place." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1827/</guid>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/152/</guid>
+      <pubDate>Sun, 03 Sep 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
