@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Sun, 03 Sep 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jul 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hamster Ball</title>
-      <link>https://xkcd.com/152/</link>
+      <title>Green Flash</title>
+      <link>https://xkcd.com/766/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/152/">#152</a>] Reportedly, double-walled inflatable balls like this exist somewhere.  Now to find that place.</p>
-            <a href="https://imgs.xkcd.com/comics/hamster_ball.png">
-              <img src="https://imgs.xkcd.com/comics/hamster_ball.png" alt="Reportedly, double-walled inflatable balls like this exist somewhere.  Now to find that place." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/766/">#766</a>] The exact cause of the phenomenon is unknown, but it's thought to be linked to atmospheric refraction and you getting a really cool car.</p>
+            <a href="https://imgs.xkcd.com/comics/green_flash.png">
+              <img src="https://imgs.xkcd.com/comics/green_flash.png" alt="The exact cause of the phenomenon is unknown, but it's thought to be linked to atmospheric refraction and you getting a really cool car." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/152/</guid>
-      <pubDate>Sun, 03 Sep 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/766/</guid>
+      <pubDate>Wed, 14 Jul 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
