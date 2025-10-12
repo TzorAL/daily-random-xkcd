@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 14 Jul 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Green Flash</title>
-      <link>https://xkcd.com/766/</link>
+      <title>Inspiration</title>
+      <link>https://xkcd.com/2820/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/766/">#766</a>] The exact cause of the phenomenon is unknown, but it's thought to be linked to atmospheric refraction and you getting a really cool car.</p>
-            <a href="https://imgs.xkcd.com/comics/green_flash.png">
-              <img src="https://imgs.xkcd.com/comics/green_flash.png" alt="The exact cause of the phenomenon is unknown, but it's thought to be linked to atmospheric refraction and you getting a really cool car." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2820/">#2820</a>] An apple fell on Isaac Newton's head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious.</p>
+            <a href="https://imgs.xkcd.com/comics/inspiration.png">
+              <img src="https://imgs.xkcd.com/comics/inspiration.png" alt="An apple fell on Isaac Newton's head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/766/</guid>
-      <pubDate>Wed, 14 Jul 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2820/</guid>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
