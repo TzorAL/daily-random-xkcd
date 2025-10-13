@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 25 Aug 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Inspiration</title>
-      <link>https://xkcd.com/2820/</link>
+      <title>Endangered</title>
+      <link>https://xkcd.com/2523/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2820/">#2820</a>] An apple fell on Isaac Newton's head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious.</p>
-            <a href="https://imgs.xkcd.com/comics/inspiration.png">
-              <img src="https://imgs.xkcd.com/comics/inspiration.png" alt="An apple fell on Isaac Newton's head and gave him the idea that the moon might be a tasty apple, though this turned out not to be true--the Apollo program eventually determined that it was just a desolate and bland Red Delicious." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2523/">#2523</a>] The list includes polio, Guinea worm, and this one particular enterovirus strain that they've been tracking out of spite after it went around the lab a few years ago.</p>
+            <a href="https://imgs.xkcd.com/comics/endangered.png">
+              <img src="https://imgs.xkcd.com/comics/endangered.png" alt="The list includes polio, Guinea worm, and this one particular enterovirus strain that they've been tracking out of spite after it went around the lab a few years ago." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2820/</guid>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2523/</guid>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
