@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Sep 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Endangered</title>
-      <link>https://xkcd.com/2523/</link>
+      <title>Manhattan Project</title>
+      <link>https://xkcd.com/1736/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2523/">#2523</a>] The list includes polio, Guinea worm, and this one particular enterovirus strain that they've been tracking out of spite after it went around the lab a few years ago.</p>
-            <a href="https://imgs.xkcd.com/comics/endangered.png">
-              <img src="https://imgs.xkcd.com/comics/endangered.png" alt="The list includes polio, Guinea worm, and this one particular enterovirus strain that they've been tracking out of spite after it went around the lab a few years ago." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1736/">#1736</a>] On the plus side, we definitely killed that cancer over there, even if we caused a bunch more everywhere else.</p>
+            <a href="https://imgs.xkcd.com/comics/manhattan_project.png">
+              <img src="https://imgs.xkcd.com/comics/manhattan_project.png" alt="On the plus side, we definitely killed that cancer over there, even if we caused a bunch more everywhere else." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2523/</guid>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1736/</guid>
+      <pubDate>Wed, 21 Sep 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
