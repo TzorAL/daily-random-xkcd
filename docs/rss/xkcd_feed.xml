@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 18 Jun 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Aug 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Black Hat Support</title>
-      <link>https://xkcd.com/278/</link>
+      <title>Pore Strips</title>
+      <link>https://xkcd.com/777/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/278/">#278</a>] So as not to leave you hanging -- it was a problem with select() calls.</p>
-            <a href="https://imgs.xkcd.com/comics/black_hat_support.png">
-              <img src="https://imgs.xkcd.com/comics/black_hat_support.png" alt="So as not to leave you hanging -- it was a problem with select() calls." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/777/">#777</a>] I'm sure they're a harmful tool of the cosmetics-industrial complex and all, but my goodness do those strips ever work to pull gunk out of your pores. I was shocked, disgusted, and vaguely fascinated by the result.</p>
+            <a href="https://imgs.xkcd.com/comics/pore_strips.png">
+              <img src="https://imgs.xkcd.com/comics/pore_strips.png" alt="I'm sure they're a harmful tool of the cosmetics-industrial complex and all, but my goodness do those strips ever work to pull gunk out of your pores. I was shocked, disgusted, and vaguely fascinated by the result." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/278/</guid>
-      <pubDate>Mon, 18 Jun 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/777/</guid>
+      <pubDate>Mon, 09 Aug 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
