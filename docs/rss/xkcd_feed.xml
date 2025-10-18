@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 12 Mar 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GeoIP</title>
-      <link>https://xkcd.com/713/</link>
+      <title>Time</title>
+      <link>https://xkcd.com/1190/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/713/">#713</a>] 'Meet hot young singles in your mom's basement today'? Man, screw you, GeoIP.</p>
-            <a href="https://imgs.xkcd.com/comics/geoip.png">
-              <img src="https://imgs.xkcd.com/comics/geoip.png" alt="'Meet hot young singles in your mom's basement today'? Man, screw you, GeoIP." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1190/">#1190</a>] The end.</p>
+            <a href="https://imgs.xkcd.com/comics/time.png">
+              <img src="https://imgs.xkcd.com/comics/time.png" alt="The end." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/713/</guid>
-      <pubDate>Fri, 12 Mar 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1190/</guid>
+      <pubDate>Mon, 25 Mar 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
