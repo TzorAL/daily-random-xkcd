@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 02 Jun 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Worst-Case Scenario</title>
-      <link>https://xkcd.com/748/</link>
+      <title>Uncanceled Units</title>
+      <link>https://xkcd.com/3038/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/748/">#748</a>] To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.</p>
-            <a href="https://imgs.xkcd.com/comics/worst_case_scenario.png">
-              <img src="https://imgs.xkcd.com/comics/worst_case_scenario.png" alt="To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/3038/">#3038</a>] Speed limit c arcminutes^2 per steradian</p>
+            <a href="https://imgs.xkcd.com/comics/uncanceled_units.png">
+              <img src="https://imgs.xkcd.com/comics/uncanceled_units.png" alt="Speed limit c arcminutes^2 per steradian" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/748/</guid>
-      <pubDate>Wed, 02 Jun 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3038/</guid>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
