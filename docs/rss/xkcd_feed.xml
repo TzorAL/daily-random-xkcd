@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 04 May 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Visited</title>
-      <link>https://xkcd.com/1051/</link>
+      <title>Maslow's Pyramid</title>
+      <link>https://xkcd.com/2988/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1051/">#1051</a>] I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.</p>
-            <a href="https://imgs.xkcd.com/comics/visited.png">
-              <img src="https://imgs.xkcd.com/comics/visited.png" alt="I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2988/">#2988</a>] The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps.</p>
+            <a href="https://imgs.xkcd.com/comics/maslows_pyramid.png">
+              <img src="https://imgs.xkcd.com/comics/maslows_pyramid.png" alt="The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1051/</guid>
-      <pubDate>Fri, 04 May 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2988/</guid>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
