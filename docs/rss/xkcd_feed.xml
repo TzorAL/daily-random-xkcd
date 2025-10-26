@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 01 Sep 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The End is Not for a While</title>
-      <link>https://xkcd.com/470/</link>
+      <title>Sympathy</title>
+      <link>https://xkcd.com/660/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/470/">#470</a>] I THINK EVERYONE INVOLVED HERE IS CUTE.</p>
-            <a href="https://imgs.xkcd.com/comics/the_end_is_not_for_a_while.png">
-              <img src="https://imgs.xkcd.com/comics/the_end_is_not_for_a_while.png" alt="I THINK EVERYONE INVOLVED HERE IS CUTE." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/660/">#660</a>] Excellent recovery: ... which we could try to use to somehow save your original brother!</p>
+            <a href="https://imgs.xkcd.com/comics/sympathy.png">
+              <img src="https://imgs.xkcd.com/comics/sympathy.png" alt="Excellent recovery: ... which we could try to use to somehow save your original brother!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/470/</guid>
-      <pubDate>Mon, 01 Sep 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/660/</guid>
+      <pubDate>Mon, 09 Nov 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
