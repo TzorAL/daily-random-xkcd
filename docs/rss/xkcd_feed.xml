@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 09 Nov 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sympathy</title>
-      <link>https://xkcd.com/660/</link>
+      <title>Standard Model Changes</title>
+      <link>https://xkcd.com/2351/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/660/">#660</a>] Excellent recovery: ... which we could try to use to somehow save your original brother!</p>
-            <a href="https://imgs.xkcd.com/comics/sympathy.png">
-              <img src="https://imgs.xkcd.com/comics/sympathy.png" alt="Excellent recovery: ... which we could try to use to somehow save your original brother!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2351/">#2351</a>] Bugs are spin 1/2 particles, unless it's particularly windy.</p>
+            <a href="https://imgs.xkcd.com/comics/standard_model_changes.png">
+              <img src="https://imgs.xkcd.com/comics/standard_model_changes.png" alt="Bugs are spin 1/2 particles, unless it's particularly windy." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/660/</guid>
-      <pubDate>Mon, 09 Nov 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2351/</guid>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
