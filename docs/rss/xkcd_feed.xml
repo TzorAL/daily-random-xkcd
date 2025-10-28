@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Standard Model Changes</title>
-      <link>https://xkcd.com/2351/</link>
+      <title>City Talk Pages</title>
+      <link>https://xkcd.com/1665/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2351/">#2351</a>] Bugs are spin 1/2 particles, unless it's particularly windy.</p>
-            <a href="https://imgs.xkcd.com/comics/standard_model_changes.png">
-              <img src="https://imgs.xkcd.com/comics/standard_model_changes.png" alt="Bugs are spin 1/2 particles, unless it's particularly windy." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1665/">#1665</a>] I don't think the Lakeshore Air Crash Museum really belongs under 'Tourist Attractions.' It's not a museum--it's just an area near the Lake Festival Laser Show where a lot of planes have crashed.</p>
+            <a href="https://imgs.xkcd.com/comics/city_talk_pages.png">
+              <img src="https://imgs.xkcd.com/comics/city_talk_pages.png" alt="I don't think the Lakeshore Air Crash Museum really belongs under 'Tourist Attractions.' It's not a museum--it's just an area near the Lake Festival Laser Show where a lot of planes have crashed." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2351/</guid>
-      <pubDate>Wed, 26 Aug 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1665/</guid>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
