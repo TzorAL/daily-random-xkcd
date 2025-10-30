@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 20 Nov 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prudence</title>
-      <link>https://xkcd.com/665/</link>
+      <title>Midcontinent Rift System</title>
+      <link>https://xkcd.com/2103/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/665/">#665</a>] Moments later, the White Witch rolls up and, confused, tries to tempt the probe with a firmware upgrade.</p>
-            <a href="https://imgs.xkcd.com/comics/prudence.png">
-              <img src="https://imgs.xkcd.com/comics/prudence.png" alt="Moments later, the White Witch rolls up and, confused, tries to tempt the probe with a firmware upgrade." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2103/">#2103</a>] The best wedge issue is an actual wedge.</p>
+            <a href="https://imgs.xkcd.com/comics/midcontinent_rift_system.png">
+              <img src="https://imgs.xkcd.com/comics/midcontinent_rift_system.png" alt="The best wedge issue is an actual wedge." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/665/</guid>
-      <pubDate>Fri, 20 Nov 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2103/</guid>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
