@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 15 May 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Dec 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Crystal Ball</title>
-      <link>https://xkcd.com/2776/</link>
+      <title>Nerd Sniping</title>
+      <link>https://xkcd.com/356/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2776/">#2776</a>] They often use ball lenses to collect light at the ends of optical fibers, so when you look stuff up on the internet you're actually scrying through a crystal ball.</p>
-            <a href="https://imgs.xkcd.com/comics/crystal_ball.png">
-              <img src="https://imgs.xkcd.com/comics/crystal_ball.png" alt="They often use ball lenses to collect light at the ends of optical fibers, so when you look stuff up on the internet you're actually scrying through a crystal ball." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/356/">#356</a>] I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.</p>
+            <a href="https://imgs.xkcd.com/comics/nerd_sniping.png">
+              <img src="https://imgs.xkcd.com/comics/nerd_sniping.png" alt="I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2776/</guid>
-      <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/356/</guid>
+      <pubDate>Wed, 12 Dec 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
