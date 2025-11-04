@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Supreme Court Bracket</title>
-      <link>https://xkcd.com/2037/</link>
+      <title>Contingency Plan</title>
+      <link>https://xkcd.com/531/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2037/">#2037</a>] My bracket was busted in the first round; I had Massachusetts v. Connecticut in the final, probably in a case over who gets to annex Rhode Island.</p>
-            <a href="https://imgs.xkcd.com/comics/supreme_court_bracket.png">
-              <img src="https://imgs.xkcd.com/comics/supreme_court_bracket.png" alt="My bracket was busted in the first round; I had Massachusetts v. Connecticut in the final, probably in a case over who gets to annex Rhode Island." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/531/">#531</a>] Kids are genetic experiments.  We're just experimenting responsibly!</p>
+            <a href="https://imgs.xkcd.com/comics/contingency_plan.png">
+              <img src="https://imgs.xkcd.com/comics/contingency_plan.png" alt="Kids are genetic experiments.  We're just experimenting responsibly!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2037/</guid>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/531/</guid>
+      <pubDate>Fri, 16 Jan 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
