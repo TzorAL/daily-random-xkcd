@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 16 Jan 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contingency Plan</title>
-      <link>https://xkcd.com/531/</link>
+      <title>Flowchart</title>
+      <link>https://xkcd.com/1195/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/531/">#531</a>] Kids are genetic experiments.  We're just experimenting responsibly!</p>
-            <a href="https://imgs.xkcd.com/comics/contingency_plan.png">
-              <img src="https://imgs.xkcd.com/comics/contingency_plan.png" alt="Kids are genetic experiments.  We're just experimenting responsibly!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1195/">#1195</a>] The way out is to use the marker you have to add a box that says 'get a marker' to the line between you and 'start', then add a 'no' line from the trap box to 'end'.</p>
+            <a href="https://imgs.xkcd.com/comics/flowchart.png">
+              <img src="https://imgs.xkcd.com/comics/flowchart.png" alt="The way out is to use the marker you have to add a box that says 'get a marker' to the line between you and 'start', then add a 'no' line from the trap box to 'end'." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/531/</guid>
-      <pubDate>Fri, 16 Jan 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1195/</guid>
+      <pubDate>Fri, 05 Apr 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
