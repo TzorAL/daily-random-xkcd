@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hammer Incident</title>
-      <link>https://xkcd.com/2447/</link>
+      <title>Animal Songs</title>
+      <link>https://xkcd.com/2426/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2447/">#2447</a>] I still think the Cold Stone Creamery partnership was a good idea, but I should have asked before doing the first market trials during the cryogenic mirror tests.</p>
-            <a href="https://imgs.xkcd.com/comics/hammer_incident.png">
-              <img src="https://imgs.xkcd.com/comics/hammer_incident.png" alt="I still think the Cold Stone Creamery partnership was a good idea, but I should have asked before doing the first market trials during the cryogenic mirror tests." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2426/">#2426</a>] Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen.</p>
+            <a href="https://imgs.xkcd.com/comics/animal_songs.png">
+              <img src="https://imgs.xkcd.com/comics/animal_songs.png" alt="Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2447/</guid>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2426/</guid>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
