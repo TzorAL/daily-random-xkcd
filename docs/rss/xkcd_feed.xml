@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Animal Songs</title>
-      <link>https://xkcd.com/2426/</link>
+      <title>Play-By-Play</title>
+      <link>https://xkcd.com/1593/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2426/">#2426</a>] Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen.</p>
-            <a href="https://imgs.xkcd.com/comics/animal_songs.png">
-              <img src="https://imgs.xkcd.com/comics/animal_songs.png" alt="Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1593/">#1593</a>] The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail.</p>
+            <a href="https://imgs.xkcd.com/comics/play_by_play.png">
+              <img src="https://imgs.xkcd.com/comics/play_by_play.png" alt="The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2426/</guid>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1593/</guid>
+      <pubDate>Wed, 21 Oct 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
