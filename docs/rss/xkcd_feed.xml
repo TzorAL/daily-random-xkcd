@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 21 Oct 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Play-By-Play</title>
-      <link>https://xkcd.com/1593/</link>
+      <title>Felsius</title>
+      <link>https://xkcd.com/1923/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1593/">#1593</a>] The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail.</p>
-            <a href="https://imgs.xkcd.com/comics/play_by_play.png">
-              <img src="https://imgs.xkcd.com/comics/play_by_play.png" alt="The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1923/">#1923</a>] The symbol for degrees Felsius is an average of the Euro symbol (€) and the Greek lunate epsilon (ϵ).</p>
+            <a href="https://imgs.xkcd.com/comics/felsius.png">
+              <img src="https://imgs.xkcd.com/comics/felsius.png" alt="The symbol for degrees Felsius is an average of the Euro symbol (€) and the Greek lunate epsilon (ϵ)." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1593/</guid>
-      <pubDate>Wed, 21 Oct 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1923/</guid>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
