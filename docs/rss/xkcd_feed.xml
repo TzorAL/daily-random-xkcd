@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 05 Apr 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Seismic Waves</title>
-      <link>https://xkcd.com/723/</link>
+      <title>Omnitaur</title>
+      <link>https://xkcd.com/2653/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/723/">#723</a>] The USGS operates a really neat email/SMS earthquake notification service (earthquake.usgs.gov/ens/) that allows fine-grained control of notifications.</p>
-            <a href="https://imgs.xkcd.com/comics/seismic_waves.png">
-              <img src="https://imgs.xkcd.com/comics/seismic_waves.png" alt="The USGS operates a really neat email/SMS earthquake notification service (earthquake.usgs.gov/ens/) that allows fine-grained control of notifications." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2653/">#2653</a>] "My parents were both omnitaurs, which is how I got interested in recombination," said the normal human.</p>
+            <a href="https://imgs.xkcd.com/comics/omnitaur.png">
+              <img src="https://imgs.xkcd.com/comics/omnitaur.png" alt=""My parents were both omnitaurs, which is how I got interested in recombination," said the normal human." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/723/</guid>
-      <pubDate>Mon, 05 Apr 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2653/</guid>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
