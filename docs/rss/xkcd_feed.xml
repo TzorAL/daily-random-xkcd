@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Omnitaur</title>
-      <link>https://xkcd.com/2653/</link>
+      <title>Temperature Preferences</title>
+      <link>https://xkcd.com/1916/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2653/">#2653</a>] "My parents were both omnitaurs, which is how I got interested in recombination," said the normal human.</p>
-            <a href="https://imgs.xkcd.com/comics/omnitaur.png">
-              <img src="https://imgs.xkcd.com/comics/omnitaur.png" alt=""My parents were both omnitaurs, which is how I got interested in recombination," said the normal human." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1916/">#1916</a>] There's a supposed Mark Twain quote, "The coldest winter I ever spent was a summer in San Francisco." It isn't really by Mark Twain, but I don't know who said it—I just know they've never been to McMurdo Station.</p>
+            <a href="https://imgs.xkcd.com/comics/temperature_preferences.png">
+              <img src="https://imgs.xkcd.com/comics/temperature_preferences.png" alt="There's a supposed Mark Twain quote, "The coldest winter I ever spent was a summer in San Francisco." It isn't really by Mark Twain, but I don't know who said it—I just know they've never been to McMurdo Station." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2653/</guid>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1916/</guid>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
