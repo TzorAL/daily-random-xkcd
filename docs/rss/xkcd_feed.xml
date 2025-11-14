@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 15 Nov 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Temperature Preferences</title>
-      <link>https://xkcd.com/1916/</link>
+      <title>Paleontology</title>
+      <link>https://xkcd.com/460/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1916/">#1916</a>] There's a supposed Mark Twain quote, "The coldest winter I ever spent was a summer in San Francisco." It isn't really by Mark Twain, but I don't know who said it—I just know they've never been to McMurdo Station.</p>
-            <a href="https://imgs.xkcd.com/comics/temperature_preferences.png">
-              <img src="https://imgs.xkcd.com/comics/temperature_preferences.png" alt="There's a supposed Mark Twain quote, "The coldest winter I ever spent was a summer in San Francisco." It isn't really by Mark Twain, but I don't know who said it—I just know they've never been to McMurdo Station." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/460/">#460</a>] Dinosaurs totally jumped the ichthyosaur when they got rid of Brontosaurus.</p>
+            <a href="https://imgs.xkcd.com/comics/paleontology.png">
+              <img src="https://imgs.xkcd.com/comics/paleontology.png" alt="Dinosaurs totally jumped the ichthyosaur when they got rid of Brontosaurus." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1916/</guid>
-      <pubDate>Wed, 15 Nov 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/460/</guid>
+      <pubDate>Fri, 08 Aug 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
