@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Thu, 30 Oct 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Secretary: Part 4</title>
-      <link>https://xkcd.com/497/</link>
+      <title>Inexplicable</title>
+      <link>https://xkcd.com/1316/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/497/">#497</a>] It's time to draw the line.</p>
-            <a href="https://imgs.xkcd.com/comics/secretary_part_4.png">
-              <img src="https://imgs.xkcd.com/comics/secretary_part_4.png" alt="It's time to draw the line." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1316/">#1316</a>] 'It has a ghost in it. Take it back.' 'No.'</p>
+            <a href="https://imgs.xkcd.com/comics/inexplicable.png">
+              <img src="https://imgs.xkcd.com/comics/inexplicable.png" alt="'It has a ghost in it. Take it back.' 'No.'" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/497/</guid>
-      <pubDate>Thu, 30 Oct 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1316/</guid>
+      <pubDate>Mon, 13 Jan 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
