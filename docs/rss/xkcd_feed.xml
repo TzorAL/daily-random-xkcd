@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 13 Jan 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Inexplicable</title>
-      <link>https://xkcd.com/1316/</link>
+      <title>Label the States</title>
+      <link>https://xkcd.com/2868/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1316/">#1316</a>] 'It has a ghost in it. Take it back.' 'No.'</p>
-            <a href="https://imgs.xkcd.com/comics/inexplicable.png">
-              <img src="https://imgs.xkcd.com/comics/inexplicable.png" alt="'It has a ghost in it. Take it back.' 'No.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2868/">#2868</a>] Even with a blank map, a lot of people can only name 45-50 of the 64 states.</p>
+            <a href="https://imgs.xkcd.com/comics/label_the_states.png">
+              <img src="https://imgs.xkcd.com/comics/label_the_states.png" alt="Even with a blank map, a lot of people can only name 45-50 of the 64 states." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1316/</guid>
-      <pubDate>Mon, 13 Jan 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2868/</guid>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
