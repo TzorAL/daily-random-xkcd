@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fourier</title>
-      <link>https://xkcd.com/26/</link>
+      <title>Voting Machines</title>
+      <link>https://xkcd.com/463/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/26/">#26</a>] That cat has some serious periodic components</p>
-            <a href="https://imgs.xkcd.com/comics/fourier.jpg">
-              <img src="https://imgs.xkcd.com/comics/fourier.jpg" alt="That cat has some serious periodic components" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/463/">#463</a>] And that's *another* crypto conference I've been kicked out of.  C'mon, it's a great analogy!</p>
+            <a href="https://imgs.xkcd.com/comics/voting_machines.png">
+              <img src="https://imgs.xkcd.com/comics/voting_machines.png" alt="And that's *another* crypto conference I've been kicked out of.  C'mon, it's a great analogy!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/26/</guid>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/463/</guid>
+      <pubDate>Fri, 15 Aug 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
