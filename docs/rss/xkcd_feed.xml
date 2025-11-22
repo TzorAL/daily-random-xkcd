@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 15 Aug 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Voting Machines</title>
-      <link>https://xkcd.com/463/</link>
+      <title>Wasted Time</title>
+      <link>https://xkcd.com/1502/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/463/">#463</a>] And that's *another* crypto conference I've been kicked out of.  C'mon, it's a great analogy!</p>
-            <a href="https://imgs.xkcd.com/comics/voting_machines.png">
-              <img src="https://imgs.xkcd.com/comics/voting_machines.png" alt="And that's *another* crypto conference I've been kicked out of.  C'mon, it's a great analogy!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1502/">#1502</a>] Since it sounds like your time spent typing can't possibly be less productive than your time spent not typing, have you tried typing SLOWER?</p>
+            <a href="https://imgs.xkcd.com/comics/wasted_time.png">
+              <img src="https://imgs.xkcd.com/comics/wasted_time.png" alt="Since it sounds like your time spent typing can't possibly be less productive than your time spent not typing, have you tried typing SLOWER?" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/463/</guid>
-      <pubDate>Fri, 15 Aug 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1502/</guid>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
