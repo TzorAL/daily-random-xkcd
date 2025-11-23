@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 23 Mar 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wasted Time</title>
-      <link>https://xkcd.com/1502/</link>
+      <title>Scientific Briefing</title>
+      <link>https://xkcd.com/2278/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1502/">#1502</a>] Since it sounds like your time spent typing can't possibly be less productive than your time spent not typing, have you tried typing SLOWER?</p>
-            <a href="https://imgs.xkcd.com/comics/wasted_time.png">
-              <img src="https://imgs.xkcd.com/comics/wasted_time.png" alt="Since it sounds like your time spent typing can't possibly be less productive than your time spent not typing, have you tried typing SLOWER?" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2278/">#2278</a>] "I actually came in in the middle so I don't know which topic we're briefing on; the same slides work for like half of them."</p>
+            <a href="https://imgs.xkcd.com/comics/scientific_briefing.png">
+              <img src="https://imgs.xkcd.com/comics/scientific_briefing.png" alt=""I actually came in in the middle so I don't know which topic we're briefing on; the same slides work for like half of them."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1502/</guid>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2278/</guid>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
