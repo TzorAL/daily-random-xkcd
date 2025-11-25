@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 10 May 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chasing</title>
-      <link>https://xkcd.com/2931/</link>
+      <title>Walmart</title>
+      <link>https://xkcd.com/1320/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2931/">#2931</a>] Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.</p>
-            <a href="https://imgs.xkcd.com/comics/chasing.png">
-              <img src="https://imgs.xkcd.com/comics/chasing.png" alt="Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1320/">#1320</a>] What I really want is to hang out where I hung out with my friends in college, but have all my older relatives there too.</p>
+            <a href="https://imgs.xkcd.com/comics/walmart.png">
+              <img src="https://imgs.xkcd.com/comics/walmart.png" alt="What I really want is to hang out where I hung out with my friends in college, but have all my older relatives there too." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2931/</guid>
-      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1320/</guid>
+      <pubDate>Wed, 22 Jan 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
