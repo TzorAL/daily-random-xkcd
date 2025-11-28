@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 May 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Net Rotations</title>
-      <link>https://xkcd.com/2882/</link>
+      <title>Floor</title>
+      <link>https://xkcd.com/735/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2882/">#2882</a>] For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.</p>
-            <a href="https://imgs.xkcd.com/comics/net_rotations.png">
-              <img src="https://imgs.xkcd.com/comics/net_rotations.png" alt="For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/735/">#735</a>] We once got grounded when we convinced the FAA to block flights through our county because of ash clouds.</p>
+            <a href="https://imgs.xkcd.com/comics/floor.png">
+              <img src="https://imgs.xkcd.com/comics/floor.png" alt="We once got grounded when we convinced the FAA to block flights through our county because of ash clouds." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2882/</guid>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/735/</guid>
+      <pubDate>Mon, 03 May 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
