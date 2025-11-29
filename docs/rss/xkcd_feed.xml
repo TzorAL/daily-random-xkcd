@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 03 May 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Floor</title>
-      <link>https://xkcd.com/735/</link>
+      <title>xkcd Phone 12</title>
+      <link>https://xkcd.com/2377/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/735/">#735</a>] We once got grounded when we convinced the FAA to block flights through our county because of ash clouds.</p>
-            <a href="https://imgs.xkcd.com/comics/floor.png">
-              <img src="https://imgs.xkcd.com/comics/floor.png" alt="We once got grounded when we convinced the FAA to block flights through our county because of ash clouds." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2377/">#2377</a>] New phone OS features: Infinite customization (home screen icons no longer snap to grid), dark mode (disables screen), screaming mode (self-explanatory), and coherent ultracapacitor-pumped emission (please let us know what this setting does; we've been afraid to try it).</p>
+            <a href="https://imgs.xkcd.com/comics/xkcd_phone_12.png">
+              <img src="https://imgs.xkcd.com/comics/xkcd_phone_12.png" alt="New phone OS features: Infinite customization (home screen icons no longer snap to grid), dark mode (disables screen), screaming mode (self-explanatory), and coherent ultracapacitor-pumped emission (please let us know what this setting does; we've been afraid to try it)." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/735/</guid>
-      <pubDate>Mon, 03 May 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2377/</guid>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
