@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>xkcd Phone 12</title>
-      <link>https://xkcd.com/2377/</link>
+      <title>Cohort and Age Effects</title>
+      <link>https://xkcd.com/2080/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2377/">#2377</a>] New phone OS features: Infinite customization (home screen icons no longer snap to grid), dark mode (disables screen), screaming mode (self-explanatory), and coherent ultracapacitor-pumped emission (please let us know what this setting does; we've been afraid to try it).</p>
-            <a href="https://imgs.xkcd.com/comics/xkcd_phone_12.png">
-              <img src="https://imgs.xkcd.com/comics/xkcd_phone_12.png" alt="New phone OS features: Infinite customization (home screen icons no longer snap to grid), dark mode (disables screen), screaming mode (self-explanatory), and coherent ultracapacitor-pumped emission (please let us know what this setting does; we've been afraid to try it)." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2080/">#2080</a>] Younger people get very few joint replacements, yet they're also getting more than older people did at the same age. This means you can choose between 'Why are millennials getting so (many/few) joint replacements?' depending on which trend fits your current argument better.</p>
+            <a href="https://imgs.xkcd.com/comics/cohort_and_age_effects.png">
+              <img src="https://imgs.xkcd.com/comics/cohort_and_age_effects.png" alt="Younger people get very few joint replacements, yet they're also getting more than older people did at the same age. This means you can choose between 'Why are millennials getting so (many/few) joint replacements?' depending on which trend fits your current argument better." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2377/</guid>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2080/</guid>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
