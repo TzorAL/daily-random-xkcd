@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cohort and Age Effects</title>
-      <link>https://xkcd.com/2080/</link>
+      <title>Forks and Spoons</title>
+      <link>https://xkcd.com/419/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2080/">#2080</a>] Younger people get very few joint replacements, yet they're also getting more than older people did at the same age. This means you can choose between 'Why are millennials getting so (many/few) joint replacements?' depending on which trend fits your current argument better.</p>
-            <a href="https://imgs.xkcd.com/comics/cohort_and_age_effects.png">
-              <img src="https://imgs.xkcd.com/comics/cohort_and_age_effects.png" alt="Younger people get very few joint replacements, yet they're also getting more than older people did at the same age. This means you can choose between 'Why are millennials getting so (many/few) joint replacements?' depending on which trend fits your current argument better." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/419/">#419</a>] Their biggest mistake was bringing Rachael Ray and Emeril to tour the lab and sign off on the project.  That's when Spielberg caught wind of it.</p>
+            <a href="https://imgs.xkcd.com/comics/forks_and_spoons.png">
+              <img src="https://imgs.xkcd.com/comics/forks_and_spoons.png" alt="Their biggest mistake was bringing Rachael Ray and Emeril to tour the lab and sign off on the project.  That's when Spielberg caught wind of it." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2080/</guid>
-      <pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/419/</guid>
+      <pubDate>Mon, 05 May 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
