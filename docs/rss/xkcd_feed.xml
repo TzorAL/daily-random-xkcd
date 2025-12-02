@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 05 May 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Forks and Spoons</title>
-      <link>https://xkcd.com/419/</link>
+      <title>Scary</title>
+      <link>https://xkcd.com/647/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/419/">#419</a>] Their biggest mistake was bringing Rachael Ray and Emeril to tour the lab and sign off on the project.  That's when Spielberg caught wind of it.</p>
-            <a href="https://imgs.xkcd.com/comics/forks_and_spoons.png">
-              <img src="https://imgs.xkcd.com/comics/forks_and_spoons.png" alt="Their biggest mistake was bringing Rachael Ray and Emeril to tour the lab and sign off on the project.  That's when Spielberg caught wind of it." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/647/">#647</a>] I'm teaching every 8-year-old relative to say this, and every 14-year-old to do the same thing with Toy Story.  Also, Pokemon hit the US over a decade ago and kids born after Aladdin came out will turn 18 next year.</p>
+            <a href="https://imgs.xkcd.com/comics/scary.png">
+              <img src="https://imgs.xkcd.com/comics/scary.png" alt="I'm teaching every 8-year-old relative to say this, and every 14-year-old to do the same thing with Toy Story.  Also, Pokemon hit the US over a decade ago and kids born after Aladdin came out will turn 18 next year." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/419/</guid>
-      <pubDate>Mon, 05 May 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/647/</guid>
+      <pubDate>Fri, 09 Oct 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
