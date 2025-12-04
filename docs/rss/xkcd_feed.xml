@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Serenity is coming out tomorrow</title>
-      <link>https://xkcd.com/9/</link>
+      <title>1/1,000th Scale World</title>
+      <link>https://xkcd.com/2417/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/9/">#9</a>] Mal, Simon, Wash, Zoe, River, Kaylee, Jayne, Inara, Book.</p>
-            <a href="https://imgs.xkcd.com/comics/firefly.jpg">
-              <img src="https://imgs.xkcd.com/comics/firefly.jpg" alt="Mal, Simon, Wash, Zoe, River, Kaylee, Jayne, Inara, Book." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2417/">#2417</a>] We're worried that a regular whale will get into a 30-foot-deep ocean trench section and filter-feed on all the tiny whales.</p>
+            <a href="https://imgs.xkcd.com/comics/1_1000th_scale_world.png">
+              <img src="https://imgs.xkcd.com/comics/1_1000th_scale_world.png" alt="We're worried that a regular whale will get into a 30-foot-deep ocean trench section and filter-feed on all the tiny whales." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/9/</guid>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2417/</guid>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
