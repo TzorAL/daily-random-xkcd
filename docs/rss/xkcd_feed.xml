@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>1/1,000th Scale World</title>
-      <link>https://xkcd.com/2417/</link>
+      <title>Dress Color</title>
+      <link>https://xkcd.com/1492/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2417/">#2417</a>] We're worried that a regular whale will get into a 30-foot-deep ocean trench section and filter-feed on all the tiny whales.</p>
-            <a href="https://imgs.xkcd.com/comics/1_1000th_scale_world.png">
-              <img src="https://imgs.xkcd.com/comics/1_1000th_scale_world.png" alt="We're worried that a regular whale will get into a 30-foot-deep ocean trench section and filter-feed on all the tiny whales." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1492/">#1492</a>] This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.</p>
+            <a href="https://imgs.xkcd.com/comics/dress_color.png">
+              <img src="https://imgs.xkcd.com/comics/dress_color.png" alt="This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2417/</guid>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1492/</guid>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
