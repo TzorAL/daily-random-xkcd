@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 27 Feb 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dress Color</title>
-      <link>https://xkcd.com/1492/</link>
+      <title>Chicken Pox and Name Statistics</title>
+      <link>https://xkcd.com/1950/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1492/">#1492</a>] This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.</p>
-            <a href="https://imgs.xkcd.com/comics/dress_color.png">
-              <img src="https://imgs.xkcd.com/comics/dress_color.png" alt="This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1950/">#1950</a>] People with all six of those names agree that it's weird that we have teeth, when you think about it for too long. Just about everyone agrees on that, except—in a still-unexplained statistical anomaly—people named "Trevor."</p>
+            <a href="https://imgs.xkcd.com/comics/chicken_pox_and_name_statistics.png">
+              <img src="https://imgs.xkcd.com/comics/chicken_pox_and_name_statistics.png" alt="People with all six of those names agree that it's weird that we have teeth, when you think about it for too long. Just about everyone agrees on that, except—in a still-unexplained statistical anomaly—people named "Trevor."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1492/</guid>
-      <pubDate>Fri, 27 Feb 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1950/</guid>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
