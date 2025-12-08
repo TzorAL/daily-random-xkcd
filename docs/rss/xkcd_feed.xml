@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chemistry Nobel</title>
-      <link>https://xkcd.com/2214/</link>
+      <title>Vet</title>
+      <link>https://xkcd.com/1558/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2214/">#2214</a>] Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.</p>
-            <a href="https://imgs.xkcd.com/comics/chemistry_nobel.png">
-              <img src="https://imgs.xkcd.com/comics/chemistry_nobel.png" alt="Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1558/">#1558</a>] It's probably for the best. Since Roombas are native to North America, it's illegal for Americans to keep them in their houses under the Migratory Bird Treaty Act.</p>
+            <a href="https://imgs.xkcd.com/comics/vet.png">
+              <img src="https://imgs.xkcd.com/comics/vet.png" alt="It's probably for the best. Since Roombas are native to North America, it's illegal for Americans to keep them in their houses under the Migratory Bird Treaty Act." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2214/</guid>
-      <pubDate>Fri, 11 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1558/</guid>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
