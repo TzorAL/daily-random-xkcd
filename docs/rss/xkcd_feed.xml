@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 31 Jul 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Aug 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vet</title>
-      <link>https://xkcd.com/1558/</link>
+      <title>Hurricane Names</title>
+      <link>https://xkcd.com/944/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1558/">#1558</a>] It's probably for the best. Since Roombas are native to North America, it's illegal for Americans to keep them in their houses under the Migratory Bird Treaty Act.</p>
-            <a href="https://imgs.xkcd.com/comics/vet.png">
-              <img src="https://imgs.xkcd.com/comics/vet.png" alt="It's probably for the best. Since Roombas are native to North America, it's illegal for Americans to keep them in their houses under the Migratory Bird Treaty Act." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/944/">#944</a>] After exhausting the OED, we started numbering them. When overlapping hurricanes formed at all points on the Earth's surface, and our scheme was foiled by Cantor diagonalization, we just decided to name them all "Steve". Your local forecast tomorrow is "Steve". Good luck.</p>
+            <a href="https://imgs.xkcd.com/comics/hurricane_names.png">
+              <img src="https://imgs.xkcd.com/comics/hurricane_names.png" alt="After exhausting the OED, we started numbering them. When overlapping hurricanes formed at all points on the Earth's surface, and our scheme was foiled by Cantor diagonalization, we just decided to name them all "Steve". Your local forecast tomorrow is "Steve". Good luck." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1558/</guid>
-      <pubDate>Fri, 31 Jul 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/944/</guid>
+      <pubDate>Mon, 29 Aug 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
