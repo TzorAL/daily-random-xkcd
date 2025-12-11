@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 06 Apr 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Paperwork</title>
-      <link>https://xkcd.com/1977/</link>
+      <title>Angular Momentum</title>
+      <link>https://xkcd.com/162/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1977/">#1977</a>] Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen.</p>
-            <a href="https://imgs.xkcd.com/comics/paperwork.png">
-              <img src="https://imgs.xkcd.com/comics/paperwork.png" alt="Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/162/">#162</a>] With reasonable assumptions about latitude and body shape, how much time might she gain them?  Note: whatever the answer, sunrise always comes too soon. (Also, is it worth it if she throws up?)</p>
+            <a href="https://imgs.xkcd.com/comics/angular_momentum.jpg">
+              <img src="https://imgs.xkcd.com/comics/angular_momentum.jpg" alt="With reasonable assumptions about latitude and body shape, how much time might she gain them?  Note: whatever the answer, sunrise always comes too soon. (Also, is it worth it if she throws up?)" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1977/</guid>
-      <pubDate>Fri, 06 Apr 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/162/</guid>
+      <pubDate>Mon, 25 Sep 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
