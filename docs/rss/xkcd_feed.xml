@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 26 Aug 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Three Kinds of Research</title>
-      <link>https://xkcd.com/2977/</link>
+      <title>T. Rex Evolution</title>
+      <link>https://xkcd.com/3042/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2977/">#2977</a>] The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'</p>
-            <a href="https://imgs.xkcd.com/comics/three_kinds_of_research.png">
-              <img src="https://imgs.xkcd.com/comics/three_kinds_of_research.png" alt="The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/3042/">#3042</a>] Unfortunately, body size and bite force continue to increase.</p>
+            <a href="https://imgs.xkcd.com/comics/t_rex_evolution.png">
+              <img src="https://imgs.xkcd.com/comics/t_rex_evolution.png" alt="Unfortunately, body size and bite force continue to increase." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2977/</guid>
-      <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3042/</guid>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
