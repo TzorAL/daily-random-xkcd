@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>T. Rex Evolution</title>
-      <link>https://xkcd.com/3042/</link>
+      <title>Wanna See the Code?</title>
+      <link>https://xkcd.com/2138/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/3042/">#3042</a>] Unfortunately, body size and bite force continue to increase.</p>
-            <a href="https://imgs.xkcd.com/comics/t_rex_evolution.png">
-              <img src="https://imgs.xkcd.com/comics/t_rex_evolution.png" alt="Unfortunately, body size and bite force continue to increase." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2138/">#2138</a>] And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.</p>
+            <a href="https://imgs.xkcd.com/comics/wanna_see_the_code.png">
+              <img src="https://imgs.xkcd.com/comics/wanna_see_the_code.png" alt="And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3042/</guid>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2138/</guid>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
