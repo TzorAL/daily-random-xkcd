@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hand Dryers</title>
-      <link>https://xkcd.com/2743/</link>
+      <title>Incoming Asteroid</title>
+      <link>https://xkcd.com/3049/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2743/">#2743</a>] I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.</p>
-            <a href="https://imgs.xkcd.com/comics/hand_dryers.png">
-              <img src="https://imgs.xkcd.com/comics/hand_dryers.png" alt="I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/3049/">#3049</a>] The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit.</p>
+            <a href="https://imgs.xkcd.com/comics/incoming_asteroid.png">
+              <img src="https://imgs.xkcd.com/comics/incoming_asteroid.png" alt="The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2743/</guid>
-      <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3049/</guid>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
