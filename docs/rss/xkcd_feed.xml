@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 09 Aug 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meteor Showers</title>
-      <link>https://xkcd.com/1249/</link>
+      <title>Fanservice</title>
+      <link>https://xkcd.com/2744/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1249/">#1249</a>] Remember, meteors always hit the tallest object around.</p>
-            <a href="https://imgs.xkcd.com/comics/meteor_showers.png">
-              <img src="https://imgs.xkcd.com/comics/meteor_showers.png" alt="Remember, meteors always hit the tallest object around." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2744/">#2744</a>] I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."</p>
+            <a href="https://imgs.xkcd.com/comics/fanservice.png">
+              <img src="https://imgs.xkcd.com/comics/fanservice.png" alt="I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1249/</guid>
-      <pubDate>Fri, 09 Aug 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2744/</guid>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
