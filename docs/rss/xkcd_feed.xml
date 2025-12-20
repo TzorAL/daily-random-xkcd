@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jan 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fanservice</title>
-      <link>https://xkcd.com/2744/</link>
+      <title>Home Alone</title>
+      <link>https://xkcd.com/1164/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2744/">#2744</a>] I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."</p>
-            <a href="https://imgs.xkcd.com/comics/fanservice.png">
-              <img src="https://imgs.xkcd.com/comics/fanservice.png" alt="I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1164/">#1164</a>] Starring Macaulay Culkin.</p>
+            <a href="https://imgs.xkcd.com/comics/home_alone.png">
+              <img src="https://imgs.xkcd.com/comics/home_alone.png" alt="Starring Macaulay Culkin." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2744/</guid>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1164/</guid>
+      <pubDate>Wed, 23 Jan 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
