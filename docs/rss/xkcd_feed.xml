@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 23 Jan 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Home Alone</title>
-      <link>https://xkcd.com/1164/</link>
+      <title>Orbitals</title>
+      <link>https://xkcd.com/658/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1164/">#1164</a>] Starring Macaulay Culkin.</p>
-            <a href="https://imgs.xkcd.com/comics/home_alone.png">
-              <img src="https://imgs.xkcd.com/comics/home_alone.png" alt="Starring Macaulay Culkin." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/658/">#658</a>] Except the people filtering in late are the partiers, so you end up with drunken makeouts in the living room and the next roommate to return home has to sleep in the hall lounge orbital.</p>
+            <a href="https://imgs.xkcd.com/comics/orbitals.png">
+              <img src="https://imgs.xkcd.com/comics/orbitals.png" alt="Except the people filtering in late are the partiers, so you end up with drunken makeouts in the living room and the next roommate to return home has to sleep in the hall lounge orbital." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1164/</guid>
-      <pubDate>Wed, 23 Jan 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/658/</guid>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
