@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Iceland</title>
-      <link>https://xkcd.com/2874/</link>
+      <title>Radon</title>
+      <link>https://xkcd.com/3037/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2874/">#2874</a>] The HVAC bill for installing the Gulf Stream was enormous.</p>
-            <a href="https://imgs.xkcd.com/comics/iceland.png">
-              <img src="https://imgs.xkcd.com/comics/iceland.png" alt="The HVAC bill for installing the Gulf Stream was enormous." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/3037/">#3037</a>] A good ²³⁸Umbrella policy should cover it.</p>
+            <a href="https://imgs.xkcd.com/comics/radon.png">
+              <img src="https://imgs.xkcd.com/comics/radon.png" alt="A good ²³⁸Umbrella policy should cover it." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2874/</guid>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3037/</guid>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
