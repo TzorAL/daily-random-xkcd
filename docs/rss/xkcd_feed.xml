@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Radon</title>
-      <link>https://xkcd.com/3037/</link>
+      <title>Automatic Doors</title>
+      <link>https://xkcd.com/175/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/3037/">#3037</a>] A good ²³⁸Umbrella policy should cover it.</p>
-            <a href="https://imgs.xkcd.com/comics/radon.png">
-              <img src="https://imgs.xkcd.com/comics/radon.png" alt="A good ²³⁸Umbrella policy should cover it." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/175/">#175</a>] I hope no automatic doors I know read this.  I would be so embarrassed.</p>
+            <a href="https://imgs.xkcd.com/comics/automatic_doors.png">
+              <img src="https://imgs.xkcd.com/comics/automatic_doors.png" alt="I hope no automatic doors I know read this.  I would be so embarrassed." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3037/</guid>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/175/</guid>
+      <pubDate>Wed, 25 Oct 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
