@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Carnot Cycle</title>
-      <link>https://xkcd.com/2063/</link>
+      <title>Spinal Tap Amps</title>
+      <link>https://xkcd.com/670/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2063/">#2063</a>] The Carnot cycle is more properly known by its full title, the "Carnot-Tolkien-Wagner Ring Cycle."</p>
-            <a href="https://imgs.xkcd.com/comics/carnot_cycle.png">
-              <img src="https://imgs.xkcd.com/comics/carnot_cycle.png" alt="The Carnot cycle is more properly known by its full title, the "Carnot-Tolkien-Wagner Ring Cycle."" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/670/">#670</a>] Wow, that's less than $200 per ... uh ... that's a good deal!</p>
+            <a href="https://imgs.xkcd.com/comics/spinal_tap_amps.png">
+              <img src="https://imgs.xkcd.com/comics/spinal_tap_amps.png" alt="Wow, that's less than $200 per ... uh ... that's a good deal!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2063/</guid>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/670/</guid>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
