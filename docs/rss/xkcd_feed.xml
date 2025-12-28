@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 02 Dec 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Spinal Tap Amps</title>
-      <link>https://xkcd.com/670/</link>
+      <title>Blockchain</title>
+      <link>https://xkcd.com/2267/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/670/">#670</a>] Wow, that's less than $200 per ... uh ... that's a good deal!</p>
-            <a href="https://imgs.xkcd.com/comics/spinal_tap_amps.png">
-              <img src="https://imgs.xkcd.com/comics/spinal_tap_amps.png" alt="Wow, that's less than $200 per ... uh ... that's a good deal!" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2267/">#2267</a>] Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life.</p>
+            <a href="https://imgs.xkcd.com/comics/blockchain.png">
+              <img src="https://imgs.xkcd.com/comics/blockchain.png" alt="Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/670/</guid>
-      <pubDate>Wed, 02 Dec 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2267/</guid>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
