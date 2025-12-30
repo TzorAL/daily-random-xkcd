@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Dec 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Spinthariscope</title>
-      <link>https://xkcd.com/2568/</link>
+      <title>Incident</title>
+      <link>https://xkcd.com/838/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2568/">#2568</a>] Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end.</p>
-            <a href="https://imgs.xkcd.com/comics/spinthariscope.png">
-              <img src="https://imgs.xkcd.com/comics/spinthariscope.png" alt="Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/838/">#838</a>] He sees you when you're sleeping, he knows when you're awake, he's copied on /var/spool/mail/root, so be good for goodness' sake.</p>
+            <a href="https://imgs.xkcd.com/comics/incident.png">
+              <img src="https://imgs.xkcd.com/comics/incident.png" alt="He sees you when you're sleeping, he knows when you're awake, he's copied on /var/spool/mail/root, so be good for goodness' sake." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2568/</guid>
-      <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/838/</guid>
+      <pubDate>Fri, 24 Dec 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
