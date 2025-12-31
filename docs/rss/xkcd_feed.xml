@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 24 Dec 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Incident</title>
-      <link>https://xkcd.com/838/</link>
+      <title>Road Space Comparison</title>
+      <link>https://xkcd.com/2684/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/838/">#838</a>] He sees you when you're sleeping, he knows when you're awake, he's copied on /var/spool/mail/root, so be good for goodness' sake.</p>
-            <a href="https://imgs.xkcd.com/comics/incident.png">
-              <img src="https://imgs.xkcd.com/comics/incident.png" alt="He sees you when you're sleeping, he knows when you're awake, he's copied on /var/spool/mail/root, so be good for goodness' sake." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2684/">#2684</a>] I wonder how hard it would be to ride an electric scooter in a hamster ball.</p>
+            <a href="https://imgs.xkcd.com/comics/road_space_comparison.png">
+              <img src="https://imgs.xkcd.com/comics/road_space_comparison.png" alt="I wonder how hard it would be to ride an electric scooter in a hamster ball." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/838/</guid>
-      <pubDate>Fri, 24 Dec 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2684/</guid>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
