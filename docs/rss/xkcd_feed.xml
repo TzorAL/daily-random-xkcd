@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Road Space Comparison</title>
-      <link>https://xkcd.com/2684/</link>
+      <title>Fantasy</title>
+      <link>https://xkcd.com/429/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2684/">#2684</a>] I wonder how hard it would be to ride an electric scooter in a hamster ball.</p>
-            <a href="https://imgs.xkcd.com/comics/road_space_comparison.png">
-              <img src="https://imgs.xkcd.com/comics/road_space_comparison.png" alt="I wonder how hard it would be to ride an electric scooter in a hamster ball." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/429/">#429</a>] I guess if she accepted irrational realities, she'd hardly be my fantasy.</p>
+            <a href="https://imgs.xkcd.com/comics/fantasy.png">
+              <img src="https://imgs.xkcd.com/comics/fantasy.png" alt="I guess if she accepted irrational realities, she'd hardly be my fantasy." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2684/</guid>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/429/</guid>
+      <pubDate>Wed, 28 May 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
