@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 01 Mar 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jul 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Guitar Hero</title>
-      <link>https://xkcd.com/70/</link>
+      <title>Bookstore</title>
+      <link>https://xkcd.com/294/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/70/">#70</a>] And then do it again in a moment now that they're out of Star Power</p>
-            <a href="https://imgs.xkcd.com/comics/guitar_hero.jpg">
-              <img src="https://imgs.xkcd.com/comics/guitar_hero.jpg" alt="And then do it again in a moment now that they're out of Star Power" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/294/">#294</a>] You can search it if you want, but you may want to skip the memories of your mom.</p>
+            <a href="https://imgs.xkcd.com/comics/bookstore.png">
+              <img src="https://imgs.xkcd.com/comics/bookstore.png" alt="You can search it if you want, but you may want to skip the memories of your mom." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/70/</guid>
-      <pubDate>Wed, 01 Mar 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/294/</guid>
+      <pubDate>Wed, 25 Jul 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
