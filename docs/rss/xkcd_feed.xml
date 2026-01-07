@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 14 Mar 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Violin Plots</title>
-      <link>https://xkcd.com/1967/</link>
+      <title>Autogyros</title>
+      <link>https://xkcd.com/1972/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1967/">#1967</a>] Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'</p>
-            <a href="https://imgs.xkcd.com/comics/violin_plots.png">
-              <img src="https://imgs.xkcd.com/comics/violin_plots.png" alt="Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1972/">#1972</a>] I understand modern autogyros are much more stable, so I've probably angered the autogyro people by impugning their safety. Once they finish building the autogyros they've been working on in their garages for 10 years, they'll come after me.</p>
+            <a href="https://imgs.xkcd.com/comics/autogyros.png">
+              <img src="https://imgs.xkcd.com/comics/autogyros.png" alt="I understand modern autogyros are much more stable, so I've probably angered the autogyro people by impugning their safety. Once they finish building the autogyros they've been working on in their garages for 10 years, they'll come after me." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1967/</guid>
-      <pubDate>Wed, 14 Mar 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1972/</guid>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
