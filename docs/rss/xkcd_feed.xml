@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 06 Jun 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Time-Tracking Software</title>
-      <link>https://xkcd.com/1690/</link>
+      <title>Cyberintelligence</title>
+      <link>https://xkcd.com/1573/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1690/">#1690</a>] 'List of helicopter prison escapes' and 'List of sexually active popes' are both entertainingly long, but sadly there's no 'List of helicopter prison escapes involving sexually active popes.'</p>
-            <a href="https://imgs.xkcd.com/comics/time_tracking_software.png">
-              <img src="https://imgs.xkcd.com/comics/time_tracking_software.png" alt="'List of helicopter prison escapes' and 'List of sexually active popes' are both entertainingly long, but sadly there's no 'List of helicopter prison escapes involving sexually active popes.'" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/1573/">#1573</a>] We had gathered that raw information, but had yet to put it all together.</p>
+            <a href="https://imgs.xkcd.com/comics/cyberintelligence.png">
+              <img src="https://imgs.xkcd.com/comics/cyberintelligence.png" alt="We had gathered that raw information, but had yet to put it all together." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1690/</guid>
-      <pubDate>Mon, 06 Jun 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1573/</guid>
+      <pubDate>Fri, 04 Sep 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
