@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 04 Sep 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cyberintelligence</title>
-      <link>https://xkcd.com/1573/</link>
+      <title>Welcome Back</title>
+      <link>https://xkcd.com/2615/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1573/">#1573</a>] We had gathered that raw information, but had yet to put it all together.</p>
-            <a href="https://imgs.xkcd.com/comics/cyberintelligence.png">
-              <img src="https://imgs.xkcd.com/comics/cyberintelligence.png" alt="We had gathered that raw information, but had yet to put it all together." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/2615/">#2615</a>] 'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]</p>
+            <a href="https://imgs.xkcd.com/comics/welcome_back.png">
+              <img src="https://imgs.xkcd.com/comics/welcome_back.png" alt="'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1573/</guid>
-      <pubDate>Fri, 04 Sep 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2615/</guid>
+      <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
