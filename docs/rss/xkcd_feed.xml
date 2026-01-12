@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Nov 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome Back</title>
-      <link>https://xkcd.com/2615/</link>
+      <title>Close to You</title>
+      <link>https://xkcd.com/348/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/2615/">#2615</a>] 'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]</p>
-            <a href="https://imgs.xkcd.com/comics/welcome_back.png">
-              <img src="https://imgs.xkcd.com/comics/welcome_back.png" alt="'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/348/">#348</a>] We should probably talk about this before the wedding.</p>
+            <a href="https://imgs.xkcd.com/comics/close_to_you.png">
+              <img src="https://imgs.xkcd.com/comics/close_to_you.png" alt="We should probably talk about this before the wedding." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2615/</guid>
-      <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/348/</guid>
+      <pubDate>Fri, 23 Nov 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
