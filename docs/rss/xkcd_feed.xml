@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 16 Apr 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ablogalypse</title>
-      <link>https://xkcd.com/1043/</link>
+      <title>Geohashing</title>
+      <link>https://xkcd.com/426/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/1043/">#1043</a>] Plus the reaction in the Tumblverse is always 'repeatedly get hit by a dog and fall down the stairs'.</p>
-            <a href="https://imgs.xkcd.com/comics/ablogalypse.png">
-              <img src="https://imgs.xkcd.com/comics/ablogalypse.png" alt="Plus the reaction in the Tumblverse is always 'repeatedly get hit by a dog and fall down the stairs'." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/426/">#426</a>] Saturday is game night.</p>
+            <a href="https://imgs.xkcd.com/comics/geohashing.png">
+              <img src="https://imgs.xkcd.com/comics/geohashing.png" alt="Saturday is game night." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1043/</guid>
-      <pubDate>Mon, 16 Apr 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/426/</guid>
+      <pubDate>Wed, 21 May 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
