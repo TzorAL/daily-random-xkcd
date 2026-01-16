@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 02 Jun 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 May 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clark Gable</title>
-      <link>https://xkcd.com/110/</link>
+      <title>Religions</title>
+      <link>https://xkcd.com/900/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/110/">#110</a>] Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN</p>
-            <a href="https://imgs.xkcd.com/comics/clark_gable.jpg">
-              <img src="https://imgs.xkcd.com/comics/clark_gable.jpg" alt="Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN" style="height: auto;" />
+            <p>[<a href="https://xkcd.com/900/">#900</a>] But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2.</p>
+            <a href="https://imgs.xkcd.com/comics/religions.png">
+              <img src="https://imgs.xkcd.com/comics/religions.png" alt="But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2." style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/110/</guid>
-      <pubDate>Fri, 02 Jun 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/900/</guid>
+      <pubDate>Wed, 18 May 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
