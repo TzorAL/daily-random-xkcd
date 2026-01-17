@@ -6,23 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 07 Sep 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Feb 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trouble for Science</title>
-      <link>https://xkcd.com/1574/</link>
+      <title>[707] Joshing</title>
+      <link>https://xkcd.com/707/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/trouble_for_science.png">
-              <img src="https://imgs.xkcd.com/comics/trouble_for_science.png" alt="Careful mathematical analysis demonstrates small-scale irregularities in Gaussian distribution" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/joshing.png">
+              <img src="https://imgs.xkcd.com/comics/joshing.png" alt="You'll be moved up from 49 of ~7 billion to 31 of ~7 billion." style="height: auto;" />
             </a>
-            <p>[<a href="https://xkcd.com/1574/">#1574</a>] Careful mathematical analysis demonstrates small-scale irregularities in Gaussian distribution</p>
+            <p>You'll be moved up from 49 of ~7 billion to 31 of ~7 billion.</p>
+            <p><a href="https://explainxkcd.com/707/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1574/</guid>
-      <pubDate>Mon, 07 Sep 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/707/</guid>
+      <pubDate>Fri, 26 Feb 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
