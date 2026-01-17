@@ -6,23 +6,23 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 18 May 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Aug 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Religions</title>
-      <link>https://xkcd.com/900/</link>
+      <title>Exoplanets</title>
+      <link>https://xkcd.com/786/</link>
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/900/">#900</a>] But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2.</p>
-            <a href="https://imgs.xkcd.com/comics/religions.png">
-              <img src="https://imgs.xkcd.com/comics/religions.png" alt="But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2." style="height: auto;" />
+            <p>[<a href="https://xkcd.com/786/">#786</a>] I'm just worried that we'll all leave and you won't get to come along!</p>
+            <a href="https://imgs.xkcd.com/comics/exoplanets_2010.png">
+              <img src="https://imgs.xkcd.com/comics/exoplanets_2010.png" alt="I'm just worried that we'll all leave and you won't get to come along!" style="height: auto;" />
             </a>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/900/</guid>
-      <pubDate>Wed, 18 May 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/786/</guid>
+      <pubDate>Mon, 30 Aug 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
