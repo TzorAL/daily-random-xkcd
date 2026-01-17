@@ -88,7 +88,7 @@ def generate_rss():
     <lastBuildDate>{formatted_pub_date}</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>{title}</title>
+      <title>[{comic_data['num']}] {title}</title>
       <link>https://xkcd.com/{comic_data['num']}/</link>
       <description>
         <![CDATA[
@@ -96,7 +96,8 @@ def generate_rss():
             <a href="{img_url}">
               <img src="{img_url}" alt="{alt_text}" style="height: auto;" />
             </a>
-            <p>[<a href="https://xkcd.com/{comic_data['num']}/">#{comic_data['num']}</a>] {alt_text}</p>
+            <p>{alt_text}</p>
+            <p><a href="https://explainxkcd.com/{comic_data['num']}/">Explanation</a></p>
           </div>
         ]]>
       </description>
