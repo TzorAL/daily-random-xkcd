@@ -93,11 +93,10 @@ def generate_rss():
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/{comic_data['num']}/">#{comic_data['num']}</a>]</p>
             <a href="{img_url}">
               <img src="{img_url}" alt="{alt_text}" style="height: auto;" />
             </a>
-            <p>{alt_text}</p>
+            <p>[<a href="https://xkcd.com/{comic_data['num']}/">#{comic_data['num']}</a>] {alt_text}</p>
           </div>
         ]]>
       </description>
