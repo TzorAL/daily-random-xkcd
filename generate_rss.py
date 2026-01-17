@@ -72,7 +72,7 @@ def generate_rss():
     title = comic_data['title']
     img_url = comic_data['img']
     alt_text = comic_data['alt']
-    
+
     # Format the original publication date in RFC-822 format
     formatted_pub_date = datetime(int(comic_data['year']), int(comic_data['month']), int(comic_data['day'])).strftime("%a, %d %b %Y %H:%M:%S GMT")
 
@@ -93,10 +93,11 @@ def generate_rss():
       <description>
         <![CDATA[
           <div>
-            <p>[<a href="https://xkcd.com/{comic_data['num']}/">#{comic_data['num']}</a>] {alt_text}</p>
+            <p>[<a href="https://xkcd.com/{comic_data['num']}/">#{comic_data['num']}</a>]</p>
             <a href="{img_url}">
               <img src="{img_url}" alt="{alt_text}" style="height: auto;" />
             </a>
+            <p>{alt_text}</p>
           </div>
         ]]>
       </description>
