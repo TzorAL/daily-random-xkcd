@@ -113,7 +113,7 @@ def generate_html_404_style(comic_data):
         <div class="footer">
           <p>
             <a href="{comic_url}" style="color: #555; text-decoration: none;">
-              View on XKCD #{comic_num}
+              View on XKCD #{comic_data['num']}
             </a>
             |
             <a href="{explain_url}" style="color: #555; text-decoration: none;" target="_blank" rel="noopener noreferrer">
