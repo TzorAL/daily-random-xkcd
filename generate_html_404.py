@@ -22,6 +22,7 @@ def generate_html_404_style(comic_data):
     img_url = comic_data['img']
     alt_text = comic_data['alt']
     comic_url = f"https://xkcd.com/{comic_data['num']}/"
+    explain_url = f"https://explainxkcd.com/{comic_data['num']"
 
     html_404_style = f"""
     <html>
@@ -109,13 +110,16 @@ def generate_html_404_style(comic_data):
             <p class="alt-text" id="comic-alt">{alt_text}</p>
           </div>
 
-          <div class="footer">
-            <p><a href="{comic_url}" style="color: #555; text-decoration: none;">View on XKCD #{comic_data['num']}</a></p>
-            <p>Powered by: <a href="https://xkcd.com/"> XKCD</a> | 
-                <a href="https://github.com/TzorAL/daily-random-xkcd" target="_blank">
-                    <img class="github-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" alt="GitHub Logo">
-                </a>
-            </p>
+        <div class="footer">
+          <p>
+            <a href="{comic_url}" style="color: #555; text-decoration: none;">
+              View on XKCD #{comic_num}
+            </a>
+            |
+            <a href="{explain_url}" style="color: #555; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+              Explain
+            </a>
+          </p>
           </div>
         </div>
       </body>
