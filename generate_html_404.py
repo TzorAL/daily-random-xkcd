@@ -119,6 +119,12 @@ def generate_html_404_style(comic_data):
             <a href="{explain_url}" style="color: #555; text-decoration: none;" target="_blank" rel="noopener noreferrer">
               Explain
             </a>
+         </p>
+         <p>
+             Powered by: <a href="https://xkcd.com/"> XKCD</a> | 
+                <a href="https://github.com/TzorAL/daily-random-xkcd" target="_blank">
+                    <img class="github-logo" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" alt="GitHub Logo">
+                </a>
           </p>
           </div>
         </div>
