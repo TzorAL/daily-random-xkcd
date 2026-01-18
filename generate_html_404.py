@@ -22,7 +22,7 @@ def generate_html_404_style(comic_data):
     img_url = comic_data['img']
     alt_text = comic_data['alt']
     comic_url = f"https://xkcd.com/{comic_data['num']}/"
-    explain_url = f"https://explainxkcd.com/{comic_data['num']"
+    explain_url = f"https://explainxkcd.com/{comic_data['num']}"
 
     html_404_style = f"""
     <html>
