@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 26 Feb 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[707] Joshing</title>
-      <link>https://xkcd.com/707/</link>
+      <title>[2350] Deer Turrets</title>
+      <link>https://xkcd.com/2350/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/joshing.png">
-              <img src="https://imgs.xkcd.com/comics/joshing.png" alt="You'll be moved up from 49 of ~7 billion to 31 of ~7 billion." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/deer_turrets.png">
+              <img src="https://imgs.xkcd.com/comics/deer_turrets.png" alt="When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!" style="height: auto;" />
             </a>
-            <p>You'll be moved up from 49 of ~7 billion to 31 of ~7 billion.</p>
-            <p><a href="https://explainxkcd.com/707/">Explanation</a></p>
+            <p>When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!</p>
+            <p><a href="https://explainxkcd.com/2350/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/707/</guid>
-      <pubDate>Fri, 26 Feb 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2350/</guid>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
