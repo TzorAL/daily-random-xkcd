@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 30 Oct 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[177] Alice and Bob</title>
-      <link>https://xkcd.com/177/</link>
+      <title>[2541] Occam</title>
+      <link>https://xkcd.com/2541/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/alice_and_bob.png">
-              <img src="https://imgs.xkcd.com/comics/alice_and_bob.png" alt="Yet one more reason I'm barred from speaking at crypto conferences." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/occam.png">
+              <img src="https://imgs.xkcd.com/comics/occam.png" alt="Oh no, Murphy just picked up the razor." style="height: auto;" />
             </a>
-            <p>Yet one more reason I'm barred from speaking at crypto conferences.</p>
-            <p><a href="https://explainxkcd.com/177/">Explanation</a></p>
+            <p>Oh no, Murphy just picked up the razor.</p>
+            <p><a href="https://explainxkcd.com/2541/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/177/</guid>
-      <pubDate>Mon, 30 Oct 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2541/</guid>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
