@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3020] Infinite Armada Chess</title>
-      <link>https://xkcd.com/3020/</link>
+      <title>[207] What xkcd Means</title>
+      <link>https://xkcd.com/207/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/infinite_armada_chess.png">
-              <img src="https://imgs.xkcd.com/comics/infinite_armada_chess.png" alt="Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/what_xkcd_means.png">
+              <img src="https://imgs.xkcd.com/comics/what_xkcd_means.png" alt="It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata." style="height: auto;" />
             </a>
-            <p>Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access</p>
-            <p><a href="https://explainxkcd.com/3020/">Explanation</a></p>
+            <p>It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.</p>
+            <p><a href="https://explainxkcd.com/207/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3020/</guid>
-      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/207/</guid>
+      <pubDate>Mon, 08 Jan 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
