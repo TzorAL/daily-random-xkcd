@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2583] Chorded Keyboard</title>
-      <link>https://xkcd.com/2583/</link>
+      <title>[23] T-shirts</title>
+      <link>https://xkcd.com/23/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/chorded_keyboard.png">
-              <img src="https://imgs.xkcd.com/comics/chorded_keyboard.png" alt="And even though it all went wrong / I'll stand before the lord of song / with nothing on my tongue but 'I don't understand, I swear I backed up my keyboard config before messing with it'" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/t-shirts.jpg">
+              <img src="https://imgs.xkcd.com/comics/t-shirts.jpg" alt="It's depressing how many of these are real shirts" style="height: auto;" />
             </a>
-            <p>And even though it all went wrong / I'll stand before the lord of song / with nothing on my tongue but 'I don't understand, I swear I backed up my keyboard config before messing with it'</p>
-            <p><a href="https://explainxkcd.com/2583/">Explanation</a></p>
+            <p>It's depressing how many of these are real shirts</p>
+            <p><a href="https://explainxkcd.com/23/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2583/</guid>
-      <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/23/</guid>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
