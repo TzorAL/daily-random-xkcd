@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jun 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2184] Unpopular Opinions</title>
-      <link>https://xkcd.com/2184/</link>
+      <title>[749] Study</title>
+      <link>https://xkcd.com/749/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/unpopular_opinions.png">
-              <img src="https://imgs.xkcd.com/comics/unpopular_opinions.png" alt="I wasn't a big fan of 3 or Salvation, so I'm trying to resist getting my hopes up too much for Dark Fate, but it's hard. I'm just a sucker for humans and robots traveling through time to try to drive trucks into each other, apparently." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/study.png">
+              <img src="https://imgs.xkcd.com/comics/study.png" alt="Volunteers needed for a study on transmission of urushiol from digital contact with thin strips of fibrous cellulose pulp." style="height: auto;" />
             </a>
-            <p>I wasn't a big fan of 3 or Salvation, so I'm trying to resist getting my hopes up too much for Dark Fate, but it's hard. I'm just a sucker for humans and robots traveling through time to try to drive trucks into each other, apparently.</p>
-            <p><a href="https://explainxkcd.com/2184/">Explanation</a></p>
+            <p>Volunteers needed for a study on transmission of urushiol from digital contact with thin strips of fibrous cellulose pulp.</p>
+            <p><a href="https://explainxkcd.com/749/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2184/</guid>
-      <pubDate>Fri, 02 Aug 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/749/</guid>
+      <pubDate>Fri, 04 Jun 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
