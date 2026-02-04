@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1793] Soda Sugar Comparisons</title>
-      <link>https://xkcd.com/1793/</link>
+      <title>[2119] Video Orientation</title>
+      <link>https://xkcd.com/2119/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/soda_sugar_comparisons.png">
-              <img src="https://imgs.xkcd.com/comics/soda_sugar_comparisons.png" alt="The key is portion control, which is why I've switched to eating smaller cans of frosting instead of full bottles." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/video_orientation.png">
+              <img src="https://imgs.xkcd.com/comics/video_orientation.png" alt="CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle." style="height: auto;" />
             </a>
-            <p>The key is portion control, which is why I've switched to eating smaller cans of frosting instead of full bottles.</p>
-            <p><a href="https://explainxkcd.com/1793/">Explanation</a></p>
+            <p>CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.</p>
+            <p><a href="https://explainxkcd.com/2119/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1793/</guid>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2119/</guid>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
