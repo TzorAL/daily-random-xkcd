@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Nov 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2119] Video Orientation</title>
-      <link>https://xkcd.com/2119/</link>
+      <title>[345] 1337: Part 5</title>
+      <link>https://xkcd.com/345/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/video_orientation.png">
-              <img src="https://imgs.xkcd.com/comics/video_orientation.png" alt="CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/1337_part_5.png">
+              <img src="https://imgs.xkcd.com/comics/1337_part_5.png" alt="This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times." style="height: auto;" />
             </a>
-            <p>CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.</p>
-            <p><a href="https://explainxkcd.com/2119/">Explanation</a></p>
+            <p>This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.</p>
+            <p><a href="https://explainxkcd.com/345/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2119/</guid>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/345/</guid>
+      <pubDate>Fri, 16 Nov 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
