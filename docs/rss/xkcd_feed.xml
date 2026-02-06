@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 16 Nov 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[345] 1337: Part 5</title>
-      <link>https://xkcd.com/345/</link>
+      <title>[2002] LeBron James and Stephen Curry</title>
+      <link>https://xkcd.com/2002/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/1337_part_5.png">
-              <img src="https://imgs.xkcd.com/comics/1337_part_5.png" alt="This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/lebron_james_and_stephen_curry.png">
+              <img src="https://imgs.xkcd.com/comics/lebron_james_and_stephen_curry.png" alt="The 538TR attempts to capture a player's combined skill at basketball (either real-life or NBA 2K18) and election forecasting." style="height: auto;" />
             </a>
-            <p>This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.</p>
-            <p><a href="https://explainxkcd.com/345/">Explanation</a></p>
+            <p>The 538TR attempts to capture a player's combined skill at basketball (either real-life or NBA 2K18) and election forecasting.</p>
+            <p><a href="https://explainxkcd.com/2002/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/345/</guid>
-      <pubDate>Fri, 16 Nov 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2002/</guid>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
