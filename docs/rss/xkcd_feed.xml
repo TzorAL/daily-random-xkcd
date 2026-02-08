@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2906] Earth</title>
-      <link>https://xkcd.com/2906/</link>
+      <title>[2612] Lightsabers</title>
+      <link>https://xkcd.com/2612/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/earth.png">
-              <img src="https://imgs.xkcd.com/comics/earth.png" alt="Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/lightsabers.png">
+              <img src="https://imgs.xkcd.com/comics/lightsabers.png" alt="A lot of Jedi romances start with this turning into a Lady and the Tramp spaghetti situation." style="height: auto;" />
             </a>
-            <p>Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing.</p>
-            <p><a href="https://explainxkcd.com/2906/">Explanation</a></p>
+            <p>A lot of Jedi romances start with this turning into a Lady and the Tramp spaghetti situation.</p>
+            <p><a href="https://explainxkcd.com/2612/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2906/</guid>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2612/</guid>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
