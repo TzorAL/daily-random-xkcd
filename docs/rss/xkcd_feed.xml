@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2612] Lightsabers</title>
-      <link>https://xkcd.com/2612/</link>
+      <title>[2959] Beam of Light</title>
+      <link>https://xkcd.com/2959/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/lightsabers.png">
-              <img src="https://imgs.xkcd.com/comics/lightsabers.png" alt="A lot of Jedi romances start with this turning into a Lady and the Tramp spaghetti situation." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/beam_of_light.png">
+              <img src="https://imgs.xkcd.com/comics/beam_of_light.png" alt="Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."" style="height: auto;" />
             </a>
-            <p>A lot of Jedi romances start with this turning into a Lady and the Tramp spaghetti situation.</p>
-            <p><a href="https://explainxkcd.com/2612/">Explanation</a></p>
+            <p>Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."</p>
+            <p><a href="https://explainxkcd.com/2959/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2612/</guid>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2959/</guid>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
