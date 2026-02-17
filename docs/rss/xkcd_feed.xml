@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2268] Further Research is Needed</title>
-      <link>https://xkcd.com/2268/</link>
+      <title>[3158] Shielding Chart</title>
+      <link>https://xkcd.com/3158/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/further_research_is_needed.png">
-              <img src="https://imgs.xkcd.com/comics/further_research_is_needed.png" alt="Further research is needed to fully understand how we managed to do such a good job." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/shielding_chart.png">
+              <img src="https://imgs.xkcd.com/comics/shielding_chart.png" alt="Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high." style="height: auto;" />
             </a>
-            <p>Further research is needed to fully understand how we managed to do such a good job.</p>
-            <p><a href="https://explainxkcd.com/2268/">Explanation</a></p>
+            <p>Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.</p>
+            <p><a href="https://explainxkcd.com/3158/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2268/</guid>
-      <pubDate>Fri, 14 Feb 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3158/</guid>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
