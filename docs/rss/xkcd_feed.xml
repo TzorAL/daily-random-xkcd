@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3158] Shielding Chart</title>
-      <link>https://xkcd.com/3158/</link>
+      <title>[617] Understocked</title>
+      <link>https://xkcd.com/617/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/shielding_chart.png">
-              <img src="https://imgs.xkcd.com/comics/shielding_chart.png" alt="Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/understocked.png">
+              <img src="https://imgs.xkcd.com/comics/understocked.png" alt="My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'." style="height: auto;" />
             </a>
-            <p>Sharks can occasionally travel short distances through air when pursuing prey, but their attenuation coefficient is pretty high.</p>
-            <p><a href="https://explainxkcd.com/3158/">Explanation</a></p>
+            <p>My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'.</p>
+            <p><a href="https://explainxkcd.com/617/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3158/</guid>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/617/</guid>
+      <pubDate>Fri, 31 Jul 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
