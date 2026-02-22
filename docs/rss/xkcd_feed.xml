@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 05 Feb 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Mar 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[698] You Hang Up First</title>
-      <link>https://xkcd.com/698/</link>
+      <title>[82] Frame</title>
+      <link>https://xkcd.com/82/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/you_hang_up_first.png">
-              <img src="https://imgs.xkcd.com/comics/you_hang_up_first.png" alt="No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/frame.jpg">
+              <img src="https://imgs.xkcd.com/comics/frame.jpg" alt="..." style="height: auto;" />
             </a>
-            <p>No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.</p>
-            <p><a href="https://explainxkcd.com/698/">Explanation</a></p>
+            <p>...</p>
+            <p><a href="https://explainxkcd.com/82/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/698/</guid>
-      <pubDate>Fri, 05 Feb 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/82/</guid>
+      <pubDate>Wed, 29 Mar 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
