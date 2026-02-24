@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 24 Feb 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1334] Second</title>
-      <link>https://xkcd.com/1334/</link>
+      <title>[1507] Metaball</title>
+      <link>https://xkcd.com/1507/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/second.png">
-              <img src="https://imgs.xkcd.com/comics/second.png" alt="Let me just scroll down and check behind that rock. Annnnd ... nope, page copyright year starts with '19'. Oh God, is this a WEBRING?" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/metaball.png">
+              <img src="https://imgs.xkcd.com/comics/metaball.png" alt="Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!" style="height: auto;" />
             </a>
-            <p>Let me just scroll down and check behind that rock. Annnnd ... nope, page copyright year starts with '19'. Oh God, is this a WEBRING?</p>
-            <p><a href="https://explainxkcd.com/1334/">Explanation</a></p>
+            <p>Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!</p>
+            <p><a href="https://explainxkcd.com/1507/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1334/</guid>
-      <pubDate>Mon, 24 Feb 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1507/</guid>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
