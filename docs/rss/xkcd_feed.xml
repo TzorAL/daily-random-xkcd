@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 03 Apr 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1507] Metaball</title>
-      <link>https://xkcd.com/1507/</link>
+      <title>[2238] Flu Shot</title>
+      <link>https://xkcd.com/2238/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/metaball.png">
-              <img src="https://imgs.xkcd.com/comics/metaball.png" alt="Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/flu_shot.png">
+              <img src="https://imgs.xkcd.com/comics/flu_shot.png" alt=""Wait, how often are you getting bitten by snakes? And why are you boiling water?" "Dunno, the CDC people keep showing up with complicated questions about the 'history of the property' and 'possible curses' but I kinda tune them out. At least one of them offered me the flu shot."" style="height: auto;" />
             </a>
-            <p>Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!</p>
-            <p><a href="https://explainxkcd.com/1507/">Explanation</a></p>
+            <p>"Wait, how often are you getting bitten by snakes? And why are you boiling water?" "Dunno, the CDC people keep showing up with complicated questions about the 'history of the property' and 'possible curses' but I kinda tune them out. At least one of them offered me the flu shot."</p>
+            <p><a href="https://explainxkcd.com/2238/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1507/</guid>
-      <pubDate>Fri, 03 Apr 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2238/</guid>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
