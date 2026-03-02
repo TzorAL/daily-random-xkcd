@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3137] Cursed Number</title>
-      <link>https://xkcd.com/3137/</link>
+      <title>[1900] Jet Lag</title>
+      <link>https://xkcd.com/1900/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/cursed_number.png">
-              <img src="https://imgs.xkcd.com/comics/cursed_number.png" alt="Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/jet_lag.png">
+              <img src="https://imgs.xkcd.com/comics/jet_lag.png" alt="I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."" style="height: auto;" />
             </a>
-            <p>Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.</p>
-            <p><a href="https://explainxkcd.com/3137/">Explanation</a></p>
+            <p>I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."</p>
+            <p><a href="https://explainxkcd.com/1900/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3137/</guid>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1900/</guid>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
