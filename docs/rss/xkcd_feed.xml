@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 12 Feb 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1954] Impostor Syndrome</title>
-      <link>https://xkcd.com/1954/</link>
+      <title>[1955] Robots</title>
+      <link>https://xkcd.com/1955/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/impostor_syndrome.png">
-              <img src="https://imgs.xkcd.com/comics/impostor_syndrome.png" alt="It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/robots.png">
+              <img src="https://imgs.xkcd.com/comics/robots.png" alt="Don't be nervous about the robots, be nervous about the people with the resources to build them." style="height: auto;" />
             </a>
-            <p>It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads.</p>
-            <p><a href="https://explainxkcd.com/1954/">Explanation</a></p>
+            <p>Don't be nervous about the robots, be nervous about the people with the resources to build them.</p>
+            <p><a href="https://explainxkcd.com/1955/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1954/</guid>
-      <pubDate>Mon, 12 Feb 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1955/</guid>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
