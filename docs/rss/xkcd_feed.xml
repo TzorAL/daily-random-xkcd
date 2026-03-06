@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 14 Feb 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1955] Robots</title>
-      <link>https://xkcd.com/1955/</link>
+      <title>[2226] Recombination And Reionization</title>
+      <link>https://xkcd.com/2226/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/robots.png">
-              <img src="https://imgs.xkcd.com/comics/robots.png" alt="Don't be nervous about the robots, be nervous about the people with the resources to build them." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/recombination_and_reionization.png">
+              <img src="https://imgs.xkcd.com/comics/recombination_and_reionization.png" alt="These signals seem to be pre-star-formation but post-Malone." style="height: auto;" />
             </a>
-            <p>Don't be nervous about the robots, be nervous about the people with the resources to build them.</p>
-            <p><a href="https://explainxkcd.com/1955/">Explanation</a></p>
+            <p>These signals seem to be pre-star-formation but post-Malone.</p>
+            <p><a href="https://explainxkcd.com/2226/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1955/</guid>
-      <pubDate>Wed, 14 Feb 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2226/</guid>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
