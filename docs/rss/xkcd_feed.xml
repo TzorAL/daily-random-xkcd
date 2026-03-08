@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3166] Big and Little Spoons</title>
-      <link>https://xkcd.com/3166/</link>
+      <title>[981] Porn Folder</title>
+      <link>https://xkcd.com/981/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/big_and_little_spoons.png">
-              <img src="https://imgs.xkcd.com/comics/big_and_little_spoons.png" alt="Are you the annoying spoon or the sleepy spoon?" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/porn_folder.png">
+              <img src="https://imgs.xkcd.com/comics/porn_folder.png" alt="Eww, gross, you modified link()? How could you enjoy abusing a filesystem like that?" style="height: auto;" />
             </a>
-            <p>Are you the annoying spoon or the sleepy spoon?</p>
-            <p><a href="https://explainxkcd.com/3166/">Explanation</a></p>
+            <p>Eww, gross, you modified link()? How could you enjoy abusing a filesystem like that?</p>
+            <p><a href="https://explainxkcd.com/981/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3166/</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/981/</guid>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
