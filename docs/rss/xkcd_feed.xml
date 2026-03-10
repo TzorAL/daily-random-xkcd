@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 25 May 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1685] Patch</title>
-      <link>https://xkcd.com/1685/</link>
+      <title>[491] Twitter</title>
+      <link>https://xkcd.com/491/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/patch.png">
-              <img src="https://imgs.xkcd.com/comics/patch.png" alt="My optimizer uses content-aware inpainting to fill in all the wasted whitespace in the code, repeating the process until it compiles." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/twitter.png">
+              <img src="https://imgs.xkcd.com/comics/twitter.png" alt="If long tooltips / cut off for you / then upgrade from / Firefox 2 / Burma Shave" style="height: auto;" />
             </a>
-            <p>My optimizer uses content-aware inpainting to fill in all the wasted whitespace in the code, repeating the process until it compiles.</p>
-            <p><a href="https://explainxkcd.com/1685/">Explanation</a></p>
+            <p>If long tooltips / cut off for you / then upgrade from / Firefox 2 / Burma Shave</p>
+            <p><a href="https://explainxkcd.com/491/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1685/</guid>
-      <pubDate>Wed, 25 May 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/491/</guid>
+      <pubDate>Mon, 20 Oct 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
