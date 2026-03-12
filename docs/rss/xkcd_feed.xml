@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 21 Oct 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[652] More Accurate</title>
-      <link>https://xkcd.com/652/</link>
+      <title>[1395] Power Cord</title>
+      <link>https://xkcd.com/1395/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/more_accurate.png">
-              <img src="https://imgs.xkcd.com/comics/more_accurate.png" alt="We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/power_cord.png">
+              <img src="https://imgs.xkcd.com/comics/power_cord.png" alt="In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do." style="height: auto;" />
             </a>
-            <p>We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.</p>
-            <p><a href="https://explainxkcd.com/652/">Explanation</a></p>
+            <p>In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.</p>
+            <p><a href="https://explainxkcd.com/1395/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/652/</guid>
-      <pubDate>Wed, 21 Oct 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1395/</guid>
+      <pubDate>Wed, 16 Jul 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
