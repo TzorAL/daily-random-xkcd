@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2634] Red Line Through HTTPS</title>
-      <link>https://xkcd.com/2634/</link>
+      <title>[2109] Invisible Formatting</title>
+      <link>https://xkcd.com/2109/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/red_line_through_https.png">
-              <img src="https://imgs.xkcd.com/comics/red_line_through_https.png" alt="Some organization has been paying to keep this up and it hasn't been removed from search results. Seems like two votes of confidence to me." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/invisible_formatting.png">
+              <img src="https://imgs.xkcd.com/comics/invisible_formatting.png" alt="To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs." style="height: auto;" />
             </a>
-            <p>Some organization has been paying to keep this up and it hasn't been removed from search results. Seems like two votes of confidence to me.</p>
-            <p><a href="https://explainxkcd.com/2634/">Explanation</a></p>
+            <p>To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.</p>
+            <p><a href="https://explainxkcd.com/2109/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2634/</guid>
-      <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2109/</guid>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
