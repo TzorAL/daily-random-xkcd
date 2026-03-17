@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 26 Apr 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[732] HDTV</title>
-      <link>https://xkcd.com/732/</link>
+      <title>[1311] 2014</title>
+      <link>https://xkcd.com/1311/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/hdtv.png">
-              <img src="https://imgs.xkcd.com/comics/hdtv.png" alt="We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/2014.png">
+              <img src="https://imgs.xkcd.com/comics/2014.png" alt="Some future reader, who may see the term, without knowing the history of it, may imagine that it had reference to some antiquated bridge of the immortal Poet, thrown across the silver Avon, to facilitate his escape after some marauding excursion in a neighbouring park; and in some Gentleman's Magazine of the next century, it is not impossible, but that future antiquaries may occupy page after page in discussing so interesting a matter. We think it right, therefore, to put it on record in the Oriental Herald that the 'Shakesperian Rope Bridges' are of much less classic origin; that Mr Colin Shakespear, who, besides his dignity as Postmaster, now signs himself 'Superintendent General of Shakesperian Rope Bridges', is a person of much less genius than the Bard of Avon. --The Oriental Herald, 1825" style="height: auto;" />
             </a>
-            <p>We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.</p>
-            <p><a href="https://explainxkcd.com/732/">Explanation</a></p>
+            <p>Some future reader, who may see the term, without knowing the history of it, may imagine that it had reference to some antiquated bridge of the immortal Poet, thrown across the silver Avon, to facilitate his escape after some marauding excursion in a neighbouring park; and in some Gentleman's Magazine of the next century, it is not impossible, but that future antiquaries may occupy page after page in discussing so interesting a matter. We think it right, therefore, to put it on record in the Oriental Herald that the 'Shakesperian Rope Bridges' are of much less classic origin; that Mr Colin Shakespear, who, besides his dignity as Postmaster, now signs himself 'Superintendent General of Shakesperian Rope Bridges', is a person of much less genius than the Bard of Avon. --The Oriental Herald, 1825</p>
+            <p><a href="https://explainxkcd.com/1311/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/732/</guid>
-      <pubDate>Mon, 26 Apr 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1311/</guid>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
