@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2073] Kilogram</title>
-      <link>https://xkcd.com/2073/</link>
+      <title>[1903] Bun Trend</title>
+      <link>https://xkcd.com/1903/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/kilogram.png">
-              <img src="https://imgs.xkcd.com/comics/kilogram.png" alt="I'm glad to hear they're finally redefining the meter to be exactly three feet." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/bun_trend.png">
+              <img src="https://imgs.xkcd.com/comics/bun_trend.png" alt="Our experts have characterized the ecological impact of this trend as "adorable."" style="height: auto;" />
             </a>
-            <p>I'm glad to hear they're finally redefining the meter to be exactly three feet.</p>
-            <p><a href="https://explainxkcd.com/2073/">Explanation</a></p>
+            <p>Our experts have characterized the ecological impact of this trend as "adorable."</p>
+            <p><a href="https://explainxkcd.com/1903/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2073/</guid>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1903/</guid>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
