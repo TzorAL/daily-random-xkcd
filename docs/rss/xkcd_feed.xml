@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 01 Jun 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1532] New Horizons</title>
-      <link>https://xkcd.com/1532/</link>
+      <title>[1828] ISS Solar Transit</title>
+      <link>https://xkcd.com/1828/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/new_horizons.png">
-              <img src="https://imgs.xkcd.com/comics/new_horizons.png" alt="Last-minute course change: Let's see if we can hit Steve's house." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/iss_solar_transit.png">
+              <img src="https://imgs.xkcd.com/comics/iss_solar_transit.png" alt="I guess it's also the right setting for pictures of the Moon at night." style="height: auto;" />
             </a>
-            <p>Last-minute course change: Let's see if we can hit Steve's house.</p>
-            <p><a href="https://explainxkcd.com/1532/">Explanation</a></p>
+            <p>I guess it's also the right setting for pictures of the Moon at night.</p>
+            <p><a href="https://explainxkcd.com/1828/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1532/</guid>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1828/</guid>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
