@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 31 Jan 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1324] Weather</title>
-      <link>https://xkcd.com/1324/</link>
+      <title>[223] Valentine's Day</title>
+      <link>https://xkcd.com/223/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/weather.png">
-              <img src="https://imgs.xkcd.com/comics/weather.png" alt="At least if you're really into, like, Turkish archaeology, store clerks aren't like 'hey, how 'bout those Derinkuyu underground cities!' when they're trying to be polite." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/valentines_day.jpg">
+              <img src="https://imgs.xkcd.com/comics/valentines_day.jpg" alt="One of these days me and Joey Comeau will get around to subverting the hetero-normative paradigm and fixing all this." style="height: auto;" />
             </a>
-            <p>At least if you're really into, like, Turkish archaeology, store clerks aren't like 'hey, how 'bout those Derinkuyu underground cities!' when they're trying to be polite.</p>
-            <p><a href="https://explainxkcd.com/1324/">Explanation</a></p>
+            <p>One of these days me and Joey Comeau will get around to subverting the hetero-normative paradigm and fixing all this.</p>
+            <p><a href="https://explainxkcd.com/223/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1324/</guid>
-      <pubDate>Fri, 31 Jan 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/223/</guid>
+      <pubDate>Wed, 14 Feb 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
