@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 14 Feb 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[223] Valentine's Day</title>
-      <link>https://xkcd.com/223/</link>
+      <title>[2493] Dual USB-C</title>
+      <link>https://xkcd.com/2493/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/valentines_day.jpg">
-              <img src="https://imgs.xkcd.com/comics/valentines_day.jpg" alt="One of these days me and Joey Comeau will get around to subverting the hetero-normative paradigm and fixing all this." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/dual_usb_c.png">
+              <img src="https://imgs.xkcd.com/comics/dual_usb_c.png" alt="Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground." style="height: auto;" />
             </a>
-            <p>One of these days me and Joey Comeau will get around to subverting the hetero-normative paradigm and fixing all this.</p>
-            <p><a href="https://explainxkcd.com/223/">Explanation</a></p>
+            <p>Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.</p>
+            <p><a href="https://explainxkcd.com/2493/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/223/</guid>
-      <pubDate>Wed, 14 Feb 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2493/</guid>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
