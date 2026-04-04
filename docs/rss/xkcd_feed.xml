@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 25 Mar 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[560] Lithium Batteries</title>
-      <link>https://xkcd.com/560/</link>
+      <title>[2892] Banana Prices</title>
+      <link>https://xkcd.com/2892/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/lithium_batteries.png">
-              <img src="https://imgs.xkcd.com/comics/lithium_batteries.png" alt="I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/banana_prices.png">
+              <img src="https://imgs.xkcd.com/comics/banana_prices.png" alt="It's a linear extrapolation, Michael. How big could the error be? 10%?" style="height: auto;" />
             </a>
-            <p>I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.</p>
-            <p><a href="https://explainxkcd.com/560/">Explanation</a></p>
+            <p>It's a linear extrapolation, Michael. How big could the error be? 10%?</p>
+            <p><a href="https://explainxkcd.com/2892/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/560/</guid>
-      <pubDate>Wed, 25 Mar 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2892/</guid>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
