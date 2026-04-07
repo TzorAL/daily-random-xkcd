@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 26 Nov 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[509] Induced Current</title>
-      <link>https://xkcd.com/509/</link>
+      <title>[2761] 1-to-1 Scale</title>
+      <link>https://xkcd.com/2761/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/induced_current.png">
-              <img src="https://imgs.xkcd.com/comics/induced_current.png" alt="The MythBusters need to tackle whether a black hole from the LHC could REALLY destroy the world." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/1_to_1_scale.png">
+              <img src="https://imgs.xkcd.com/comics/1_to_1_scale.png" alt="There's a version that shows the planets with no cropping, but it's hard to find a display that supports it." style="height: auto;" />
             </a>
-            <p>The MythBusters need to tackle whether a black hole from the LHC could REALLY destroy the world.</p>
-            <p><a href="https://explainxkcd.com/509/">Explanation</a></p>
+            <p>There's a version that shows the planets with no cropping, but it's hard to find a display that supports it.</p>
+            <p><a href="https://explainxkcd.com/2761/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/509/</guid>
-      <pubDate>Wed, 26 Nov 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2761/</guid>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
