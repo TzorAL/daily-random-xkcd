@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 10 Jul 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1549] xkcd Phone 3</title>
-      <link>https://xkcd.com/1549/</link>
+      <title>[878] Model Rail</title>
+      <link>https://xkcd.com/878/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/xkcd_phone_3.png">
-              <img src="https://imgs.xkcd.com/comics/xkcd_phone_3.png" alt="If you're not completely satisfied with the phone after 30 days, we will return you to your home at no cost." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/model_rail.png">
+              <img src="https://imgs.xkcd.com/comics/model_rail.png" alt="I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue." style="height: auto;" />
             </a>
-            <p>If you're not completely satisfied with the phone after 30 days, we will return you to your home at no cost.</p>
-            <p><a href="https://explainxkcd.com/1549/">Explanation</a></p>
+            <p>I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.</p>
+            <p><a href="https://explainxkcd.com/878/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1549/</guid>
-      <pubDate>Fri, 10 Jul 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/878/</guid>
+      <pubDate>Mon, 28 Mar 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
