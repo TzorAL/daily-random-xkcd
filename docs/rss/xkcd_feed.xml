@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 28 Mar 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[878] Model Rail</title>
-      <link>https://xkcd.com/878/</link>
+      <title>[688] Self-Description</title>
+      <link>https://xkcd.com/688/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/model_rail.png">
-              <img src="https://imgs.xkcd.com/comics/model_rail.png" alt="I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/self_description.png">
+              <img src="https://imgs.xkcd.com/comics/self_description.png" alt="The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters." style="height: auto;" />
             </a>
-            <p>I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.</p>
-            <p><a href="https://explainxkcd.com/878/">Explanation</a></p>
+            <p>The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.</p>
+            <p><a href="https://explainxkcd.com/688/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/878/</guid>
-      <pubDate>Mon, 28 Mar 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/688/</guid>
+      <pubDate>Wed, 13 Jan 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
