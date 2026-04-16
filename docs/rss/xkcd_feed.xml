@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 28 Jan 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[536] Space Elevators</title>
-      <link>https://xkcd.com/536/</link>
+      <title>[1576] I Could Care Less</title>
+      <link>https://xkcd.com/1576/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/space_elevators.png">
-              <img src="https://imgs.xkcd.com/comics/space_elevators.png" alt="If you think space elevators are good, but just too boring and practical, check out the 'space fountain'." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/i_could_care_less.png">
+              <img src="https://imgs.xkcd.com/comics/i_could_care_less.png" alt="I literally could care less." style="height: auto;" />
             </a>
-            <p>If you think space elevators are good, but just too boring and practical, check out the 'space fountain'.</p>
-            <p><a href="https://explainxkcd.com/536/">Explanation</a></p>
+            <p>I literally could care less.</p>
+            <p><a href="https://explainxkcd.com/1576/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/536/</guid>
-      <pubDate>Wed, 28 Jan 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1576/</guid>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
