@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 24 Jan 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1321] Cold</title>
-      <link>https://xkcd.com/1321/</link>
+      <title>[1518] Typical Morning Routine</title>
+      <link>https://xkcd.com/1518/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/cold.png">
-              <img src="https://imgs.xkcd.com/comics/cold.png" alt="'You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/typical_morning_routine.png">
+              <img src="https://imgs.xkcd.com/comics/typical_morning_routine.png" alt="Hang on, I've heard this problem. We need to pour water into the duct until the phone floats up and ... wait, phones sink in water. Mercury. We need a vat of mercury to pour down the vent. That will definitely make this situation better and not worse." style="height: auto;" />
             </a>
-            <p>'You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'</p>
-            <p><a href="https://explainxkcd.com/1321/">Explanation</a></p>
+            <p>Hang on, I've heard this problem. We need to pour water into the duct until the phone floats up and ... wait, phones sink in water. Mercury. We need a vat of mercury to pour down the vent. That will definitely make this situation better and not worse.</p>
+            <p><a href="https://explainxkcd.com/1518/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1321/</guid>
-      <pubDate>Fri, 24 Jan 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1518/</guid>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
