@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 04 May 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Nov 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[577] The Race: Part 1</title>
-      <link>https://xkcd.com/577/</link>
+      <title>[975] Occulting Telescope</title>
+      <link>https://xkcd.com/975/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/the_race_part_1.png">
-              <img src="https://imgs.xkcd.com/comics/the_race_part_1.png" alt="Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/occulting_telescope.png">
+              <img src="https://imgs.xkcd.com/comics/occulting_telescope.png" alt="Type II Kardashev civilizations eventually completely enclose their planetary system in a Dyson sphere because space is way too big to look at all the time." style="height: auto;" />
             </a>
-            <p>Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.</p>
-            <p><a href="https://explainxkcd.com/577/">Explanation</a></p>
+            <p>Type II Kardashev civilizations eventually completely enclose their planetary system in a Dyson sphere because space is way too big to look at all the time.</p>
+            <p><a href="https://explainxkcd.com/975/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/577/</guid>
-      <pubDate>Mon, 04 May 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/975/</guid>
+      <pubDate>Wed, 09 Nov 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
