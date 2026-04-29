@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 01 May 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Nov 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1831] Here to Help</title>
-      <link>https://xkcd.com/1831/</link>
+      <title>[1138] Heatmap</title>
+      <link>https://xkcd.com/1138/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/here_to_help.png">
-              <img src="https://imgs.xkcd.com/comics/here_to_help.png" alt=""We TOLD you it was hard." "Yeah, but now that I'VE tried, we KNOW it's hard."" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/heatmap.png">
+              <img src="https://imgs.xkcd.com/comics/heatmap.png" alt="There are also a lot of global versions of this map showing traffic to English-language websites which are indistinguishable from maps of the location of internet users who are native English speakers." style="height: auto;" />
             </a>
-            <p>"We TOLD you it was hard." "Yeah, but now that I'VE tried, we KNOW it's hard."</p>
-            <p><a href="https://explainxkcd.com/1831/">Explanation</a></p>
+            <p>There are also a lot of global versions of this map showing traffic to English-language websites which are indistinguishable from maps of the location of internet users who are native English speakers.</p>
+            <p><a href="https://explainxkcd.com/1138/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1831/</guid>
-      <pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1138/</guid>
+      <pubDate>Fri, 23 Nov 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
