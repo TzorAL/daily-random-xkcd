@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 23 Nov 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1138] Heatmap</title>
-      <link>https://xkcd.com/1138/</link>
+      <title>[2325] Endorheic Basin</title>
+      <link>https://xkcd.com/2325/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/heatmap.png">
-              <img src="https://imgs.xkcd.com/comics/heatmap.png" alt="There are also a lot of global versions of this map showing traffic to English-language websites which are indistinguishable from maps of the location of internet users who are native English speakers." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/endorheic_basin.png">
+              <img src="https://imgs.xkcd.com/comics/endorheic_basin.png" alt="My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones." style="height: auto;" />
             </a>
-            <p>There are also a lot of global versions of this map showing traffic to English-language websites which are indistinguishable from maps of the location of internet users who are native English speakers.</p>
-            <p><a href="https://explainxkcd.com/1138/">Explanation</a></p>
+            <p>My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones.</p>
+            <p><a href="https://explainxkcd.com/2325/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1138/</guid>
-      <pubDate>Fri, 23 Nov 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2325/</guid>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
