@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 26 Jun 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2325] Endorheic Basin</title>
-      <link>https://xkcd.com/2325/</link>
+      <title>[2628] Motion Blur</title>
+      <link>https://xkcd.com/2628/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/endorheic_basin.png">
-              <img src="https://imgs.xkcd.com/comics/endorheic_basin.png" alt="My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/motion_blur.png">
+              <img src="https://imgs.xkcd.com/comics/motion_blur.png" alt="I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed." style="height: auto;" />
             </a>
-            <p>My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones.</p>
-            <p><a href="https://explainxkcd.com/2325/">Explanation</a></p>
+            <p>I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.</p>
+            <p><a href="https://explainxkcd.com/2628/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2325/</guid>
-      <pubDate>Fri, 26 Jun 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2628/</guid>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
