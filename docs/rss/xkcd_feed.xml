@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2161] An Apple a Day</title>
-      <link>https://xkcd.com/2161/</link>
+      <title>[160] Penny Arcade Parody</title>
+      <link>https://xkcd.com/160/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/an_apple_a_day.png">
-              <img src="https://imgs.xkcd.com/comics/an_apple_a_day.png" alt="Even the powerful, tart Granny Smith cultivar is proving ineffective against new Gran-negative doctors." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/penny_arcade_parody.png">
+              <img src="https://imgs.xkcd.com/comics/penny_arcade_parody.png" alt="No one show this to Tycho's wife, okay?" style="height: auto;" />
             </a>
-            <p>Even the powerful, tart Granny Smith cultivar is proving ineffective against new Gran-negative doctors.</p>
-            <p><a href="https://explainxkcd.com/2161/">Explanation</a></p>
+            <p>No one show this to Tycho's wife, okay?</p>
+            <p><a href="https://explainxkcd.com/160/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2161/</guid>
-      <pubDate>Mon, 10 Jun 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/160/</guid>
+      <pubDate>Wed, 20 Sep 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
