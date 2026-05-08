@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 02 Nov 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[657] Movie Narrative Charts</title>
-      <link>https://xkcd.com/657/</link>
+      <title>[1317] Theft</title>
+      <link>https://xkcd.com/1317/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/movie_narrative_charts.png">
-              <img src="https://imgs.xkcd.com/comics/movie_narrative_charts.png" alt="In the LotR map, up and down correspond LOOSELY to northwest and southeast respectively." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/theft.png">
+              <img src="https://imgs.xkcd.com/comics/theft.png" alt="Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?" style="height: auto;" />
             </a>
-            <p>In the LotR map, up and down correspond LOOSELY to northwest and southeast respectively.</p>
-            <p><a href="https://explainxkcd.com/657/">Explanation</a></p>
+            <p>Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?</p>
+            <p><a href="https://explainxkcd.com/1317/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/657/</guid>
-      <pubDate>Mon, 02 Nov 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1317/</guid>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
