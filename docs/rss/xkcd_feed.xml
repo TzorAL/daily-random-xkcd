@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 15 Jan 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jun 2007 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1317] Theft</title>
-      <link>https://xkcd.com/1317/</link>
+      <title>[274] With Apologies to The Who</title>
+      <link>https://xkcd.com/274/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/theft.png">
-              <img src="https://imgs.xkcd.com/comics/theft.png" alt="Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/with_apologies_to_the_who.png">
+              <img src="https://imgs.xkcd.com/comics/with_apologies_to_the_who.png" alt="Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit." style="height: auto;" />
             </a>
-            <p>Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?</p>
-            <p><a href="https://explainxkcd.com/1317/">Explanation</a></p>
+            <p>Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.</p>
+            <p><a href="https://explainxkcd.com/274/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1317/</guid>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/274/</guid>
+      <pubDate>Fri, 08 Jun 2007 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
