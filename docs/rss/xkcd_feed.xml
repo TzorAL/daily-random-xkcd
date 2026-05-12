@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 09 Jul 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1079] United Shapes</title>
-      <link>https://xkcd.com/1079/</link>
+      <title>[1514] PermaCal</title>
+      <link>https://xkcd.com/1514/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/united_shapes.png">
-              <img src="https://imgs.xkcd.com/comics/united_shapes.png" alt="That eggplant is in something of a flaccid state." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/permacal.png">
+              <img src="https://imgs.xkcd.com/comics/permacal.png" alt="The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet." style="height: auto;" />
             </a>
-            <p>That eggplant is in something of a flaccid state.</p>
-            <p><a href="https://explainxkcd.com/1079/">Explanation</a></p>
+            <p>The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.</p>
+            <p><a href="https://explainxkcd.com/1514/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1079/</guid>
-      <pubDate>Mon, 09 Jul 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1514/</guid>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
