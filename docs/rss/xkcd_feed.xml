@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3032] Skew-T Log-P</title>
-      <link>https://xkcd.com/3032/</link>
+      <title>[128] dPain over dt</title>
+      <link>https://xkcd.com/128/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/skew_t_log_p.png">
-              <img src="https://imgs.xkcd.com/comics/skew_t_log_p.png" alt="The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though 'how nice the weather is' is a close second." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/dPain_over_dt.png">
+              <img src="https://imgs.xkcd.com/comics/dPain_over_dt.png" alt="You laugh to keep from crying, you do math to keep from crying . . ." style="height: auto;" />
             </a>
-            <p>The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though 'how nice the weather is' is a close second.</p>
-            <p><a href="https://explainxkcd.com/3032/">Explanation</a></p>
+            <p>You laugh to keep from crying, you do math to keep from crying . . .</p>
+            <p><a href="https://explainxkcd.com/128/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3032/</guid>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/128/</guid>
+      <pubDate>Fri, 14 Jul 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
