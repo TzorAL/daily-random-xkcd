@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 14 Jul 2006 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[128] dPain over dt</title>
-      <link>https://xkcd.com/128/</link>
+      <title>[1875] Computers vs Humans</title>
+      <link>https://xkcd.com/1875/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/dPain_over_dt.png">
-              <img src="https://imgs.xkcd.com/comics/dPain_over_dt.png" alt="You laugh to keep from crying, you do math to keep from crying . . ." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/computers_vs_humans.png">
+              <img src="https://imgs.xkcd.com/comics/computers_vs_humans.png" alt="It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic." style="height: auto;" />
             </a>
-            <p>You laugh to keep from crying, you do math to keep from crying . . .</p>
-            <p><a href="https://explainxkcd.com/128/">Explanation</a></p>
+            <p>It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.</p>
+            <p><a href="https://explainxkcd.com/1875/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/128/</guid>
-      <pubDate>Fri, 14 Jul 2006 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1875/</guid>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
