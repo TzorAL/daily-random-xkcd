@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1875] Computers vs Humans</title>
-      <link>https://xkcd.com/1875/</link>
+      <title>[1328] Update</title>
+      <link>https://xkcd.com/1328/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/computers_vs_humans.png">
-              <img src="https://imgs.xkcd.com/comics/computers_vs_humans.png" alt="It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/update.png">
+              <img src="https://imgs.xkcd.com/comics/update.png" alt="I have a bunch of things open right now." style="height: auto;" />
             </a>
-            <p>It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.</p>
-            <p><a href="https://explainxkcd.com/1875/">Explanation</a></p>
+            <p>I have a bunch of things open right now.</p>
+            <p><a href="https://explainxkcd.com/1328/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1875/</guid>
-      <pubDate>Fri, 11 Aug 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1328/</guid>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
