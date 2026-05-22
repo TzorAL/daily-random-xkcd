@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 28 Mar 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1973] Star Lore</title>
-      <link>https://xkcd.com/1973/</link>
+      <title>[515] No One Must Know</title>
+      <link>https://xkcd.com/515/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/star_lore.png">
-              <img src="https://imgs.xkcd.com/comics/star_lore.png" alt="That one is a variable star which pulses every 30 seconds. Its name comes from a Greek word meaning "smoke alarm."" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/no_one_must_know.png">
+              <img src="https://imgs.xkcd.com/comics/no_one_must_know.png" alt="Or perhaps they knew he was there, and were just trying to torment him first." style="height: auto;" />
             </a>
-            <p>That one is a variable star which pulses every 30 seconds. Its name comes from a Greek word meaning "smoke alarm."</p>
-            <p><a href="https://explainxkcd.com/1973/">Explanation</a></p>
+            <p>Or perhaps they knew he was there, and were just trying to torment him first.</p>
+            <p><a href="https://explainxkcd.com/515/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1973/</guid>
-      <pubDate>Wed, 28 Mar 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/515/</guid>
+      <pubDate>Wed, 10 Dec 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
