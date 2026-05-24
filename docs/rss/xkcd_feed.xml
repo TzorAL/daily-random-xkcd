@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 30 May 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2009 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1062] Budget News</title>
-      <link>https://xkcd.com/1062/</link>
+      <title>[601] Game Theory</title>
+      <link>https://xkcd.com/601/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/budget_news.png">
-              <img src="https://imgs.xkcd.com/comics/budget_news.png" alt="I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/game_theory.png">
+              <img src="https://imgs.xkcd.com/comics/game_theory.png" alt="Wait, no, that one also loses. How about a nice game of chess?" style="height: auto;" />
             </a>
-            <p>I will vote, no questions asked, for any candidate who describes themselves as 'more of a deficit sugar glider.'</p>
-            <p><a href="https://explainxkcd.com/1062/">Explanation</a></p>
+            <p>Wait, no, that one also loses. How about a nice game of chess?</p>
+            <p><a href="https://explainxkcd.com/601/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1062/</guid>
-      <pubDate>Wed, 30 May 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/601/</guid>
+      <pubDate>Wed, 24 Jun 2009 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
