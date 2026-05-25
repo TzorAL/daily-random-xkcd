@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 24 Jun 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[601] Game Theory</title>
-      <link>https://xkcd.com/601/</link>
+      <title>[1237] QR Code</title>
+      <link>https://xkcd.com/1237/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/game_theory.png">
-              <img src="https://imgs.xkcd.com/comics/game_theory.png" alt="Wait, no, that one also loses. How about a nice game of chess?" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/qr_code.png">
+              <img src="https://imgs.xkcd.com/comics/qr_code.png" alt="Remember, the installer is watching the camera for the checksum it generated, so you have to scan it using your own phone." style="height: auto;" />
             </a>
-            <p>Wait, no, that one also loses. How about a nice game of chess?</p>
-            <p><a href="https://explainxkcd.com/601/">Explanation</a></p>
+            <p>Remember, the installer is watching the camera for the checksum it generated, so you have to scan it using your own phone.</p>
+            <p><a href="https://explainxkcd.com/1237/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/601/</guid>
-      <pubDate>Wed, 24 Jun 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1237/</guid>
+      <pubDate>Fri, 12 Jul 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
