@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 12 Jul 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1237] QR Code</title>
-      <link>https://xkcd.com/1237/</link>
+      <title>[1539] Planning</title>
+      <link>https://xkcd.com/1539/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/qr_code.png">
-              <img src="https://imgs.xkcd.com/comics/qr_code.png" alt="Remember, the installer is watching the camera for the checksum it generated, so you have to scan it using your own phone." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/planning.png">
+              <img src="https://imgs.xkcd.com/comics/planning.png" alt="[10 years later] Man, why are people so comfortable handing Google and Facebook control over our nuclear weapons?" style="height: auto;" />
             </a>
-            <p>Remember, the installer is watching the camera for the checksum it generated, so you have to scan it using your own phone.</p>
-            <p><a href="https://explainxkcd.com/1237/">Explanation</a></p>
+            <p>[10 years later] Man, why are people so comfortable handing Google and Facebook control over our nuclear weapons?</p>
+            <p><a href="https://explainxkcd.com/1539/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1237/</guid>
-      <pubDate>Fri, 12 Jul 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1539/</guid>
+      <pubDate>Wed, 17 Jun 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
