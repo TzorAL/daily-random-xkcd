@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 17 Jun 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1539] Planning</title>
-      <link>https://xkcd.com/1539/</link>
+      <title>[2853] Redshift</title>
+      <link>https://xkcd.com/2853/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/planning.png">
-              <img src="https://imgs.xkcd.com/comics/planning.png" alt="[10 years later] Man, why are people so comfortable handing Google and Facebook control over our nuclear weapons?" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/redshift.png">
+              <img src="https://imgs.xkcd.com/comics/redshift.png" alt="So do you have any plans for z=-0.000000000000045?" style="height: auto;" />
             </a>
-            <p>[10 years later] Man, why are people so comfortable handing Google and Facebook control over our nuclear weapons?</p>
-            <p><a href="https://explainxkcd.com/1539/">Explanation</a></p>
+            <p>So do you have any plans for z=-0.000000000000045?</p>
+            <p><a href="https://explainxkcd.com/2853/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1539/</guid>
-      <pubDate>Wed, 17 Jun 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2853/</guid>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
