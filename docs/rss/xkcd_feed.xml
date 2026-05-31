@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 16 Mar 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1030] Keyed</title>
-      <link>https://xkcd.com/1030/</link>
+      <title>[1852] Election Map</title>
+      <link>https://xkcd.com/1852/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/keyed.png">
-              <img src="https://imgs.xkcd.com/comics/keyed.png" alt="I was sure he was just getting revenge, but then he did the same thing to Carrie Underwood. Then he mailed me a scone. I think I'm giving up dating." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/election_map.png">
+              <img src="https://imgs.xkcd.com/comics/election_map.png" alt="Luckily for my interpretation, no precincts were won by the Green Party." style="height: auto;" />
             </a>
-            <p>I was sure he was just getting revenge, but then he did the same thing to Carrie Underwood. Then he mailed me a scone. I think I'm giving up dating.</p>
-            <p><a href="https://explainxkcd.com/1030/">Explanation</a></p>
+            <p>Luckily for my interpretation, no precincts were won by the Green Party.</p>
+            <p><a href="https://explainxkcd.com/1852/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1030/</guid>
-      <pubDate>Fri, 16 Mar 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1852/</guid>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
