@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 19 Jun 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Sep 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1852] Election Map</title>
-      <link>https://xkcd.com/1852/</link>
+      <title>[1730] Starshade</title>
+      <link>https://xkcd.com/1730/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/election_map.png">
-              <img src="https://imgs.xkcd.com/comics/election_map.png" alt="Luckily for my interpretation, no precincts were won by the Green Party." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/starshade.png">
+              <img src="https://imgs.xkcd.com/comics/starshade.png" alt="The New Worlds Mission is already trying to get funding for this, but NASA sponsored their proposal, so it will be hard to catch the telescope people by surprise with it." style="height: auto;" />
             </a>
-            <p>Luckily for my interpretation, no precincts were won by the Green Party.</p>
-            <p><a href="https://explainxkcd.com/1852/">Explanation</a></p>
+            <p>The New Worlds Mission is already trying to get funding for this, but NASA sponsored their proposal, so it will be hard to catch the telescope people by surprise with it.</p>
+            <p><a href="https://explainxkcd.com/1730/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1852/</guid>
-      <pubDate>Mon, 19 Jun 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1730/</guid>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
