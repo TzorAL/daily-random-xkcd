@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 07 Sep 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1730] Starshade</title>
-      <link>https://xkcd.com/1730/</link>
+      <title>[1483] Quotative Like</title>
+      <link>https://xkcd.com/1483/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/starshade.png">
-              <img src="https://imgs.xkcd.com/comics/starshade.png" alt="The New Worlds Mission is already trying to get funding for this, but NASA sponsored their proposal, so it will be hard to catch the telescope people by surprise with it." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/quotative_like.png">
+              <img src="https://imgs.xkcd.com/comics/quotative_like.png" alt="God was like, "Let there be light," and there was light." style="height: auto;" />
             </a>
-            <p>The New Worlds Mission is already trying to get funding for this, but NASA sponsored their proposal, so it will be hard to catch the telescope people by surprise with it.</p>
-            <p><a href="https://explainxkcd.com/1730/">Explanation</a></p>
+            <p>God was like, "Let there be light," and there was light.</p>
+            <p><a href="https://explainxkcd.com/1483/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1730/</guid>
-      <pubDate>Wed, 07 Sep 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1483/</guid>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
