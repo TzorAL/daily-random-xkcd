@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3142] <City>-Style Pizza</title>
-      <link>https://xkcd.com/3142/</link>
+      <title>[1188] Bonding</title>
+      <link>https://xkcd.com/1188/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/city_style_pizza.png">
-              <img src="https://imgs.xkcd.com/comics/city_style_pizza.png" alt="If you want to see true audacity, do an image search for 'Altoona-style pizza.'" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/bonding.png">
+              <img src="https://imgs.xkcd.com/comics/bonding.png" alt="I'm trying to build character but Eclipse is really confusing." style="height: auto;" />
             </a>
-            <p>If you want to see true audacity, do an image search for 'Altoona-style pizza.'</p>
-            <p><a href="https://explainxkcd.com/3142/">Explanation</a></p>
+            <p>I'm trying to build character but Eclipse is really confusing.</p>
+            <p><a href="https://explainxkcd.com/1188/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3142/</guid>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1188/</guid>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
