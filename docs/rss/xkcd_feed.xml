@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 20 Mar 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1188] Bonding</title>
-      <link>https://xkcd.com/1188/</link>
+      <title>[5] Blown apart</title>
+      <link>https://xkcd.com/5/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/bonding.png">
-              <img src="https://imgs.xkcd.com/comics/bonding.png" alt="I'm trying to build character but Eclipse is really confusing." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/blownapart_color.jpg">
+              <img src="https://imgs.xkcd.com/comics/blownapart_color.jpg" alt="Blown into prime factors" style="height: auto;" />
             </a>
-            <p>I'm trying to build character but Eclipse is really confusing.</p>
-            <p><a href="https://explainxkcd.com/1188/">Explanation</a></p>
+            <p>Blown into prime factors</p>
+            <p><a href="https://explainxkcd.com/5/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1188/</guid>
-      <pubDate>Wed, 20 Mar 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/5/</guid>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
