@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Dec 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2540] TTSLTSWBD</title>
-      <link>https://xkcd.com/2540/</link>
+      <title>[1616] Lunch</title>
+      <link>https://xkcd.com/1616/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/ttsltswbd.png">
-              <img src="https://imgs.xkcd.com/comics/ttsltswbd.png" alt="Tomorrow's sessions will be entirely devoted to sewing machine rotary hooks." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/lunch.png">
+              <img src="https://imgs.xkcd.com/comics/lunch.png" alt="I'm trying to be healthier, so after I eat this brick of cheese, I'll have a spoonful of grease-soaked vegetables." style="height: auto;" />
             </a>
-            <p>Tomorrow's sessions will be entirely devoted to sewing machine rotary hooks.</p>
-            <p><a href="https://explainxkcd.com/2540/">Explanation</a></p>
+            <p>I'm trying to be healthier, so after I eat this brick of cheese, I'll have a spoonful of grease-soaked vegetables.</p>
+            <p><a href="https://explainxkcd.com/1616/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2540/</guid>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1616/</guid>
+      <pubDate>Mon, 14 Dec 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
