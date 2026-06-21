@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 13 Feb 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[383] Helping</title>
-      <link>https://xkcd.com/383/</link>
+      <title>[1580] Travel Ghost</title>
+      <link>https://xkcd.com/1580/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/helping.png">
-              <img src="https://imgs.xkcd.com/comics/helping.png" alt="Oh, look, the 'make everything better' button was here behind the bookshelf all along." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/travel_ghosts.png">
+              <img src="https://imgs.xkcd.com/comics/travel_ghosts.png" alt="And a different ghost has replaced me in the bedroom." style="height: auto;" />
             </a>
-            <p>Oh, look, the 'make everything better' button was here behind the bookshelf all along.</p>
-            <p><a href="https://explainxkcd.com/383/">Explanation</a></p>
+            <p>And a different ghost has replaced me in the bedroom.</p>
+            <p><a href="https://explainxkcd.com/1580/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/383/</guid>
-      <pubDate>Wed, 13 Feb 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1580/</guid>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
