@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2911] Greenland Size</title>
-      <link>https://xkcd.com/2911/</link>
+      <title>[1225] Ice Sheets</title>
+      <link>https://xkcd.com/1225/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/greenland_size.png">
-              <img src="https://imgs.xkcd.com/comics/greenland_size.png" alt="The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/ice_sheets.png">
+              <img src="https://imgs.xkcd.com/comics/ice_sheets.png" alt="Data adapted from 'The Laurentide and Innuitian ice sheets during the Last Glacial Maximum' by A.S. Dyke et. al., which was way better than the sequels 'The Laurentide and Innuitian ice sheets during the Last Glacial Maximum: The Meltdown' and 'The Laurentide and Innuitian ice sheets during the Last Glacial Maximum: Continental Drift'." style="height: auto;" />
             </a>
-            <p>The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.</p>
-            <p><a href="https://explainxkcd.com/2911/">Explanation</a></p>
+            <p>Data adapted from 'The Laurentide and Innuitian ice sheets during the Last Glacial Maximum' by A.S. Dyke et. al., which was way better than the sequels 'The Laurentide and Innuitian ice sheets during the Last Glacial Maximum: The Meltdown' and 'The Laurentide and Innuitian ice sheets during the Last Glacial Maximum: Continental Drift'.</p>
+            <p><a href="https://explainxkcd.com/1225/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2911/</guid>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1225/</guid>
+      <pubDate>Fri, 14 Jun 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
