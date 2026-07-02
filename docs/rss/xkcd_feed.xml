@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 18 Sep 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Dec 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1579] Tech Loops</title>
-      <link>https://xkcd.com/1579/</link>
+      <title>[837] Coupon Code</title>
+      <link>https://xkcd.com/837/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/tech_loops.png">
-              <img src="https://imgs.xkcd.com/comics/tech_loops.png" alt="And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/coupon_code.png">
+              <img src="https://imgs.xkcd.com/comics/coupon_code.png" alt="This also guarantees he won't be one of the ones to get a bobcat." style="height: auto;" />
             </a>
-            <p>And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.</p>
-            <p><a href="https://explainxkcd.com/1579/">Explanation</a></p>
+            <p>This also guarantees he won't be one of the ones to get a bobcat.</p>
+            <p><a href="https://explainxkcd.com/837/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1579/</guid>
-      <pubDate>Fri, 18 Sep 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/837/</guid>
+      <pubDate>Wed, 22 Dec 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
