@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3261] Side Effect</title>
-      <link>https://xkcd.com/3261/</link>
+      <title>[2512] Revelation</title>
+      <link>https://xkcd.com/2512/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/side_effect.png">
-              <img src="https://imgs.xkcd.com/comics/side_effect.png" alt="Brace yourself--the chirp gets pretty weird." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/revelation.png">
+              <img src="https://imgs.xkcd.com/comics/revelation.png" alt="And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite." style="height: auto;" />
             </a>
-            <p>Brace yourself--the chirp gets pretty weird.</p>
-            <p><a href="https://explainxkcd.com/3261/">Explanation</a></p>
+            <p>And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.</p>
+            <p><a href="https://explainxkcd.com/2512/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3261/</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2512/</guid>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
