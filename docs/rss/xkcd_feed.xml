@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 06 Sep 2021 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2512] Revelation</title>
-      <link>https://xkcd.com/2512/</link>
+      <title>[2690] Cool S</title>
+      <link>https://xkcd.com/2690/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/revelation.png">
-              <img src="https://imgs.xkcd.com/comics/revelation.png" alt="And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/cool_s.png">
+              <img src="https://imgs.xkcd.com/comics/cool_s.png" alt="Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them." style="height: auto;" />
             </a>
-            <p>And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.</p>
-            <p><a href="https://explainxkcd.com/2512/">Explanation</a></p>
+            <p>Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.</p>
+            <p><a href="https://explainxkcd.com/2690/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2512/</guid>
-      <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2690/</guid>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
