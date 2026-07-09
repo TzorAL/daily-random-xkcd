@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 21 Dec 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[678] Researcher Translation</title>
-      <link>https://xkcd.com/678/</link>
+      <title>[2810] How to Coil a Cable</title>
+      <link>https://xkcd.com/2810/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/researcher_translation.png">
-              <img src="https://imgs.xkcd.com/comics/researcher_translation.png" alt="A technology that is '20 years away' will be 20 years away indefinitely." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/how_to_coil_a_cable.png">
+              <img src="https://imgs.xkcd.com/comics/how_to_coil_a_cable.png" alt="The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist." style="height: auto;" />
             </a>
-            <p>A technology that is '20 years away' will be 20 years away indefinitely.</p>
-            <p><a href="https://explainxkcd.com/678/">Explanation</a></p>
+            <p>The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist.</p>
+            <p><a href="https://explainxkcd.com/2810/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/678/</guid>
-      <pubDate>Mon, 21 Dec 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2810/</guid>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
