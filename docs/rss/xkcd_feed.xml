@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2954] Bracket Symbols</title>
-      <link>https://xkcd.com/2954/</link>
+      <title>[2222] Terminator: Dark Fate</title>
+      <link>https://xkcd.com/2222/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/bracket_symbols.png">
-              <img src="https://imgs.xkcd.com/comics/bracket_symbols.png" alt="’"‘”’" means "I edited this text on both my phone and my laptop before sending it"" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/terminator_dark_fate.png">
+              <img src="https://imgs.xkcd.com/comics/terminator_dark_fate.png" alt="I was sent here to stop the robot that was sent here to protect the human who was sent here to protect the human who was sent here to destroy the robot that was sent here to vacuum the floor." style="height: auto;" />
             </a>
-            <p>’"‘”’" means "I edited this text on both my phone and my laptop before sending it"</p>
-            <p><a href="https://explainxkcd.com/2954/">Explanation</a></p>
+            <p>I was sent here to stop the robot that was sent here to protect the human who was sent here to protect the human who was sent here to destroy the robot that was sent here to vacuum the floor.</p>
+            <p><a href="https://explainxkcd.com/2222/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2954/</guid>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2222/</guid>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
