@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 02 Nov 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1754] Tornado Safety Tips</title>
-      <link>https://xkcd.com/1754/</link>
+      <title>[2688] Bubble Universes</title>
+      <link>https://xkcd.com/2688/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/tornado_safety_tips.png">
-              <img src="https://imgs.xkcd.com/comics/tornado_safety_tips.png" alt="It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/bubble_universes.png">
+              <img src="https://imgs.xkcd.com/comics/bubble_universes.png" alt="The theory finally unifies cosmic inflation and regular inflation." style="height: auto;" />
             </a>
-            <p>It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm.</p>
-            <p><a href="https://explainxkcd.com/1754/">Explanation</a></p>
+            <p>The theory finally unifies cosmic inflation and regular inflation.</p>
+            <p><a href="https://explainxkcd.com/2688/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1754/</guid>
-      <pubDate>Wed, 02 Nov 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2688/</guid>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
