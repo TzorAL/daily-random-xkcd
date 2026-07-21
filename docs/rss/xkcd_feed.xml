@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 28 Apr 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1361] Google Announcement</title>
-      <link>https://xkcd.com/1361/</link>
+      <title>[369] Dangers</title>
+      <link>https://xkcd.com/369/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/google_announcement.png">
-              <img src="https://imgs.xkcd.com/comics/google_announcement.png" alt="The less popular 8.8.4.4 is slated for discontinuation." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/dangers.png">
+              <img src="https://imgs.xkcd.com/comics/dangers.png" alt="Zero results: 'snake charming' and 'haberdashery'.  (Things like 'car' and 'boating' and such are of course the highest, by a huge margin.)" style="height: auto;" />
             </a>
-            <p>The less popular 8.8.4.4 is slated for discontinuation.</p>
-            <p><a href="https://explainxkcd.com/1361/">Explanation</a></p>
+            <p>Zero results: 'snake charming' and 'haberdashery'.  (Things like 'car' and 'boating' and such are of course the highest, by a huge margin.)</p>
+            <p><a href="https://explainxkcd.com/369/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1361/</guid>
-      <pubDate>Mon, 28 Apr 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/369/</guid>
+      <pubDate>Fri, 11 Jan 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
