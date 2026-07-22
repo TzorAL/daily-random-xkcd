@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 11 Jan 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[369] Dangers</title>
-      <link>https://xkcd.com/369/</link>
+      <title>[3096] Check Engine</title>
+      <link>https://xkcd.com/3096/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/dangers.png">
-              <img src="https://imgs.xkcd.com/comics/dangers.png" alt="Zero results: 'snake charming' and 'haberdashery'.  (Things like 'car' and 'boating' and such are of course the highest, by a huge margin.)" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/check_engine.png">
+              <img src="https://imgs.xkcd.com/comics/check_engine.png" alt="They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone." style="height: auto;" />
             </a>
-            <p>Zero results: 'snake charming' and 'haberdashery'.  (Things like 'car' and 'boating' and such are of course the highest, by a huge margin.)</p>
-            <p><a href="https://explainxkcd.com/369/">Explanation</a></p>
+            <p>They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.</p>
+            <p><a href="https://explainxkcd.com/3096/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/369/</guid>
-      <pubDate>Fri, 11 Jan 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3096/</guid>
+      <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
