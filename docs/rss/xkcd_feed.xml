@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 03 Feb 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2015 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1012] Wrong Superhero</title>
-      <link>https://xkcd.com/1012/</link>
+      <title>[1619] Watson Medical Algorithm</title>
+      <link>https://xkcd.com/1619/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/wrong_superhero.png">
-              <img src="https://imgs.xkcd.com/comics/wrong_superhero.png" alt="Hi! Someone call for me? I'm a superhero who specializes in the study of God's creation of Man in the Book of Genesi-- HOLY SHIT A GIANT BUG!" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/watson_medical_algorithm.png">
+              <img src="https://imgs.xkcd.com/comics/watson_medical_algorithm.png" alt="Due to a minor glitch, 'discharge patient' does not cause the algorithm to exit, but instead leads back to 'hunt down and capture patient'." style="height: auto;" />
             </a>
-            <p>Hi! Someone call for me? I'm a superhero who specializes in the study of God's creation of Man in the Book of Genesi-- HOLY SHIT A GIANT BUG!</p>
-            <p><a href="https://explainxkcd.com/1012/">Explanation</a></p>
+            <p>Due to a minor glitch, 'discharge patient' does not cause the algorithm to exit, but instead leads back to 'hunt down and capture patient'.</p>
+            <p><a href="https://explainxkcd.com/1619/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1012/</guid>
-      <pubDate>Fri, 03 Feb 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1619/</guid>
+      <pubDate>Mon, 21 Dec 2015 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
