@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 21 Dec 2015 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1619] Watson Medical Algorithm</title>
-      <link>https://xkcd.com/1619/</link>
+      <title>[2009] Hertzsprung-Russell Diagram</title>
+      <link>https://xkcd.com/2009/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/watson_medical_algorithm.png">
-              <img src="https://imgs.xkcd.com/comics/watson_medical_algorithm.png" alt="Due to a minor glitch, 'discharge patient' does not cause the algorithm to exit, but instead leads back to 'hunt down and capture patient'." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/hertzsprung_russell_diagram.png">
+              <img src="https://imgs.xkcd.com/comics/hertzsprung_russell_diagram.png" alt="The Hertzsprung-Russell diagram is located in its own lower right corner, unless you're viewing it on an unusually big screen." style="height: auto;" />
             </a>
-            <p>Due to a minor glitch, 'discharge patient' does not cause the algorithm to exit, but instead leads back to 'hunt down and capture patient'.</p>
-            <p><a href="https://explainxkcd.com/1619/">Explanation</a></p>
+            <p>The Hertzsprung-Russell diagram is located in its own lower right corner, unless you're viewing it on an unusually big screen.</p>
+            <p><a href="https://explainxkcd.com/2009/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1619/</guid>
-      <pubDate>Mon, 21 Dec 2015 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2009/</guid>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
