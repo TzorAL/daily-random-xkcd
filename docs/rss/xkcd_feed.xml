@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 26 Sep 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jan 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1426] Reduce Your Payments</title>
-      <link>https://xkcd.com/1426/</link>
+      <title>[1166] Argument</title>
+      <link>https://xkcd.com/1166/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/reduce_your_payments.png">
-              <img src="https://imgs.xkcd.com/comics/reduce_your_payments.png" alt="I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/argument.png">
+              <img src="https://imgs.xkcd.com/comics/argument.png" alt="The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine." style="height: auto;" />
             </a>
-            <p>I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.</p>
-            <p><a href="https://explainxkcd.com/1426/">Explanation</a></p>
+            <p>The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.</p>
+            <p><a href="https://explainxkcd.com/1166/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1426/</guid>
-      <pubDate>Fri, 26 Sep 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1166/</guid>
+      <pubDate>Mon, 28 Jan 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
