@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 16 Apr 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1356] Orbital Mechanics</title>
-      <link>https://xkcd.com/1356/</link>
+      <title>[709] I Am</title>
+      <link>https://xkcd.com/709/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/orbital_mechanics.png">
-              <img src="https://imgs.xkcd.com/comics/orbital_mechanics.png" alt="To be fair, my job at NASA was working on robots and didn't actually involve any orbital mechanics. The small positive slope over that period is because it turns out that if you hang around at NASA, you get in a lot of conversations about space." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/i_am.png">
+              <img src="https://imgs.xkcd.com/comics/i_am.png" alt="Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce." style="height: auto;" />
             </a>
-            <p>To be fair, my job at NASA was working on robots and didn't actually involve any orbital mechanics. The small positive slope over that period is because it turns out that if you hang around at NASA, you get in a lot of conversations about space.</p>
-            <p><a href="https://explainxkcd.com/1356/">Explanation</a></p>
+            <p>Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce.</p>
+            <p><a href="https://explainxkcd.com/709/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1356/</guid>
-      <pubDate>Wed, 16 Apr 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/709/</guid>
+      <pubDate>Wed, 03 Mar 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
