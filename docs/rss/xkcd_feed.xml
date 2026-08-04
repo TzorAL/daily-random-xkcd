@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 03 Mar 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[709] I Am</title>
-      <link>https://xkcd.com/709/</link>
+      <title>[3230] Overton</title>
+      <link>https://xkcd.com/3230/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/i_am.png">
-              <img src="https://imgs.xkcd.com/comics/i_am.png" alt="Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/overton.png">
+              <img src="https://imgs.xkcd.com/comics/overton.png" alt="I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is." style="height: auto;" />
             </a>
-            <p>Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce.</p>
-            <p><a href="https://explainxkcd.com/709/">Explanation</a></p>
+            <p>I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.</p>
+            <p><a href="https://explainxkcd.com/3230/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/709/</guid>
-      <pubDate>Wed, 03 Mar 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3230/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
