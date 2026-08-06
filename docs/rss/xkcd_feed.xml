@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2979] Sky Alarm</title>
-      <link>https://xkcd.com/2979/</link>
+      <title>[2565] Latency</title>
+      <link>https://xkcd.com/2565/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/sky_alarm.png">
-              <img src="https://imgs.xkcd.com/comics/sky_alarm.png" alt="During the day it also activates for neat clouds and pretty sunsets." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/latency.png">
+              <img src="https://imgs.xkcd.com/comics/latency.png" alt="Each SCAPDFATIAT point increases the chance that the process will involve the phrase 'by the next business day.'" style="height: auto;" />
             </a>
-            <p>During the day it also activates for neat clouds and pretty sunsets.</p>
-            <p><a href="https://explainxkcd.com/2979/">Explanation</a></p>
+            <p>Each SCAPDFATIAT point increases the chance that the process will involve the phrase 'by the next business day.'</p>
+            <p><a href="https://explainxkcd.com/2565/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2979/</guid>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2565/</guid>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
