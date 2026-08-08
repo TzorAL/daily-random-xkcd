@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 13 Mar 2017 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1810] Chat Systems</title>
-      <link>https://xkcd.com/1810/</link>
+      <title>[1004] Batman</title>
+      <link>https://xkcd.com/1004/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/chat_systems.png">
-              <img src="https://imgs.xkcd.com/comics/chat_systems.png" alt="I'm one of the few Instagram users who connects solely through the Unix 'talk' gateway." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/batman.png">
+              <img src="https://imgs.xkcd.com/comics/batman.png" alt="I'm really worried Christopher Nolan will kill a man dressed like a bat in his next movie. (The man will be dressed like a bat, I mean. Christopher Nolan won't be, probably.)" style="height: auto;" />
             </a>
-            <p>I'm one of the few Instagram users who connects solely through the Unix 'talk' gateway.</p>
-            <p><a href="https://explainxkcd.com/1810/">Explanation</a></p>
+            <p>I'm really worried Christopher Nolan will kill a man dressed like a bat in his next movie. (The man will be dressed like a bat, I mean. Christopher Nolan won't be, probably.)</p>
+            <p><a href="https://explainxkcd.com/1004/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1810/</guid>
-      <pubDate>Mon, 13 Mar 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1004/</guid>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
