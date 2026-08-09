@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 16 Jan 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1004] Batman</title>
-      <link>https://xkcd.com/1004/</link>
+      <title>[35] Sheep</title>
+      <link>https://xkcd.com/35/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/batman.png">
-              <img src="https://imgs.xkcd.com/comics/batman.png" alt="I'm really worried Christopher Nolan will kill a man dressed like a bat in his next movie. (The man will be dressed like a bat, I mean. Christopher Nolan won't be, probably.)" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/sheep.jpg">
+              <img src="https://imgs.xkcd.com/comics/sheep.jpg" alt="I think it's the sheep zapping the cactus and not vice-versa" style="height: auto;" />
             </a>
-            <p>I'm really worried Christopher Nolan will kill a man dressed like a bat in his next movie. (The man will be dressed like a bat, I mean. Christopher Nolan won't be, probably.)</p>
-            <p><a href="https://explainxkcd.com/1004/">Explanation</a></p>
+            <p>I think it's the sheep zapping the cactus and not vice-versa</p>
+            <p><a href="https://explainxkcd.com/35/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1004/</guid>
-      <pubDate>Mon, 16 Jan 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/35/</guid>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
