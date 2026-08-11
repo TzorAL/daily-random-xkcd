@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 09 May 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[421] Making Hash Browns</title>
-      <link>https://xkcd.com/421/</link>
+      <title>[3055] Giants</title>
+      <link>https://xkcd.com/3055/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/making_hash_browns.png">
-              <img src="https://imgs.xkcd.com/comics/making_hash_browns.png" alt="There are at least fourteen ways this could go badly (seventeen if that fork is a dangerous crossbreed.)" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/giants.png">
+              <img src="https://imgs.xkcd.com/comics/giants.png" alt="I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle." style="height: auto;" />
             </a>
-            <p>There are at least fourteen ways this could go badly (seventeen if that fork is a dangerous crossbreed.)</p>
-            <p><a href="https://explainxkcd.com/421/">Explanation</a></p>
+            <p>I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.</p>
+            <p><a href="https://explainxkcd.com/3055/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/421/</guid>
-      <pubDate>Fri, 09 May 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3055/</guid>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
