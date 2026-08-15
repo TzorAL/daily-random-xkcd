@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2889] Greenhouse Effect</title>
-      <link>https://xkcd.com/2889/</link>
+      <title>[2075] Update Your Address</title>
+      <link>https://xkcd.com/2075/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/greenhouse_effect.png">
-              <img src="https://imgs.xkcd.com/comics/greenhouse_effect.png" alt="Once he had the answer, Arrhenius complained to his friends that he'd "wasted over a full year" doing tedious calculations by hand about "so trifling a matter" as hypothetical CO2 concentrations in far-off eras (quoted in Crawford, 1997)." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/update_your_address.png">
+              <img src="https://imgs.xkcd.com/comics/update_your_address.png" alt="This is my four-digit PIN. It was passed down to me by my father, and someday I will pass it on to you. Unless we figure out how to update it, but that sounds complicated." style="height: auto;" />
             </a>
-            <p>Once he had the answer, Arrhenius complained to his friends that he'd "wasted over a full year" doing tedious calculations by hand about "so trifling a matter" as hypothetical CO2 concentrations in far-off eras (quoted in Crawford, 1997).</p>
-            <p><a href="https://explainxkcd.com/2889/">Explanation</a></p>
+            <p>This is my four-digit PIN. It was passed down to me by my father, and someday I will pass it on to you. Unless we figure out how to update it, but that sounds complicated.</p>
+            <p><a href="https://explainxkcd.com/2075/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2889/</guid>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2075/</guid>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
