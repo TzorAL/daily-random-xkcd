@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Nov 2011 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2608] Family Reunion</title>
-      <link>https://xkcd.com/2608/</link>
+      <title>[978] Citogenesis</title>
+      <link>https://xkcd.com/978/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/family_reunion.png">
-              <img src="https://imgs.xkcd.com/comics/family_reunion.png" alt="Grandma says that because of differences in primate and feline lifespans, the cat is actually my 17,000,000th cousin 14,000,000 times removed." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/citogenesis.png">
+              <img src="https://imgs.xkcd.com/comics/citogenesis.png" alt="I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author." style="height: auto;" />
             </a>
-            <p>Grandma says that because of differences in primate and feline lifespans, the cat is actually my 17,000,000th cousin 14,000,000 times removed.</p>
-            <p><a href="https://explainxkcd.com/2608/">Explanation</a></p>
+            <p>I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author.</p>
+            <p><a href="https://explainxkcd.com/978/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2608/</guid>
-      <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/978/</guid>
+      <pubDate>Wed, 16 Nov 2011 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
