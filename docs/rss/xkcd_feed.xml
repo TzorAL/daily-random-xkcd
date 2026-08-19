@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 16 Nov 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[978] Citogenesis</title>
-      <link>https://xkcd.com/978/</link>
+      <title>[1871] Bun Alert</title>
+      <link>https://xkcd.com/1871/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/citogenesis.png">
-              <img src="https://imgs.xkcd.com/comics/citogenesis.png" alt="I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/bun_alert.png">
+              <img src="https://imgs.xkcd.com/comics/bun_alert.png" alt="Since buns range from crepuscular to nocturnal, it's recommended that you enable the scheduled "Do Not Disturb" mode on your phone to avoid being woken by alerts about Night Buns." style="height: auto;" />
             </a>
-            <p>I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author.</p>
-            <p><a href="https://explainxkcd.com/978/">Explanation</a></p>
+            <p>Since buns range from crepuscular to nocturnal, it's recommended that you enable the scheduled "Do Not Disturb" mode on your phone to avoid being woken by alerts about Night Buns.</p>
+            <p><a href="https://explainxkcd.com/1871/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/978/</guid>
-      <pubDate>Wed, 16 Nov 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1871/</guid>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
