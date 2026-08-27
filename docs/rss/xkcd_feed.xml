@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2094] Short Selling</title>
-      <link>https://xkcd.com/2094/</link>
+      <title>[3255] Planetary Science</title>
+      <link>https://xkcd.com/3255/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/short_selling.png">
-              <img src="https://imgs.xkcd.com/comics/short_selling.png" alt=""I'm selling all my analogies at auction tomorrow, and that witch over there will give you 20 beans if you promise on pain of death to win them for her." "What if SEVERAL people promised witches they'd win, creating some kind of a ... squeeze? Gosh, you could make a lot of–" "Don't be silly! That probably never happens."" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/planetary_science.png">
+              <img src="https://imgs.xkcd.com/comics/planetary_science.png" alt="The research was overseen by the Institutional Review Board, which is what I named my surfboard." style="height: auto;" />
             </a>
-            <p>"I'm selling all my analogies at auction tomorrow, and that witch over there will give you 20 beans if you promise on pain of death to win them for her." "What if SEVERAL people promised witches they'd win, creating some kind of a ... squeeze? Gosh, you could make a lot of–" "Don't be silly! That probably never happens."</p>
-            <p><a href="https://explainxkcd.com/2094/">Explanation</a></p>
+            <p>The research was overseen by the Institutional Review Board, which is what I named my surfboard.</p>
+            <p><a href="https://explainxkcd.com/3255/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2094/</guid>
-      <pubDate>Fri, 04 Jan 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3255/</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
