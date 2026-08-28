@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3255] Planetary Science</title>
-      <link>https://xkcd.com/3255/</link>
+      <title>[1268] Alternate Universe</title>
+      <link>https://xkcd.com/1268/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/planetary_science.png">
-              <img src="https://imgs.xkcd.com/comics/planetary_science.png" alt="The research was overseen by the Institutional Review Board, which is what I named my surfboard." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/alternate_universe.png">
+              <img src="https://imgs.xkcd.com/comics/alternate_universe.png" alt="As best as I can tell, I was transported here from Earth Prime sometime in the late 1990s. Your universe is identical in every way, except for the lobster thing and the thing where some of you occasionally change your clocks for some reason." style="height: auto;" />
             </a>
-            <p>The research was overseen by the Institutional Review Board, which is what I named my surfboard.</p>
-            <p><a href="https://explainxkcd.com/3255/">Explanation</a></p>
+            <p>As best as I can tell, I was transported here from Earth Prime sometime in the late 1990s. Your universe is identical in every way, except for the lobster thing and the thing where some of you occasionally change your clocks for some reason.</p>
+            <p><a href="https://explainxkcd.com/1268/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3255/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1268/</guid>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
