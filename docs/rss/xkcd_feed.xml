@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2117] Differentiation and Integration</title>
-      <link>https://xkcd.com/2117/</link>
+      <title>[1781] Artifacts</title>
+      <link>https://xkcd.com/1781/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/differentiation_and_integration.png">
-              <img src="https://imgs.xkcd.com/comics/differentiation_and_integration.png" alt=""Symbolic integration" is when you theatrically go through the motions of finding integrals, but the actual result you get doesn't matter because it's purely symbolic." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/artifacts.png">
+              <img src="https://imgs.xkcd.com/comics/artifacts.png" alt="I didn't even realize you could HAVE a data set made up entirely of outliers." style="height: auto;" />
             </a>
-            <p>"Symbolic integration" is when you theatrically go through the motions of finding integrals, but the actual result you get doesn't matter because it's purely symbolic.</p>
-            <p><a href="https://explainxkcd.com/2117/">Explanation</a></p>
+            <p>I didn't even realize you could HAVE a data set made up entirely of outliers.</p>
+            <p><a href="https://explainxkcd.com/1781/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2117/</guid>
-      <pubDate>Wed, 27 Feb 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1781/</guid>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
