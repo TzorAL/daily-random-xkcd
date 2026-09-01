@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 11 Jul 2012 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Oct 2012 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1080] Visual Field</title>
-      <link>https://xkcd.com/1080/</link>
+      <title>[1119] Undoing</title>
+      <link>https://xkcd.com/1119/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/visual_field.png">
-              <img src="https://imgs.xkcd.com/comics/visual_field.png" alt="I recently learned something that solved a mystery that had bugged me since childhood--why, when I looked at an analog clock, the hand would sometimes seem to take a couple seconds to start ticking. Google "stopped clock illusion"." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/undoing.png">
+              <img src="https://imgs.xkcd.com/comics/undoing.png" alt="I've been sneaking out at night and installing lamps on the underside of every photovoltaic panel I can find. Sure, there are upwards of 80% losses, but I prefer to think of them as nearly 20% gains." style="height: auto;" />
             </a>
-            <p>I recently learned something that solved a mystery that had bugged me since childhood--why, when I looked at an analog clock, the hand would sometimes seem to take a couple seconds to start ticking. Google "stopped clock illusion".</p>
-            <p><a href="https://explainxkcd.com/1080/">Explanation</a></p>
+            <p>I've been sneaking out at night and installing lamps on the underside of every photovoltaic panel I can find. Sure, there are upwards of 80% losses, but I prefer to think of them as nearly 20% gains.</p>
+            <p><a href="https://explainxkcd.com/1119/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1080/</guid>
-      <pubDate>Wed, 11 Jul 2012 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1119/</guid>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
