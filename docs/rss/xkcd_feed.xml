@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jun 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3040] Chemical Formulas</title>
-      <link>https://xkcd.com/3040/</link>
+      <title>[1693] Oxidation</title>
+      <link>https://xkcd.com/1693/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/chemical_formulas.png">
-              <img src="https://imgs.xkcd.com/comics/chemical_formulas.png" alt="Can you pass the nackle?" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/oxidation.png">
+              <img src="https://imgs.xkcd.com/comics/oxidation.png" alt="Calm down--there were lots of arthropods living on your skin already. These ones are just bigger." style="height: auto;" />
             </a>
-            <p>Can you pass the nackle?</p>
-            <p><a href="https://explainxkcd.com/3040/">Explanation</a></p>
+            <p>Calm down--there were lots of arthropods living on your skin already. These ones are just bigger.</p>
+            <p><a href="https://explainxkcd.com/1693/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3040/</guid>
-      <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1693/</guid>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
