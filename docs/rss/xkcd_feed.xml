@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 19 Sep 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1735] Fashion Police and Grammar Police</title>
-      <link>https://xkcd.com/1735/</link>
+      <title>[3275] Calibration Nobel</title>
+      <link>https://xkcd.com/3275/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/fashion_police_and_grammar_police.png">
-              <img src="https://imgs.xkcd.com/comics/fashion_police_and_grammar_police.png" alt="* Mad about jorts" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/calibration_nobel.png">
+              <img src="https://imgs.xkcd.com/comics/calibration_nobel.png" alt="We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular." style="height: auto;" />
             </a>
-            <p>* Mad about jorts</p>
-            <p><a href="https://explainxkcd.com/1735/">Explanation</a></p>
+            <p>We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.</p>
+            <p><a href="https://explainxkcd.com/3275/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1735/</guid>
-      <pubDate>Mon, 19 Sep 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3275/</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
