@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 21 Jul 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[452] Mission</title>
-      <link>https://xkcd.com/452/</link>
+      <title>[1418] Horse</title>
+      <link>https://xkcd.com/1418/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/mission.png">
-              <img src="https://imgs.xkcd.com/comics/mission.png" alt="Don't you know?  The chances of a random object being a scone are about one in six." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/horse.png">
+              <img src="https://imgs.xkcd.com/comics/horse.png" alt="Officer suspended from horse." style="height: auto;" />
             </a>
-            <p>Don't you know?  The chances of a random object being a scone are about one in six.</p>
-            <p><a href="https://explainxkcd.com/452/">Explanation</a></p>
+            <p>Officer suspended from horse.</p>
+            <p><a href="https://explainxkcd.com/1418/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/452/</guid>
-      <pubDate>Mon, 21 Jul 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1418/</guid>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
