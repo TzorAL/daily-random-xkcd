@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 27 Jan 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1322] Winter</title>
-      <link>https://xkcd.com/1322/</link>
+      <title>[1300] Galilean Moons</title>
+      <link>https://xkcd.com/1300/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/winter.png">
-              <img src="https://imgs.xkcd.com/comics/winter.png" alt="Stay warm, little flappers, and find lots of plant eggs!" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/galilean_moons.png">
+              <img src="https://imgs.xkcd.com/comics/galilean_moons.png" alt="I'm SO glad I escaped. They almost had me caught in their weird ... thing." style="height: auto;" />
             </a>
-            <p>Stay warm, little flappers, and find lots of plant eggs!</p>
-            <p><a href="https://explainxkcd.com/1322/">Explanation</a></p>
+            <p>I'm SO glad I escaped. They almost had me caught in their weird ... thing.</p>
+            <p><a href="https://explainxkcd.com/1300/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1322/</guid>
-      <pubDate>Mon, 27 Jan 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1300/</guid>
+      <pubDate>Fri, 06 Dec 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
