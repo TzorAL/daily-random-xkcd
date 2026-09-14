@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 04 Jul 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3111] Artificial Gravity</title>
-      <link>https://xkcd.com/3111/</link>
+      <title>[1357] Free Speech</title>
+      <link>https://xkcd.com/1357/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/artificial_gravity.png">
-              <img src="https://imgs.xkcd.com/comics/artificial_gravity.png" alt="Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/free_speech.png">
+              <img src="https://imgs.xkcd.com/comics/free_speech.png" alt="I can't remember where I heard this, but someone once said that defending a position by citing free speech is sort of the ultimate concession; you're saying that the most compelling thing you can say for your position is that it's not literally illegal to express." style="height: auto;" />
             </a>
-            <p>Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.</p>
-            <p><a href="https://explainxkcd.com/3111/">Explanation</a></p>
+            <p>I can't remember where I heard this, but someone once said that defending a position by citing free speech is sort of the ultimate concession; you're saying that the most compelling thing you can say for your position is that it's not literally illegal to express.</p>
+            <p><a href="https://explainxkcd.com/1357/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3111/</guid>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1357/</guid>
+      <pubDate>Fri, 18 Apr 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
