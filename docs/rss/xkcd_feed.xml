@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2376] Curbside</title>
-      <link>https://xkcd.com/2376/</link>
+      <title>[473] Still Raw</title>
+      <link>https://xkcd.com/473/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/curbside.png">
-              <img src="https://imgs.xkcd.com/comics/curbside.png" alt="The state has had so many contact tracers disappear into that shop that they've had to start a contact tracer tracing program." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/still_raw.png">
+              <img src="https://imgs.xkcd.com/comics/still_raw.png" alt="We actually divorced once over the airplane/treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you're all wrong on the internet.)" style="height: auto;" />
             </a>
-            <p>The state has had so many contact tracers disappear into that shop that they've had to start a contact tracer tracing program.</p>
-            <p><a href="https://explainxkcd.com/2376/">Explanation</a></p>
+            <p>We actually divorced once over the airplane/treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you're all wrong on the internet.)</p>
+            <p><a href="https://explainxkcd.com/473/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2376/</guid>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/473/</guid>
+      <pubDate>Mon, 08 Sep 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
