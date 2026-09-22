@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 27 May 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2312] MBMBaM</title>
-      <link>https://xkcd.com/2312/</link>
+      <title>[1688] Map Age Guide</title>
+      <link>https://xkcd.com/1688/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/mbmbam.png">
-              <img src="https://imgs.xkcd.com/comics/mbmbam.png" alt="Hello and welcome to Millibar Millibarn Attometer, an advice show for the Planck era." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/map_age_guide.png">
+              <img src="https://imgs.xkcd.com/comics/map_age_guide.png" alt="Does the screeching chill your blood and herald death? If yes, banshee. If no, seagull." style="height: auto;" />
             </a>
-            <p>Hello and welcome to Millibar Millibarn Attometer, an advice show for the Planck era.</p>
-            <p><a href="https://explainxkcd.com/2312/">Explanation</a></p>
+            <p>Does the screeching chill your blood and herald death? If yes, banshee. If no, seagull.</p>
+            <p><a href="https://explainxkcd.com/1688/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2312/</guid>
-      <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1688/</guid>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
