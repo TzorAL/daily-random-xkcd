@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 15 Aug 2011 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[938] T-Cells</title>
-      <link>https://xkcd.com/938/</link>
+      <title>[702] Snow Tracking</title>
+      <link>https://xkcd.com/702/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/t_cells.png">
-              <img src="https://imgs.xkcd.com/comics/t_cells.png" alt="'We're not sure how to wipe out the chimeral T-cells after they've destroyed the cancer. Though I do have this vial of smallpox ...'" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/snow_tracking.png">
+              <img src="https://imgs.xkcd.com/comics/snow_tracking.png" alt="I suppose that's more accurately a hare dryer." style="height: auto;" />
             </a>
-            <p>'We're not sure how to wipe out the chimeral T-cells after they've destroyed the cancer. Though I do have this vial of smallpox ...'</p>
-            <p><a href="https://explainxkcd.com/938/">Explanation</a></p>
+            <p>I suppose that's more accurately a hare dryer.</p>
+            <p><a href="https://explainxkcd.com/702/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/938/</guid>
-      <pubDate>Mon, 15 Aug 2011 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/702/</guid>
+      <pubDate>Mon, 15 Feb 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
