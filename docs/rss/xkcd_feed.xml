@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 29 Apr 2009 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[575] Tag Combination</title>
-      <link>https://xkcd.com/575/</link>
+      <title>[2626] d65536</title>
+      <link>https://xkcd.com/2626/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/tag_combination.png">
-              <img src="https://imgs.xkcd.com/comics/tag_combination.png" alt="I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her /  (Too ra loo ra too ra loo rye ayy)" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/d65536.png">
+              <img src="https://imgs.xkcd.com/comics/d65536.png" alt="They're robust against quantum attacks because it's hard to make a quantum system that large." style="height: auto;" />
             </a>
-            <p>I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her /  (Too ra loo ra too ra loo rye ayy)</p>
-            <p><a href="https://explainxkcd.com/575/">Explanation</a></p>
+            <p>They're robust against quantum attacks because it's hard to make a quantum system that large.</p>
+            <p><a href="https://explainxkcd.com/2626/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/575/</guid>
-      <pubDate>Wed, 29 Apr 2009 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2626/</guid>
+      <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
