@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 31 Dec 2010 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2013 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[841] Audiophiles</title>
-      <link>https://xkcd.com/841/</link>
+      <title>[1257] Monster</title>
+      <link>https://xkcd.com/1257/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/audiophiles.png">
-              <img src="https://imgs.xkcd.com/comics/audiophiles.png" alt="For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/monster.png">
+              <img src="https://imgs.xkcd.com/comics/monster.png" alt="It was finally destroyed with a nuclear weapon carrying the destructive energy of the Hiroshima bomb." style="height: auto;" />
             </a>
-            <p>For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.</p>
-            <p><a href="https://explainxkcd.com/841/">Explanation</a></p>
+            <p>It was finally destroyed with a nuclear weapon carrying the destructive energy of the Hiroshima bomb.</p>
+            <p><a href="https://explainxkcd.com/1257/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/841/</guid>
-      <pubDate>Fri, 31 Dec 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1257/</guid>
+      <pubDate>Wed, 28 Aug 2013 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
