@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Aug 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2587] For the Sake of Simplicity</title>
-      <link>https://xkcd.com/2587/</link>
+      <title>[2040] Sibling-in-Law</title>
+      <link>https://xkcd.com/2040/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/for_the_sake_of_simplicity.png">
-              <img src="https://imgs.xkcd.com/comics/for_the_sake_of_simplicity.png" alt="For the sake of simplicity, gardeners are assumed to move through Euclidean space--neglecting the distortion from general relativity--unless they are in the vicinity of a Schwarzschild Orchid." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/sibling_in_law.png">
+              <img src="https://imgs.xkcd.com/comics/sibling_in_law.png" alt="FYI, it turns out "...because I haven't figured out whether he would be my brother-in-law or not" does NOT qualify as a "reason why these two should not be wed."" style="height: auto;" />
             </a>
-            <p>For the sake of simplicity, gardeners are assumed to move through Euclidean space--neglecting the distortion from general relativity--unless they are in the vicinity of a Schwarzschild Orchid.</p>
-            <p><a href="https://explainxkcd.com/2587/">Explanation</a></p>
+            <p>FYI, it turns out "...because I haven't figured out whether he would be my brother-in-law or not" does NOT qualify as a "reason why these two should not be wed."</p>
+            <p><a href="https://explainxkcd.com/2040/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2587/</guid>
-      <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2040/</guid>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
