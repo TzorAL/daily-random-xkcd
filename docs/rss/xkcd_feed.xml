@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 14 May 2007 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[261] Regarding Mussolini</title>
-      <link>https://xkcd.com/261/</link>
+      <title>[2901] Geographic Qualifiers</title>
+      <link>https://xkcd.com/2901/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/regarding_mussolini.png">
-              <img src="https://imgs.xkcd.com/comics/regarding_mussolini.png" alt="Constantly stopping these briefings halfway through is becoming a pain." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/geographic_qualifiers.png">
+              <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" alt="'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]" style="height: auto;" />
             </a>
-            <p>Constantly stopping these briefings halfway through is becoming a pain.</p>
-            <p><a href="https://explainxkcd.com/261/">Explanation</a></p>
+            <p>'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]</p>
+            <p><a href="https://explainxkcd.com/2901/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/261/</guid>
-      <pubDate>Mon, 14 May 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2901/</guid>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
