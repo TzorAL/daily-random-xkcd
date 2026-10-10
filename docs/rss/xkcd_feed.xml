@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2901] Geographic Qualifiers</title>
-      <link>https://xkcd.com/2901/</link>
+      <title>[2006] Customer Rewards</title>
+      <link>https://xkcd.com/2006/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/geographic_qualifiers.png">
-              <img src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" alt="'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/customer_rewards.png">
+              <img src="https://imgs.xkcd.com/comics/customer_rewards.png" alt="We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards." style="height: auto;" />
             </a>
-            <p>'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]</p>
-            <p><a href="https://explainxkcd.com/2901/">Explanation</a></p>
+            <p>We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.</p>
+            <p><a href="https://explainxkcd.com/2006/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2901/</guid>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2006/</guid>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
