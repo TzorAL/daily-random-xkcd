@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2006] Customer Rewards</title>
-      <link>https://xkcd.com/2006/</link>
+      <title>[1832] Photo Library Management</title>
+      <link>https://xkcd.com/1832/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/customer_rewards.png">
-              <img src="https://imgs.xkcd.com/comics/customer_rewards.png" alt="We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/photo_library_management.png">
+              <img src="https://imgs.xkcd.com/comics/photo_library_management.png" alt="A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage." style="height: auto;" />
             </a>
-            <p>We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.</p>
-            <p><a href="https://explainxkcd.com/2006/">Explanation</a></p>
+            <p>A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage.</p>
+            <p><a href="https://explainxkcd.com/1832/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2006/</guid>
-      <pubDate>Wed, 13 Jun 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1832/</guid>
+      <pubDate>Wed, 03 May 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
