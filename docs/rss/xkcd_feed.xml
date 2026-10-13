@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2014 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2197] Game Show</title>
-      <link>https://xkcd.com/2197/</link>
+      <title>[1424] En Garde</title>
+      <link>https://xkcd.com/1424/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/game_show.png">
-              <img src="https://imgs.xkcd.com/comics/game_show.png" alt="Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/en_garde.png">
+              <img src="https://imgs.xkcd.com/comics/en_garde.png" alt="'Touch!' 'Nope, I sighed and stared at you with resignation, so I regained emotional right-of-way.'" style="height: auto;" />
             </a>
-            <p>Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."</p>
-            <p><a href="https://explainxkcd.com/2197/">Explanation</a></p>
+            <p>'Touch!' 'Nope, I sighed and stared at you with resignation, so I regained emotional right-of-way.'</p>
+            <p><a href="https://explainxkcd.com/1424/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2197/</guid>
-      <pubDate>Mon, 02 Sep 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1424/</guid>
+      <pubDate>Mon, 22 Sep 2014 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
