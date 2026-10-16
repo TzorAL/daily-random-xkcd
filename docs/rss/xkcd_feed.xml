@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2895] Treasure Chests</title>
-      <link>https://xkcd.com/2895/</link>
+      <title>[507] Experimentation</title>
+      <link>https://xkcd.com/507/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/treasure_chests.png">
-              <img src="https://imgs.xkcd.com/comics/treasure_chests.png" alt="[earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/experimentation.png">
+              <img src="https://imgs.xkcd.com/comics/experimentation.png" alt="I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?" style="height: auto;" />
             </a>
-            <p>[earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."</p>
-            <p><a href="https://explainxkcd.com/2895/">Explanation</a></p>
+            <p>I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?</p>
+            <p><a href="https://explainxkcd.com/507/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2895/</guid>
-      <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/507/</guid>
+      <pubDate>Fri, 21 Nov 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
