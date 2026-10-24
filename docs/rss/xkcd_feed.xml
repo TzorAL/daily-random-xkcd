@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2017 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2697] Y2K and 2038</title>
-      <link>https://xkcd.com/2697/</link>
+      <title>[1909] Digital Resource Lifespan</title>
+      <link>https://xkcd.com/1909/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/y2k_and_2038.png">
-              <img src="https://imgs.xkcd.com/comics/y2k_and_2038.png" alt="It's taken me 20 years, but I've finally finished rebuilding all my software to use 33-bit signed ints." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/digital_resource_lifespan.png">
+              <img src="https://imgs.xkcd.com/comics/digital_resource_lifespan.png" alt="I spent a long time thinking about how to design a system for long-term organization and storage of subject-specific informational resources without needing ongoing work from the experts who created them, only to realized I'd just reinvented libraries." style="height: auto;" />
             </a>
-            <p>It's taken me 20 years, but I've finally finished rebuilding all my software to use 33-bit signed ints.</p>
-            <p><a href="https://explainxkcd.com/2697/">Explanation</a></p>
+            <p>I spent a long time thinking about how to design a system for long-term organization and storage of subject-specific informational resources without needing ongoing work from the experts who created them, only to realized I'd just reinvented libraries.</p>
+            <p><a href="https://explainxkcd.com/1909/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2697/</guid>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1909/</guid>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
