@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 26 Feb 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Aug 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1335] Now</title>
-      <link>https://xkcd.com/1335/</link>
+      <title>[1722] Debugging</title>
+      <link>https://xkcd.com/1722/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/now.png">
-              <img src="https://imgs.xkcd.com/comics/now.png" alt="This image stays roughly in sync with the day (assuming the Earth continues spinning). Shortcut: xkcd.com/now" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/debugging.png">
+              <img src="https://imgs.xkcd.com/comics/debugging.png" alt="When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword." style="height: auto;" />
             </a>
-            <p>This image stays roughly in sync with the day (assuming the Earth continues spinning). Shortcut: xkcd.com/now</p>
-            <p><a href="https://explainxkcd.com/1335/">Explanation</a></p>
+            <p>When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.</p>
+            <p><a href="https://explainxkcd.com/1722/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1335/</guid>
-      <pubDate>Wed, 26 Feb 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1722/</guid>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
