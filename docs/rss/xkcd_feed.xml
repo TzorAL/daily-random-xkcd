@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2010 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3077] de Sitter</title>
-      <link>https://xkcd.com/3077/</link>
+      <title>[805] Paradise City</title>
+      <link>https://xkcd.com/805/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/de_sitter.png">
-              <img src="https://imgs.xkcd.com/comics/de_sitter.png" alt="Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/paradise_city.png">
+              <img src="https://imgs.xkcd.com/comics/paradise_city.png" alt="Take me down to the paradise municipality / where the grass is mauve and the girls aren't fromthisreality." style="height: auto;" />
             </a>
-            <p>Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.</p>
-            <p><a href="https://explainxkcd.com/3077/">Explanation</a></p>
+            <p>Take me down to the paradise municipality / where the grass is mauve and the girls aren't fromthisreality.</p>
+            <p><a href="https://explainxkcd.com/805/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3077/</guid>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/805/</guid>
+      <pubDate>Wed, 13 Oct 2010 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
