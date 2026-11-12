@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 09 May 2014 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1366] Train</title>
-      <link>https://xkcd.com/1366/</link>
+      <title>[2330] Acceptable Risk</title>
+      <link>https://xkcd.com/2330/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/train.png">
-              <img src="https://imgs.xkcd.com/comics/train.png" alt="Trains rotate the Earth around various axes while elevators shift its position in space." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/acceptable_risk.png">
+              <img src="https://imgs.xkcd.com/comics/acceptable_risk.png" alt="Good thing I'm not already prone to overthinking everyday decisions!" style="height: auto;" />
             </a>
-            <p>Trains rotate the Earth around various axes while elevators shift its position in space.</p>
-            <p><a href="https://explainxkcd.com/1366/">Explanation</a></p>
+            <p>Good thing I'm not already prone to overthinking everyday decisions!</p>
+            <p><a href="https://explainxkcd.com/2330/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1366/</guid>
-      <pubDate>Fri, 09 May 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2330/</guid>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
