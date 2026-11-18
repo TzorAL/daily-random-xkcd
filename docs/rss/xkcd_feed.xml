@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Mar 2016 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2640] The Universe by Scientific Field</title>
-      <link>https://xkcd.com/2640/</link>
+      <title>[1652] Conditionals</title>
+      <link>https://xkcd.com/1652/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/the_universe_by_scientific_field.png">
-              <img src="https://imgs.xkcd.com/comics/the_universe_by_scientific_field.png" alt="The math and philosophy people also claim everything, but the astronomers argue that the stuff they study really only comprises a small number of paper surfaces." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/conditionals.png">
+              <img src="https://imgs.xkcd.com/comics/conditionals.png" alt="'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'" style="height: auto;" />
             </a>
-            <p>The math and philosophy people also claim everything, but the astronomers argue that the stuff they study really only comprises a small number of paper surfaces.</p>
-            <p><a href="https://explainxkcd.com/2640/">Explanation</a></p>
+            <p>'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'</p>
+            <p><a href="https://explainxkcd.com/1652/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2640/</guid>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/1652/</guid>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
