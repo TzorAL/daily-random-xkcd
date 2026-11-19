@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Mon, 07 Mar 2016 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1652] Conditionals</title>
-      <link>https://xkcd.com/1652/</link>
+      <title>[2510] Modern Tools</title>
+      <link>https://xkcd.com/2510/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/conditionals.png">
-              <img src="https://imgs.xkcd.com/comics/conditionals.png" alt="'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'" style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/modern_tools.png">
+              <img src="https://imgs.xkcd.com/comics/modern_tools.png" alt="I tried to train an AI to repair my Python environment but it kept giving up and deleting itself." style="height: auto;" />
             </a>
-            <p>'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'</p>
-            <p><a href="https://explainxkcd.com/1652/">Explanation</a></p>
+            <p>I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.</p>
+            <p><a href="https://explainxkcd.com/2510/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1652/</guid>
-      <pubDate>Mon, 07 Mar 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2510/</guid>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
