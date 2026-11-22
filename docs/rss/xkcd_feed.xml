@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[3287] Perseids</title>
-      <link>https://xkcd.com/3287/</link>
+      <title>[2165] Millennials</title>
+      <link>https://xkcd.com/2165/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/perseids.png">
-              <img src="https://imgs.xkcd.com/comics/perseids.png" alt="Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/millennials.png">
+              <img src="https://imgs.xkcd.com/comics/millennials.png" alt="Ironically, I've been having these same arguments for at least a decade now. I thought we would have moved on by now, but somehow the snide complaints about millennials continue." style="height: auto;" />
             </a>
-            <p>Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.</p>
-            <p><a href="https://explainxkcd.com/3287/">Explanation</a></p>
+            <p>Ironically, I've been having these same arguments for at least a decade now. I thought we would have moved on by now, but somehow the snide complaints about millennials continue.</p>
+            <p><a href="https://explainxkcd.com/2165/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/3287/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2165/</guid>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
