@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 11 Sep 2013 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[1263] Reassuring</title>
-      <link>https://xkcd.com/1263/</link>
+      <title>[3043] Muons</title>
+      <link>https://xkcd.com/3043/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/reassuring.png">
-              <img src="https://imgs.xkcd.com/comics/reassuring.png" alt="'At least humans are better at quietly amusing ourselves, oblivious to our pending obsolescence' thought the human, as a nearby Dell Inspiron contentedly displayed the same bouncing geometric shape screensaver it had been running for years." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/muons.png">
+              <img src="https://imgs.xkcd.com/comics/muons.png" alt="Update: I've been banned from the physics department for the way I pronounce "Doppler effect."" style="height: auto;" />
             </a>
-            <p>'At least humans are better at quietly amusing ourselves, oblivious to our pending obsolescence' thought the human, as a nearby Dell Inspiron contentedly displayed the same bouncing geometric shape screensaver it had been running for years.</p>
-            <p><a href="https://explainxkcd.com/1263/">Explanation</a></p>
+            <p>Update: I've been banned from the physics department for the way I pronounce "Doppler effect."</p>
+            <p><a href="https://explainxkcd.com/3043/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/1263/</guid>
-      <pubDate>Wed, 11 Sep 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/3043/</guid>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
