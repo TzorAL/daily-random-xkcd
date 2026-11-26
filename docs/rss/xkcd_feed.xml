@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2008 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[2327] Oily House Index</title>
-      <link>https://xkcd.com/2327/</link>
+      <title>[453] Upcoming Hurricanes</title>
+      <link>https://xkcd.com/453/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/oily_house_index.png">
-              <img src="https://imgs.xkcd.com/comics/oily_house_index.png" alt="We're underwater on our mortgage thanks to the low price of water." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/upcoming_hurricanes.png">
+              <img src="https://imgs.xkcd.com/comics/upcoming_hurricanes.png" alt="I'd like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It's just a matter of time." style="height: auto;" />
             </a>
-            <p>We're underwater on our mortgage thanks to the low price of water.</p>
-            <p><a href="https://explainxkcd.com/2327/">Explanation</a></p>
+            <p>I'd like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It's just a matter of time.</p>
+            <p><a href="https://explainxkcd.com/453/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/2327/</guid>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/453/</guid>
+      <pubDate>Wed, 23 Jul 2008 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
