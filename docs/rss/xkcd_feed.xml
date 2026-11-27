@@ -6,24 +6,24 @@
     <description>A feed of random xkcd comics.</description>
     <language>en-us</language>
     <copyright>xkcd.com</copyright>
-    <lastBuildDate>Wed, 23 Jul 2008 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://tzoral.github.io/daily-random-xkcd/docs/rss/xkcd_feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[453] Upcoming Hurricanes</title>
-      <link>https://xkcd.com/453/</link>
+      <title>[2951] Bad Map Projection: Exterior Kansas</title>
+      <link>https://xkcd.com/2951/</link>
       <description>
         <![CDATA[
           <div>
-            <a href="https://imgs.xkcd.com/comics/upcoming_hurricanes.png">
-              <img src="https://imgs.xkcd.com/comics/upcoming_hurricanes.png" alt="I'd like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It's just a matter of time." style="height: auto;" />
+            <a href="https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png">
+              <img src="https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png" alt="Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge." style="height: auto;" />
             </a>
-            <p>I'd like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It's just a matter of time.</p>
-            <p><a href="https://explainxkcd.com/453/">Explanation</a></p>
+            <p>Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge.</p>
+            <p><a href="https://explainxkcd.com/2951/">Explanation</a></p>
           </div>
         ]]>
       </description>
-      <guid isPermaLink="true">https://xkcd.com/453/</guid>
-      <pubDate>Wed, 23 Jul 2008 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://xkcd.com/2951/</guid>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
